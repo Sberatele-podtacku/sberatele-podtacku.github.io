@@ -5266,5 +5266,125 @@
     "description": "Pocernak",
     "country": "Czechia",
     "letter": "P"
+  },
+  {
+    "id": "00879",
+    "description": "Bad Flash",
+    "country": "Czechia",
+    "letter": "B"
+  },
+  {
+    "id": "00880",
+    "description": "Bad Flash",
+    "country": "Czechia",
+    "letter": "B"
+  },
+  {
+    "id": "00881",
+    "description": "Bad Flash",
+    "country": "Czechia",
+    "letter": "B"
+  },
+  {
+    "id": "00882",
+    "description": "Bad Flash",
+    "country": "Czechia",
+    "letter": "B"
+  },
+  {
+    "id": "00883",
+    "description": "Bad Flash",
+    "country": "Czechia",
+    "letter": "B"
+  },
+  {
+    "id": "00884",
+    "description": "Lupia",
+    "country": "Spain",
+    "letter": "L"
+  },
+  {
+    "id": "00885",
+    "description": "Heteroclito",
+    "country": "Greece",
+    "letter": "H"
+  },
+  {
+    "id": "00886",
+    "description": "La Hechicera",
+    "country": "Greece",
+    "letter": "L"
+  },
+  {
+    "id": "00887",
+    "description": "Erdinger",
+    "country": "Germany",
+    "letter": "E"
+  },
+  {
+    "id": "00888",
+    "description": "Ottakringer",
+    "country": "Austria",
+    "letter": "O"
+  },
+  {
+    "id": "00889",
+    "description": "Porter",
+    "country": "Czechia",
+    "letter": "P"
+  },
+  {
+    "id": "00890",
+    "description": "Groove Bar",
+    "country": "Czechia",
+    "letter": "G"
+  },
+  {
+    "id": "00891",
+    "description": "Together",
+    "country": "Czechia",
+    "letter": "T"
+  },
+  {
+    "id": "00892",
+    "description": "Mustang",
+    "country": "Czechia",
+    "letter": "M"
+  },
+  {
+    "id": "00893",
+    "description": "Barnie",
+    "country": "Czechia",
+    "letter": "B"
+  },
+  {
+    "id": "00894",
+    "description": "Kasteel",
+    "country": "Belgium",
+    "letter": "K"
+  },
+  {
+    "id": "00895",
+    "description": "Andelsky",
+    "country": "Czechia",
+    "letter": "A"
+  },
+  {
+    "id": "00896",
+    "description": "Super Bock",
+    "country": "Portugal",
+    "letter": "S"
+  },
+  {
+    "id": "00897",
+    "description": "Gambrinus",
+    "country": "Czechia",
+    "letter": "G"
+  },
+  {
+    "id": "00898",
+    "description": "Castello",
+    "country": "Portugal",
+    "letter": "C"
   }
 ]
