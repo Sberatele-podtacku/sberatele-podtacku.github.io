@@ -70,6 +70,33 @@
       box-shadow:0 1px 3px rgba(0,0,0,.08);
     }
 
+    /* --- Map stats panel (Top countries) --- */
+    .map-stats {
+      position: absolute;
+      right: 12px;
+      top: 12px;
+      width: 300px;
+      max-height: calc(100% - 24px);
+      overflow: auto;
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,.08);
+      font-size: 12px;
+    }
+    .map-stats .hdr {
+      position: sticky; top: 0;
+      display:flex; align-items:center; justify-content:space-between;
+      padding: 8px 10px; background:#fff; border-bottom:1px solid #eee; font-weight:600;
+    }
+    .map-stats table { width: 100%; border-collapse: collapse; }
+    .map-stats th, .map-stats td { padding: 6px 8px; border-bottom: 1px solid #eee; }
+    .map-stats th:last-child, .map-stats td:last-child { text-align: right; }
+    .map-stats .csv-btn {
+      font-size: 12px; padding: 4px 8px; border-radius: 6px;
+      border: 1px solid #ccc; background: #f7f7f7; cursor: pointer;
+    }
+
     footer { text-align: center; padding: 1rem; font-size: 0.8rem; color: #666; background: #fff; }
   </style>
 </head>
@@ -429,6 +456,75 @@
             return div;
           };
           legend.addTo(mapInstance);
+
+          /* --- Top countries panel + CSV (TOP 10) --- */
+          const wrap = document.querySelector('#mapModal .wrap');
+
+          // index GeoJSON names so we can display nice names for alias keys
+          const featureIndex = {};
+          geo.features.forEach(f => {
+            const nm = featureName(f.properties);
+            featureIndex[countryKey(nm)] = nm;
+          });
+
+          // all rows (full list), sorted by count desc
+          const allRows = Object.entries(counts)
+            .map(([key, n]) => ({
+              name: featureIndex[key] || titleCase(key),
+              count: n
+            }))
+            .sort((a,b) => b.count - a.count);
+
+          const TOP = 10;
+          const topRows = allRows.slice(0, TOP);
+
+          const statsDiv = document.createElement('div');
+          statsDiv.className = 'map-stats';
+          statsDiv.innerHTML = `
+            <div class="hdr">
+              <span>Top countries</span>
+              <button class="csv-btn" id="dlCsvBtn" title="Download full country counts as CSV">CSV</button>
+            </div>
+            <table>
+              <thead><tr><th>Country</th><th>Count</th></tr></thead>
+              <tbody>
+                ${topRows.map(r => `<tr><td>${escapeHtml(r.name)}</td><td>${r.count}</td></tr>`).join('')}
+              </tbody>
+            </table>
+            <div style="padding:8px 10px; font-size:11px; color:#666;">
+              Showing top ${Math.min(TOP, allRows.length)} of ${allRows.length} countries with coasters.
+            </div>
+          `;
+          wrap.appendChild(statsDiv);
+
+          // CSV download (full list, not just top)
+          document.getElementById('dlCsvBtn').addEventListener('click', () => {
+            const csv = buildCSV(allRows);
+            downloadCSV('coasters_by_country.csv', csv);
+          });
+
+          // helpers specific to stats panel
+          function titleCase(s){
+            return String(s).replace(/\b\w/g, c => c.toUpperCase());
+          }
+          function escapeHtml(str){
+            return String(str).replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+          }
+          function buildCSV(rows){
+            const header = 'country,count';
+            const lines = rows.map(r => `"${String(r.name).replace(/"/g,'""')}",${r.count}`);
+            return [header, ...lines].join('\n');
+          }
+          function downloadCSV(filename, text){
+            const blob = new Blob([text], {type:'text/csv;charset=utf-8;'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url; a.download = filename; a.style.display = 'none';
+            document.body.appendChild(a); a.click();
+            a.remove(); URL.revokeObjectURL(url);
+          }
+          /* --- end Top countries panel --- */
+
         })
         .catch(err => {
           console.error('Failed to load world.geo.json', err);
