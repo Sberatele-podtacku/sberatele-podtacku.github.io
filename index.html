@@ -248,46 +248,55 @@
 const wpBtn = document.getElementById('wpBtn');
 wpBtn.addEventListener('click', async () => {
   if (!metadata || metadata.length === 0) return alert('Metadata not loaded yet.');
-  const win = window.open('', '_blank');               // open immediately (user gesture)
+  const win = window.open('', '_blank'); // open immediately (user gesture)
   if (!win) return alert('Please allow pop-ups for this site.');
 
-  // Optional: show a message while generating
-  win.document.write('<!doctype html><title>Generating…</title><body style="font-family:sans-serif;padding:1rem;">Generating wallpaper…</body>');
+  win.document.write('<!doctype html><title>Generating…</title><body style="font-family:sans-serif;padding:1rem;background:#111;color:#eee;">Generating wallpaper…</body>');
 
   wpBtn.disabled = true;
   const prevLabel = wpBtn.textContent;
   wpBtn.textContent = 'Generating…';
 
   try {
-  const cols = 10, rows = 6;
-const W = 1920, H = 1080;
-const cellW = Math.floor(W / cols), cellH = Math.floor(H / rows);
-const pad = 0; // no spacing
+    const cols = 10, rows = 6;
+    const W = 1920, H = 1080;
+    const cellW = Math.floor(W / cols), cellH = Math.floor(H / rows);
+    const pad = 0; // no spacing
 
-// draw to canvas
-const canvas = document.createElement('canvas');
-canvas.width = W; canvas.height = H;
-const ctx = canvas.getContext('2d');
-ctx.fillStyle = '#000000'; // black background
-ctx.fillRect(0, 0, W, H);
+    // 1) pick 60 unique random coasters
+    const ids = metadata.map(m => m.id);
+    shuffleInPlace(ids);
+    const pick = ids.slice(0, cols * rows);
 
-imgs.forEach((im, i) => {
-  const c = i % cols, r = Math.floor(i / cols);
-  const x = c * cellW, y = r * cellH;
+    // 2) preload images (thumbs for speed)
+    const imgs = await Promise.all(
+      pick.map(id => loadImage(`images/thumbs/${id}_front.webp`))
+    );
 
-  // fit image exactly into the cell (no padding)
-  const scale = Math.min(cellW / im.width, cellH / im.height);
-  const dw = Math.round(im.width * scale);
-  const dh = Math.round(im.height * scale);
-  const dx = x + Math.round((cellW - dw) / 2);
-  const dy = y + Math.round((cellH - dh) / 2);
+    // 3) draw to canvas
+    const canvas = document.createElement('canvas');
+    canvas.width = W; canvas.height = H;
+    const ctx = canvas.getContext('2d');
+    ctx.fillStyle = '#000000'; // black background
+    ctx.fillRect(0, 0, W, H);
 
-  ctx.drawImage(im, dx, dy, dw, dh);
-});
+    imgs.forEach((im, i) => {
+      const c = i % cols, r = Math.floor(i / cols);
+      const x = c * cellW, y = r * cellH;
+
+      // fit image into the cell, keep aspect ratio, no inner gap
+      const maxW = cellW - pad * 2;
+      const maxH = cellH - pad * 2;
+      const scale = Math.min(maxW / im.width, maxH / im.height);
+      const dw = Math.round(im.width * scale);
+      const dh = Math.round(im.height * scale);
+      const dx = x + Math.round((cellW - dw) / 2);
+      const dy = y + Math.round((cellH - dh) / 2);
+
+      ctx.drawImage(im, dx, dy, dw, dh);
+    });
 
     const dataUrl = canvas.toDataURL('image/jpeg', 0.92);
-
-    // write the image into the already-opened tab
     win.document.body.innerHTML = `<img src="${dataUrl}" alt="Beer coaster wallpaper" style="display:block;max-width:100%;height:auto">`;
     win.document.title = 'Beer Coaster Wallpaper 1920×1080';
   } catch (e) {
