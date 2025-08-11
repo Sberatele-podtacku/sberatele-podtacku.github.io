@@ -259,40 +259,31 @@ wpBtn.addEventListener('click', async () => {
   wpBtn.textContent = 'Generating…';
 
   try {
-    const cols = 10, rows = 6;
-    const W = 1920, H = 1080;
-    const cellW = Math.floor(W / cols), cellH = Math.floor(H / rows);
-    const pad = 6;
+  const cols = 10, rows = 6;
+const W = 1920, H = 1080;
+const cellW = Math.floor(W / cols), cellH = Math.floor(H / rows);
+const pad = 0; // no spacing
 
-    // pick 60 unique random coasters
-    const ids = metadata.map(m => m.id);
-    shuffleInPlace(ids);
-    const pick = ids.slice(0, cols * rows);
+// draw to canvas
+const canvas = document.createElement('canvas');
+canvas.width = W; canvas.height = H;
+const ctx = canvas.getContext('2d');
+ctx.fillStyle = '#000000'; // black background
+ctx.fillRect(0, 0, W, H);
 
-    // preload thumbnails
-    const imgs = await Promise.all(pick.map(id => loadImage(`images/thumbs/${id}_front.webp`)));
+imgs.forEach((im, i) => {
+  const c = i % cols, r = Math.floor(i / cols);
+  const x = c * cellW, y = r * cellH;
 
-    // draw to canvas
-    const canvas = document.createElement('canvas');
-    canvas.width = W; canvas.height = H;
-    const ctx = canvas.getContext('2d');
-    ctx.fillStyle = '#ffffff';
-    ctx.fillRect(0, 0, W, H);
+  // fit image exactly into the cell (no padding)
+  const scale = Math.min(cellW / im.width, cellH / im.height);
+  const dw = Math.round(im.width * scale);
+  const dh = Math.round(im.height * scale);
+  const dx = x + Math.round((cellW - dw) / 2);
+  const dy = y + Math.round((cellH - dh) / 2);
 
-    imgs.forEach((im, i) => {
-      const c = i % cols, r = Math.floor(i / cols);
-      const x = c * cellW, y = r * cellH;
-
-      const maxW = cellW - pad * 2;
-      const maxH = cellH - pad * 2;
-      const scale = Math.min(maxW / im.width, maxH / im.height);
-      const dw = Math.round(im.width * scale);
-      const dh = Math.round(im.height * scale);
-      const dx = x + Math.round((cellW - dw) / 2);
-      const dy = y + Math.round((cellH - dh) / 2);
-
-      ctx.drawImage(im, dx, dy, dw, dh);
-    });
+  ctx.drawImage(im, dx, dy, dw, dh);
+});
 
     const dataUrl = canvas.toDataURL('image/jpeg', 0.92);
 
