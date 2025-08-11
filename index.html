@@ -244,91 +244,88 @@
     });
     document.getElementById('lightboxImg').addEventListener('click', () => document.getElementById('flipBtn').click());
 
-    // === Random Wallpaper (10x6 grid) ===
-    const wpBtn = document.getElementById('wpBtn');
-    wpBtn.addEventListener('click', async () => {
-      if (!metadata || metadata.length === 0) return alert('Metadata not loaded yet.');
-      wpBtn.disabled = true;
-      const prevLabel = wpBtn.textContent;
-      wpBtn.textContent = 'Generating…';
+// === Random Wallpaper (10x6 grid) ===
+const wpBtn = document.getElementById('wpBtn');
+wpBtn.addEventListener('click', async () => {
+  if (!metadata || metadata.length === 0) return alert('Metadata not loaded yet.');
+  const win = window.open('', '_blank');               // open immediately (user gesture)
+  if (!win) return alert('Please allow pop-ups for this site.');
 
-      try {
-        const cols = 10, rows = 6;
-        const W = 1920, H = 1080;
-        const cellW = Math.floor(W / cols), cellH = Math.floor(H / rows);
-        const pad = 6; // inner padding in each cell
+  // Optional: show a message while generating
+  win.document.write('<!doctype html><title>Generating…</title><body style="font-family:sans-serif;padding:1rem;">Generating wallpaper…</body>');
 
-        // pick 60 unique random coasters
-        const ids = metadata.map(m => m.id);
-        shuffleInPlace(ids);
-        const pick = ids.slice(0, cols * rows);
+  wpBtn.disabled = true;
+  const prevLabel = wpBtn.textContent;
+  wpBtn.textContent = 'Generating…';
 
-        // preload thumbnails (fast & fits cell size well)
-        const imgs = await Promise.all(pick.map(id => loadImage(`images/thumbs/${id}_front.webp`)));
+  try {
+    const cols = 10, rows = 6;
+    const W = 1920, H = 1080;
+    const cellW = Math.floor(W / cols), cellH = Math.floor(H / rows);
+    const pad = 6;
 
-        // draw to canvas
-        const canvas = document.createElement('canvas');
-        canvas.width = W; canvas.height = H;
-        const ctx = canvas.getContext('2d');
-        ctx.fillStyle = '#ffffff';
-        ctx.fillRect(0, 0, W, H);
+    // pick 60 unique random coasters
+    const ids = metadata.map(m => m.id);
+    shuffleInPlace(ids);
+    const pick = ids.slice(0, cols * rows);
 
-        imgs.forEach((im, i) => {
-          const c = i % cols, r = Math.floor(i / cols);
-          const x = c * cellW, y = r * cellH;
+    // preload thumbnails
+    const imgs = await Promise.all(pick.map(id => loadImage(`images/thumbs/${id}_front.webp`)));
 
-          const maxW = cellW - pad * 2;
-          const maxH = cellH - pad * 2;
-          const scale = Math.min(maxW / im.width, maxH / im.height);
-          const dw = Math.round(im.width * scale);
-          const dh = Math.round(im.height * scale);
-          const dx = x + Math.round((cellW - dw) / 2);
-          const dy = y + Math.round((cellH - dh) / 2);
+    // draw to canvas
+    const canvas = document.createElement('canvas');
+    canvas.width = W; canvas.height = H;
+    const ctx = canvas.getContext('2d');
+    ctx.fillStyle = '#ffffff';
+    ctx.fillRect(0, 0, W, H);
 
-          // optional soft shadow
-          // ctx.shadowColor = 'rgba(0,0,0,0.12)';
-          // ctx.shadowBlur = 6; ctx.shadowOffsetY = 2;
+    imgs.forEach((im, i) => {
+      const c = i % cols, r = Math.floor(i / cols);
+      const x = c * cellW, y = r * cellH;
 
-          ctx.drawImage(im, dx, dy, dw, dh);
+      const maxW = cellW - pad * 2;
+      const maxH = cellH - pad * 2;
+      const scale = Math.min(maxW / im.width, maxH / im.height);
+      const dw = Math.round(im.width * scale);
+      const dh = Math.round(im.height * scale);
+      const dx = x + Math.round((cellW - dw) / 2);
+      const dy = y + Math.round((cellH - dh) / 2);
 
-          // reset shadow if used
-          // ctx.shadowColor = 'transparent';
-        });
-
-        const dataUrl = canvas.toDataURL('image/jpeg', 0.92);
-        window.open(dataUrl, '_blank');
-      } catch (e) {
-        console.error(e);
-        alert('Failed to generate wallpaper. Check console for details.');
-      } finally {
-        wpBtn.disabled = false;
-        wpBtn.textContent = prevLabel;
-      }
+      ctx.drawImage(im, dx, dy, dw, dh);
     });
 
-    function shuffleInPlace(arr) {
-      for (let i = arr.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [arr[i], arr[j]] = [arr[j], arr[i]];
-      }
-      return arr;
-    }
-    function loadImage(src) {
-      return new Promise((resolve, reject) => {
-        const im = new Image();
-        im.onload = () => resolve(im);
-        im.onerror = reject;
-        im.src = src;
-      });
-    }
+    const dataUrl = canvas.toDataURL('image/jpeg', 0.92);
 
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js')
-          .then(reg => console.log('SW registered:', reg.scope))
-          .catch(err => console.error('SW failed:', err));
-      });
-    }
+    // write the image into the already-opened tab
+    win.document.body.innerHTML = `<img src="${dataUrl}" alt="Beer coaster wallpaper" style="display:block;max-width:100%;height:auto">`;
+    win.document.title = 'Beer Coaster Wallpaper 1920×1080';
+  } catch (e) {
+    console.error(e);
+    win.document.body.textContent = 'Failed to generate wallpaper. Check the console (F12).';
+  } finally {
+    wpBtn.disabled = false;
+    wpBtn.textContent = prevLabel;
+  }
+});
+
+function shuffleInPlace(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function loadImage(src) {
+  return new Promise((resolve, reject) => {
+    const im = new Image();
+    // im.crossOrigin = 'anonymous'; // usually not needed on same-origin GitHub Pages
+    im.onload = () => resolve(im);
+    im.onerror = reject;
+    im.src = src;
+  });
+}
+
   </script>
 
   <!-- README Modal -->
