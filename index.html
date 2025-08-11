@@ -4,6 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Beer Coaster Gallery</title>
+
+  <!-- Leaflet (for the map modal) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
     body { font-family: 'Open Sans', sans-serif; margin: 0; padding: 0; background: #f8f8f8; }
@@ -53,6 +58,18 @@
       border-radius: 4px; font-size: 0.9rem;
     }
 
+    /* Map modal + legend */
+    #mapModal { display:none; position:fixed; inset:0; background:rgba(0,0,0,0.85); z-index:9999; align-items:center; justify-content:center; }
+    #mapModal .wrap { position:relative; width:min(1000px,92vw); height:min(650px,80vh); background:#fff; border-radius:10px; overflow:hidden; }
+    #map { height:100%; }
+    #mapClose { position:absolute; right:8px; top:8px; z-index:2; background:#fff; border:1px solid #ddd; border-radius:6px; padding:0.25rem 0.5rem; cursor:pointer; }
+
+    .leaflet-container { font: 12px/1.2 "Open Sans", sans-serif; }
+    .map-legend {
+      background:#fff; border:1px solid #ddd; border-radius:8px; padding:0.5rem 0.6rem;
+      box-shadow:0 1px 3px rgba(0,0,0,.08);
+    }
+
     footer { text-align: center; padding: 1rem; font-size: 0.8rem; color: #666; background: #fff; }
   </style>
 </head>
@@ -72,11 +89,12 @@
            style="padding: 0.5rem; width: 80%; max-width: 400px; font-size: 1rem; border-radius: 6px; border: 1px solid #ccc;" />
   </div>
 
-  <!-- Wallpaper generator controls -->
+  <!-- Controls -->
   <div class="wpbar">
     <button id="wpBtn" class="wpbtn" title="Creates a 1920×1080 image with a 10×6 grid of random coasters and opens it in a new tab">
       🎲 Random 1920×1080 wallpaper (10×6)
     </button>
+    <button id="mapBtn" class="wpbtn" title="Show countries with coasters">🗺️ Map</button>
     <span id="wpHint" style="font-size:0.9rem; color:#555;">Opens the generated image in a new tab.</span>
   </div>
 </header>
@@ -107,6 +125,14 @@
   </div>
 
   <footer>Done with the support of ChatGPT</footer>
+
+  <!-- Map modal -->
+  <div id="mapModal">
+    <div class="wrap">
+      <button id="mapClose">✕</button>
+      <div id="map"></div>
+    </div>
+  </div>
 
   <script>
     let metadata = [];
@@ -244,88 +270,220 @@
     });
     document.getElementById('lightboxImg').addEventListener('click', () => document.getElementById('flipBtn').click());
 
-// === Random Wallpaper (10x6 grid) ===
-const wpBtn = document.getElementById('wpBtn');
-wpBtn.addEventListener('click', async () => {
-  if (!metadata || metadata.length === 0) return alert('Metadata not loaded yet.');
-  const win = window.open('', '_blank'); // open immediately (user gesture)
-  if (!win) return alert('Please allow pop-ups for this site.');
+    // === Random Wallpaper (10x6 grid) ===
+    const wpBtn = document.getElementById('wpBtn');
+    wpBtn.addEventListener('click', async () => {
+      if (!metadata || metadata.length === 0) return alert('Metadata not loaded yet.');
+      const win = window.open('', '_blank'); // open immediately (user gesture)
+      if (!win) return alert('Please allow pop-ups for this site.');
 
-  win.document.write('<!doctype html><title>Generating…</title><body style="font-family:sans-serif;padding:1rem;background:#111;color:#eee;">Generating wallpaper…</body>');
+      win.document.write('<!doctype html><title>Generating…</title><body style="font-family:sans-serif;padding:1rem;background:#111;color:#eee;">Generating wallpaper…</body>');
 
-  wpBtn.disabled = true;
-  const prevLabel = wpBtn.textContent;
-  wpBtn.textContent = 'Generating…';
+      wpBtn.disabled = true;
+      const prevLabel = wpBtn.textContent;
+      wpBtn.textContent = 'Generating…';
 
-  try {
-    const cols = 10, rows = 6;
-    const W = 1920, H = 1080;
-    const cellW = Math.floor(W / cols), cellH = Math.floor(H / rows);
-    const pad = 0; // no spacing
+      try {
+        const cols = 10, rows = 6;
+        const W = 1920, H = 1080;
+        const cellW = Math.floor(W / cols), cellH = Math.floor(H / rows);
+        const pad = 0; // no spacing
 
-    // 1) pick 60 unique random coasters
-    const ids = metadata.map(m => m.id);
-    shuffleInPlace(ids);
-    const pick = ids.slice(0, cols * rows);
+        // 1) pick 60 unique random coasters
+        const ids = metadata.map(m => m.id);
+        shuffleInPlace(ids);
+        const pick = ids.slice(0, cols * rows);
 
-    // 2) preload images (thumbs for speed)
-    const imgs = await Promise.all(
-      pick.map(id => loadImage(`images/thumbs/${id}_front.webp`))
-    );
+        // 2) preload images (thumbs for speed)
+        const imgs = await Promise.all(
+          pick.map(id => loadImage(`images/thumbs/${id}_front.webp`))
+        );
 
-    // 3) draw to canvas
-    const canvas = document.createElement('canvas');
-    canvas.width = W; canvas.height = H;
-    const ctx = canvas.getContext('2d');
-    ctx.fillStyle = '#000000'; // black background
-    ctx.fillRect(0, 0, W, H);
+        // 3) draw to canvas
+        const canvas = document.createElement('canvas');
+        canvas.width = W; canvas.height = H;
+        const ctx = canvas.getContext('2d');
+        ctx.fillStyle = '#000000'; // black background
+        ctx.fillRect(0, 0, W, H);
 
-    imgs.forEach((im, i) => {
-      const c = i % cols, r = Math.floor(i / cols);
-      const x = c * cellW, y = r * cellH;
+        imgs.forEach((im, i) => {
+          const c = i % cols, r = Math.floor(i / cols);
+          const x = c * cellW, y = r * cellH;
 
-      // fit image into the cell, keep aspect ratio, no inner gap
-      const maxW = cellW - pad * 2;
-      const maxH = cellH - pad * 2;
-      const scale = Math.min(maxW / im.width, maxH / im.height);
-      const dw = Math.round(im.width * scale);
-      const dh = Math.round(im.height * scale);
-      const dx = x + Math.round((cellW - dw) / 2);
-      const dy = y + Math.round((cellH - dh) / 2);
+          // fit image into the cell, keep aspect ratio, no inner gap
+          const maxW = cellW - pad * 2;
+          const maxH = cellH - pad * 2;
+          const scale = Math.min(maxW / im.width, maxH / im.height);
+          const dw = Math.round(im.width * scale);
+          const dh = Math.round(im.height * scale);
+          const dx = x + Math.round((cellW - dw) / 2);
+          const dy = y + Math.round((cellH - dh) / 2);
 
-      ctx.drawImage(im, dx, dy, dw, dh);
+          ctx.drawImage(im, dx, dy, dw, dh);
+        });
+
+        const dataUrl = canvas.toDataURL('image/jpeg', 0.92);
+        win.document.body.innerHTML = `<img src="${dataUrl}" alt="Beer coaster wallpaper" style="display:block;max-width:100%;height:auto">`;
+        win.document.title = 'Beer Coaster Wallpaper 1920×1080';
+      } catch (e) {
+        console.error(e);
+        win.document.body.textContent = 'Failed to generate wallpaper. Check the console (F12).';
+      } finally {
+        wpBtn.disabled = false;
+        wpBtn.textContent = prevLabel;
+      }
     });
 
-    const dataUrl = canvas.toDataURL('image/jpeg', 0.92);
-    win.document.body.innerHTML = `<img src="${dataUrl}" alt="Beer coaster wallpaper" style="display:block;max-width:100%;height:auto">`;
-    win.document.title = 'Beer Coaster Wallpaper 1920×1080';
-  } catch (e) {
-    console.error(e);
-    win.document.body.textContent = 'Failed to generate wallpaper. Check the console (F12).';
-  } finally {
-    wpBtn.disabled = false;
-    wpBtn.textContent = prevLabel;
-  }
-});
+    function shuffleInPlace(arr) {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    }
 
-function shuffleInPlace(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
+    function loadImage(src) {
+      return new Promise((resolve, reject) => {
+        const im = new Image();
+        im.onload = () => resolve(im);
+        im.onerror = reject;
+        im.src = src;
+      });
+    }
 
-function loadImage(src) {
-  return new Promise((resolve, reject) => {
-    const im = new Image();
-    // im.crossOrigin = 'anonymous'; // usually not needed on same-origin GitHub Pages
-    im.onload = () => resolve(im);
-    im.onerror = reject;
-    im.src = src;
-  });
-}
+    // === MAP: countries with coaster counts ===
+    let mapInstance = null, mapLayer = null;
 
+    document.getElementById('mapBtn').addEventListener('click', () => {
+      const modal = document.getElementById('mapModal');
+      modal.style.display = 'flex';
+      if (!mapInstance) initCoasterMap();
+      setTimeout(() => mapInstance && mapInstance.invalidateSize(), 150);
+    });
+    document.getElementById('mapClose').addEventListener('click', () => {
+      document.getElementById('mapModal').style.display = 'none';
+    });
+
+    function initCoasterMap() {
+      if (!metadata || !metadata.length) {
+        alert('Metadata not loaded yet.');
+        return;
+      }
+
+      // Build counts by normalized country from your metadata
+      const counts = {};
+      (metadata || []).forEach(m => {
+        const c = (m.country || '').trim();
+        if (!c) return;
+        const key = countryKey(c);
+        counts[key] = (counts[key] || 0) + 1;
+      });
+
+      mapInstance = L.map('map', { worldCopyJump: true, attributionControl: false, zoomSnap: 0.5 });
+
+      fetch('./world.geo.json')
+        .then(r => r.json())
+        .then(geo => {
+          mapLayer = L.geoJSON(geo, {
+            style: f => {
+              const nm  = featureName(f.properties);
+              const key = countryKey(nm);
+              const n   = counts[key] || 0;
+              return {
+                weight: 0.7,
+                color: n ? '#2b7bff' : '#97a0b3',
+                fillColor: n ? '#2b7bff' : '#e8edf6',
+                fillOpacity: n ? 0.8 : 0.35
+              };
+            },
+            onEachFeature: (f, layer) => {
+              const nm  = featureName(f.properties);
+              const key = countryKey(nm);
+              const n   = counts[key] || 0;
+              layer.bindTooltip(n ? `${nm}: ${n}` : nm, { sticky: true });
+            }
+          }).addTo(mapInstance);
+
+          try {
+            mapInstance.fitBounds(mapLayer.getBounds(), { padding: [10,10] });
+          } catch (e) {
+            mapInstance.setView([20, 0], 2);
+          }
+
+          // Legend
+          const totalCountries = Object.keys(counts).length;
+          const totalCoasters  = Object.values(counts).reduce((a,b)=>a+b,0);
+          const legend = L.control({ position: 'bottomleft' });
+          legend.onAdd = () => {
+            const div = L.DomUtil.create('div', 'map-legend');
+            div.innerHTML = `
+              <strong>Coasters by country</strong><br>
+              Countries marked: ${totalCountries}<br>
+              Total coasters tagged: ${totalCoasters}<br>
+              <span style="display:inline-block;width:10px;height:10px;background:#2b7bff;margin-right:6px;vertical-align:middle;"></span>
+              Has coasters
+              &nbsp;&nbsp;
+              <span style="display:inline-block;width:10px;height:10px;background:#e8edf6;border:1px solid #97a0b3;margin-right:6px;vertical-align:middle;"></span>
+              No coasters
+            `;
+            return div;
+          };
+          legend.addTo(mapInstance);
+        })
+        .catch(err => {
+          console.error('Failed to load world.geo.json', err);
+          alert('Map data failed to load. Make sure world.geo.json is in the repo.');
+        });
+    }
+
+    // Robust country name getter (GeoJSON sources vary)
+    function featureName(props) {
+      return props.name || props.NAME || props.ADMIN || props.name_en || props.name_long || props.sovereignt || '';
+    }
+
+    // Normalize + alias mapping so your country labels match the GeoJSON names
+    function countryKey(s) {
+      const n = normalizeCountry(s);
+      const a = countryAliases[n];
+      return a || n;
+    }
+    function normalizeCountry(s) {
+      return s
+        .toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g,'') // remove accents
+        .replace(/[^a-z' ]/g,' ') // keep letters/spaces/apostrophes
+        .replace(/\s+/g,' ')
+        .trim();
+    }
+    const countryAliases = {
+      // US & UK variants
+      'usa':'united states', 'us':'united states', 'united states of america':'united states',
+      'uk':'united kingdom', 'great britain':'united kingdom', 'britain':'united kingdom',
+      'england':'united kingdom', 'scotland':'united kingdom', 'wales':'united kingdom', 'northern ireland':'united kingdom',
+      // Czech variants
+      'czech republic':'czechia', 'cesko':'czechia', 'czech':'czechia',
+      // Common official-name variants
+      'russia':'russian federation',
+      'bolivia':'bolivia plurinational state of',
+      'venezuela':'venezuela bolivarian republic of',
+      'tanzania':'united republic of tanzania',
+      'iran':'iran islamic republic of',
+      'syria':'syrian arab republic',
+      'laos':'lao peoples democratic republic',
+      'moldova':'moldova republic of',
+      "ivory coast":"cote d'ivoire",
+      'dr congo':'democratic republic of the congo',
+      'democratic republic of congo':'democratic republic of the congo',
+      'republic of congo':'congo',
+      'south korea':'korea republic of',
+      'north korea':'korea democratic peoples republic of',
+      'uae':'united arab emirates',
+      'palestine':'palestine state of',
+      'vietnam':'viet nam',
+      'burma':'myanmar',
+      'swaziland':'eswatini',
+      'turkiye':'turkey'
+    };
   </script>
 
   <!-- README Modal -->
