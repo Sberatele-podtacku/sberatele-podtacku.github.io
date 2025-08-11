@@ -5386,5 +5386,53 @@
     "description": "Castello",
     "country": "Portugal",
     "letter": "C"
+  },
+  {
+    "id": "00899",
+    "description": "U Orloje",
+    "country": "Czechia",
+    "letter": "O"
+  },
+  {
+    "id": "00900",
+    "description": "U Orloje",
+    "country": "Czechia",
+    "letter": "O"
+  },
+  {
+    "id": "00901",
+    "description": "Zatec",
+    "country": "Czechia",
+    "letter": "Z"
+  },
+  {
+    "id": "00902",
+    "description": "Chyse",
+    "country": "Czechia",
+    "letter": "C"
+  },
+  {
+    "id": "00903",
+    "description": "Chyse",
+    "country": "Czechia",
+    "letter": "C"
+  },
+  {
+    "id": "00904",
+    "description": "Chyse",
+    "country": "Czechia",
+    "letter": "C"
+  },
+  {
+    "id": "00905",
+    "description": "U Orloje",
+    "country": "Czechia",
+    "letter": "O"
+  },
+  {
+    "id": "00906",
+    "description": "Zatec",
+    "country": "Czechia",
+    "letter": "Z"
   }
 ]
