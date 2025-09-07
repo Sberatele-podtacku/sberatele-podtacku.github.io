@@ -5434,5 +5434,95 @@
     "description": "Zatec",
     "country": "Czechia",
     "letter": "Z"
+  },
+  {
+    "id": "00907",
+    "description": "Holba",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00908",
+    "description": "Radegast",
+    "country": "Czechia",
+    "letter": "R"
+  },
+  {
+    "id": "00909",
+    "description": "Radegast",
+    "country": "Czechia",
+    "letter": "R"
+  },
+  {
+    "id": "00910",
+    "description": "Uneticky",
+    "country": "Czechia",
+    "letter": "U"
+  },
+  {
+    "id": "00911",
+    "description": "Zichovec",
+    "country": "Czechia",
+    "letter": "Z"
+  },
+  {
+    "id": "00912",
+    "description": "Uneticky",
+    "country": "Czechia",
+    "letter": "U"
+  },
+  {
+    "id": "00913",
+    "description": "Gianni Franzi",
+    "country": "Italy",
+    "letter": "G"
+  },
+  {
+    "id": "00914",
+    "description": "Gianni Franzi",
+    "country": "Italy",
+    "letter": "G"
+  },
+  {
+    "id": "00915",
+    "description": "Pavilh?o Chin?s",
+    "country": "Portugal",
+    "letter": "P"
+  },
+  {
+    "id": "00916",
+    "description": "The Dior",
+    "country": "Italy",
+    "letter": "D"
+  },
+  {
+    "id": "00917",
+    "description": "Menabrea",
+    "country": "Italy",
+    "letter": "M"
+  },
+  {
+    "id": "00918",
+    "description": "VZO",
+    "country": "Italy",
+    "letter": "V"
+  },
+  {
+    "id": "00919",
+    "description": "Beer Port",
+    "country": "Slovakia",
+    "letter": "B"
+  },
+  {
+    "id": "00920",
+    "description": "Krusovice",
+    "country": "Slovakia",
+    "letter": "K"
+  },
+  {
+    "id": "00921",
+    "description": "Pilsner Urquell",
+    "country": "Slovakia",
+    "letter": "P"
   }
 ]
