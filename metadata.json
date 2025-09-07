@@ -211,7 +211,7 @@
   },
   {
     "id": "00036",
-    "description": "Mestansky",
+    "description": "Kutna Hora",
     "country": "Czechia",
     "letter": "M"
   },
@@ -1105,7 +1105,7 @@
   },
   {
     "id": "00185",
-    "description": "Mestansky",
+    "description": "Turnov",
     "country": "Czechia",
     "letter": "M"
   },
@@ -3655,13 +3655,13 @@
   },
   {
     "id": "00610",
-    "description": "Mestansky",
+    "description": "Policce",
     "country": "Czechia",
     "letter": "M"
   },
   {
     "id": "00611",
-    "description": "Mestansky",
+    "description": "Klenot",
     "country": "Czechia",
     "letter": "M"
   },
@@ -5391,13 +5391,13 @@
     "id": "00899",
     "description": "U Orloje",
     "country": "Czechia",
-    "letter": "O"
+    "letter": "U"
   },
   {
     "id": "00900",
     "description": "U Orloje",
     "country": "Czechia",
-    "letter": "O"
+    "letter": "U"
   },
   {
     "id": "00901",
@@ -5427,7 +5427,7 @@
     "id": "00905",
     "description": "U Orloje",
     "country": "Czechia",
-    "letter": "O"
+    "letter": "U"
   },
   {
     "id": "00906",

@@ -34,7 +34,7 @@ id,description,country,letter
 00033,Mort Subite,Belgium,M
 00034,Birra Moretti,Italy,B
 00035,Maisel,Germany,M
-00036,Mestansky,Czechia,M
+00036,Kutna Hora,Czechia,M
 00037,Mahou,Spain,M
 00038,Magners,Ireland,M
 00039,Michala Restaurace,Czechia,M
@@ -183,7 +183,7 @@ id,description,country,letter
 00182,Beranuv,Czechia,B
 00183,Erdinger,Germany,E
 00184,Amstel,Greece,A
-00185,Mestansky,Czechia,M
+00185,Turnov,Czechia,M
 00186,Mythos,Greece,M
 00187,Maisel,Germany,M
 00188,Ename,Belgium,E
@@ -608,8 +608,8 @@ id,description,country,letter
 00607,Malastrana,Czechia,M
 00608,Matuska,Czechia,M
 00609,Manifesto,Czechia,M
-00610,Mestansky,Czechia,M
-00611,Mestansky,Czechia,M
+00610,Policce,Czechia,M
+00611,Klenot,Czechia,M
 00612,Mordyr,Czechia,M
 00613,Muflon,Czechia,M
 00614,Never Enough,Czechia,N
