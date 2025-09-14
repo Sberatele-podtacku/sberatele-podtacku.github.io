@@ -5524,5 +5524,173 @@
     "description": "Pilsner Urquell",
     "country": "Slovakia",
     "letter": "P"
+  },
+  {
+    "id": "00922",
+    "description": "Ovipistan",
+    "country": "Czechia",
+    "letter": "O"
+  },
+  {
+    "id": "00923",
+    "description": "Ovipistan",
+    "country": "Czechia",
+    "letter": "O"
+  },
+  {
+    "id": "00924",
+    "description": "Ovipistan",
+    "country": "Czechia",
+    "letter": "O"
+  },
+  {
+    "id": "00925",
+    "description": "Ovipistan",
+    "country": "Czechia",
+    "letter": "O"
+  },
+  {
+    "id": "00926",
+    "description": "Ovipistan",
+    "country": "Czechia",
+    "letter": "O"
+  },
+  {
+    "id": "00927",
+    "description": "Barn",
+    "country": "Czechia",
+    "letter": "B"
+  },
+  {
+    "id": "00928",
+    "description": "U Vojtechu",
+    "country": "Czechia",
+    "letter": "V"
+  },
+  {
+    "id": "00929",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00930",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00931",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00932",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00933",
+    "description": "Clock",
+    "country": "Czechia",
+    "letter": "C"
+  },
+  {
+    "id": "00934",
+    "description": "Opatovicky",
+    "country": "Czechia",
+    "letter": "O"
+  },
+  {
+    "id": "00935",
+    "description": "Lobkowicz",
+    "country": "Czechia",
+    "letter": "L"
+  },
+  {
+    "id": "00936",
+    "description": "Pilsner Urquell",
+    "country": "Czechia",
+    "letter": "P"
+  },
+  {
+    "id": "00937",
+    "description": "Raven",
+    "country": "Czechia",
+    "letter": "R"
+  },
+  {
+    "id": "00938",
+    "description": "Pecky Snezka",
+    "country": "Czechia",
+    "letter": "P"
+  },
+  {
+    "id": "00939",
+    "description": "Antos",
+    "country": "Czechia",
+    "letter": "A"
+  },
+  {
+    "id": "00940",
+    "description": "Loutkar",
+    "country": "Czechia",
+    "letter": "L"
+  },
+  {
+    "id": "00941",
+    "description": "Pecky Snezka",
+    "country": "Czechia",
+    "letter": "P"
+  },
+  {
+    "id": "00942",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00943",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00944",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00945",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00946",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00947",
+    "description": "Klenot",
+    "country": "Czechia",
+    "letter": "K"
+  },
+  {
+    "id": "00948",
+    "description": "Mordyr",
+    "country": "Czechia",
+    "letter": "M"
+  },
+  {
+    "id": "00949",
+    "description": "Pilsner Urquell",
+    "country": "Czechia",
+    "letter": "P"
   }
 ]
