@@ -5692,5 +5692,35 @@
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P"
+  },
+  {
+    "id": "00950",
+    "description": "Hubertus",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00951",
+    "description": "Falkenstejn",
+    "country": "Czechia",
+    "letter": "F"
+  },
+  {
+    "id": "00952",
+    "description": "Hubertus",
+    "country": "Czechia",
+    "letter": "H"
+  },
+  {
+    "id": "00953",
+    "description": "Craft Beer",
+    "country": "Czechia",
+    "letter": "C"
+  },
+  {
+    "id": "00954",
+    "description": "Hostivar",
+    "country": "Czechia",
+    "letter": "H"
   }
 ]
