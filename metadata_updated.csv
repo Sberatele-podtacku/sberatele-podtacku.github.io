@@ -1,955 +1,955 @@
-id,description,country,letter
-00001,Brasileiro,Czechia,B
-00002,Groove Bar,Czechia,G
-00003,Gulpener,Netherlands,G
-00004,Gambrinus,Czechia,G
-00005,Grimbergen,Belgium,G
-00006,Golem,Czechia,G
-00007,Grand Mir,Belgium,G
-00008,Golden Bauch,Brazil,G
-00009,Gefragt,Germany,G
-00010,Gulden Draak,Czechia,G
-00011,Grolsch,Netherlands,G
-00012,Grolsch,Netherlands,G
-00013,Guinness,Ireland,G
-00014,Guinness,Ireland,G
-00015,Guinness,Ireland,G
-00016,Guinness,Ireland,G
-00017,Gebrouwen door Vrouwen,Netherlands,G
-00018,Gambrinus,Czechia,G
-00019,Gambrinus,Czechia,G
-00020,Gambrinus,Czechia,G
-00021,Guinness,Ireland,G
-00022,Guinness,Ireland,G
-00023,Gilded Iguana,Costa Rica,G
-00024,Maisel,Germany,M
-00025,Max Haus,Brazil,M
-00026,Maes,Belgium,M
-00027,Moby Dick,Italy,M
-00028,Monchshof,Germany,M
-00029,Maneblusser,Belgium,M
-00030,Mamlasù,Czechia,M
-00031,McGuires,USA,M
-00032,Mazette,Belgium,M
-00033,Mort Subite,Belgium,M
-00034,Birra Moretti,Italy,B
-00035,Maisel,Germany,M
-00036,Kutna Hora,Czechia,K
-00037,Mahou,Spain,M
-00038,Magners,Ireland,M
-00039,Michala Restaurace,Czechia,M
-00040,Moravia Pivovar,Czechia,M
-00041,Moravsky Zizkov Pivovar,Czechia,M
-00042,M,,M
-00043,Mokum,Netherlands,M
-00044,Krkonossky Medved,Czechia,K
-00045,Mikalido,Germany,M
-00046,Munchner Bier,Germany,M
-00047,Oedipus,Netherlands,O
-00048,Krkonossky Medved,Czechia,K
-00049,Mercuria,Czechia,M
-00050,Beer Experience,Spain,B
-00051,Dorada,Spain,D
-00052,Estrella Galicia,Spain,E
-00053,Cervezas 1906,Spain,C
-00054,Estrella Damm,Spain,E
-00055,Heineken,Netherlands,H
-00056,Tropical,Spain,T
-00057,Alhambra,Spain,A
-00058,Cruzcampo,Spain,C
-00059,Mahou,Spain,M
-00060,Tropical,Spain,T
-00061,Warsteiner,Spain,W
-00062,El Aguila,Spain,E
-00063,Tropical,Spain,T
-00064,Canarias Viva,Spain,C
-00065,Alhambra,Spain,A
-00066,Dorada,Spain,D
-00067,TAJ Rooftop,Spain,T
-00068,Cerveny Jelen,Czechia,C
-00069,Kosice Pivovar,Slovakia,K
-00070,Kosice Pivovar,Slovakia,K
-00071,Kaltenecker Pivovar,Slovakia,K
-00072,Starobrno,Czechia,S
-00073,Pilsner Urquell,Czechia,P
-00074,Pilsner Urquell,Czechia,P
-00075,Kamenice,Czechia,K
-00076,Louka Pivovar,Czechia,L
-00077,Lipton,,L
-00078,Lobec Pivovar,Czechia,L
-00079,Lobec Pivovar,Czechia,L
-00080,Litovel,Czechia,L
-00081,Lucky Drop Malostrana,Czechia,L
-00082,Moravia Pivovar,Czechia,M
-00083,Landwehr-Brau,Germany,L
-00084,Uiltje,Netherlands,U
-00085,Stelz,Netherlands,S
-00086,Steiger,Slovakia,S
-00087,Steiger,Slovakia,S
-00088,Medved Humensky Pivovar,Slovakia,M
-00089,Gambrinus,Czechia,G
-00090,Kofola,Slovakia,K
-00091,Tipos,Slovakia,T
-00092,Trenciansky Lanius Pivovar,Slovakia,T
-00093,Trenciansky Lanius Pivovar,Slovakia,T
-00094,Trenciansky Lanius Pivovar,Slovakia,T
-00095,Trenciansky Lanius Pivovar,Slovakia,T
-00096,Trenciansky Lanius Pivovar,Slovakia,T
-00097,Trenciansky Lanius Pivovar,Slovakia,T
-00098,Trenciansky Lanius Pivovar,Slovakia,T
-00099,Trenciansky Lanius Pivovar,Slovakia,T
-00100,Klubovna,Czechia,K
-00101,Bradac Slobodny Pivovar,Slovakia,B
-00102,Tripel Danvers,Belgium,T
-00103,Steiger,Slovakia,S
-00104,Uiltje,Netherlands,U
-00105,Grolsch,Netherlands,G
-00106,Bavaria,Netherlands,B
-00107,Vila 63,Czechia,V
-00108,Pivoteka.cz,Czechia,P
-00109,Bernard,Czechia,B
-00110,Libertas,Czechia,L
-00111,Pivoboard,Czechia,P
-00112,Obora,Czechia,O
-00113,Krusovice,Czechia,K
-00114,Pivoteka.cz,Czechia,P
-00115,Pivoteka.cz,Czechia,P
-00116,Pivoteka.cz,Czechia,P
-00117,Rezidenti1,Czechia,R
-00118,Vila 63,Czechia,V
-00119,Lobkowicz Pivovar,Czechia,L
-00120,Vila 63,Czechia,V
-00121,Topsil,Czechia,T
-00122,Clock,Czechia,C
-00123,Kamenice,Czechia,K
-00124,FH Prager,Czechia,F
-00125,FH Prager,Czechia,F
-00126,Cerny Medved Pivovar,Czechia,C
-00127,Cerna Barbora,Czechia,C
-00128,Ostravar,Czechia,O
-00129,Mandarin Oriental,Switzerland,M
-00130,Leffe,Belgium,L
-00131,Leffe,Belgium,L
-00132,Leffe,Belgium,L
-00133,Strakonice Pivovar,Czechia,S
-00134,Ricansky Pivovar,Czechia,R
-00135,Pilsner Urquell,Czechia,P
-00136,Regionova,Czechia,R
-00137,Bakalar,Czechia,B
-00138,U2 Craft ,Czechia,U
-00139,Cerveny Vlk,Czechia,C
-00140,Volt Jablonecky,Czechia,V
-00141,Permon Brewery,Czechia,P
-00142,Lobkowicz Pivovar,Czechia,L
-00143,Lobkowicz Pivovar,Czechia,L
-00144,Lobkowicz Pivovar,Czechia,L
-00145,Lowlander,Netherlands,L
-00146,Lowlander,Netherlands,L
-00147,Lucifer,Belgium,L
-00148,Litovel,Czechia,L
-00149,Leffe,Belgium,L
-00150,Zlaty Bazant,Slovakia,Z
-00151,Leffe,Belgium,L
-00152,Libertas,Czechia,L
-00153,Lowlander,Netherlands,L
-00154,Lowlander,Netherlands,L
-00155,Lowlander,Netherlands,L
-00156,Louka Pivovar,Czechia,L
-00157,Lobkowicz Pivovar,Czechia,L
-00158,Lobkowicz Pivovar,Czechia,L
-00159,Lobkowicz Pivovar,Czechia,L
-00160,Lobkowicz Pivovar,Czechia,L
-00161,Hostomice,Czechia,H
-00162,Hostomice,Czechia,H
-00163,Hostomice,Czechia,H
-00164,Lagunitas,USA,L
-00165,Lagunitas,USA,L
-00166,Lagunitas,USA,L
-00167,Puntigamer,Austria,P
-00168,Gosser,Austria,G
-00169,Zajko,Czechia,Z
-00170,Hostivar,Czechia,H
-00171,Hostivar,Czechia,H
-00172,Lucni Bouda,Czechia,L
-00173,Lobkowicz Pivovar,Czechia,L
-00174,Legendes,Belgium,L
-00175,Dewars,Spain,D
-00176,Alfa Hellenic,Greece,A
-00177,Muflon,Czechia,M
-00178,Brustok,Czechia,B
-00179,Alera,Honduras,A
-00180,Svihov,Czechia,S
-00181,Beranuv,Czechia,B
-00182,Beranuv,Czechia,B
-00183,Erdinger,Germany,E
-00184,Amstel,Greece,A
-00185,Turnov,Czechia,T
-00186,Mythos,Greece,M
-00187,Maisel,Germany,M
-00188,Ename,Belgium,E
-00189,Radeberger,Germany,R
-00190,Obora,Czechia,O
-00191,Obora,Czechia,O
-00192,Bistro4,Czechia,B
-00193,Hejkal,Czechia,H
-00194,Herold,Czechia,H
-00195,Brevnovsky Klaster,Czechia,B
-00196,Koli,Czechia,K
-00197,Zlata Krava,Czechia,Z
-00198,Starobrno,Czechia,S
-00199,Poutnik Pelhrimov,Czechia,P
-00200,Grasel,Czechia,G
-00201,Pegas,Czechia,P
-00202,Slavkovsky,Czechia,S
-00203,Slavkovsky,Czechia,S
-00204,Kos,Czechia,K
-00205,Kasteel,Netherlands,K
-00206,Budvar,Czechia,B
-00207,Letajici,Czechia,L
-00208,Topolsky,Czechia,T
-00209,Rotor,Czechia,R
-00210,Hauskrecht,Czechia,H
-00211,Letajici,Czechia,L
-00212,Hauskrecht,Czechia,H
-00213,Dalesice,Czechia,D
-00214,Radegast,Czechia,R
-00215,Radegast,Czechia,R
-00216,Radegast,Czechia,R
-00217,Radegast,Czechia,R
-00218,Beznoska,Czechia,B
-00219,Konrad,Czechia,K
-00220,Propamatky,Czechia,P
-00221,Zlatopramen,Czechia,Z
-00222,Altvater,Czechia,A
-00223,Pernstejn,Czechia,P
-00224,Pilsner Urquell,Czechia,P
-00225,Staropramen,Czechia,S
-00226,Maly Janek,Czechia,M
-00227,Czech Lion,Czechia,C
-00228,Pilsner Urquell,Czechia,P
-00229,Pult,Czechia,P
-00230,Saris,Slovakia,S
-00231,Stern,Czechia,S
-00232,Stella Artois,Belgium,S
-00233,Clock,Czechia,C
-00234,Clock,Czechia,C
-00235,Clock,Czechia,C
-00236,Pernstejn,Czechia,P
-00237,Zichovec,Czechia,Z
-00238,Uneticky,Czechia,U
-00239,Skaut,Czechia,S
-00240,Pardubicky,Czechia,P
-00241,Beranek,Czechia,B
-00242,Berounsky Medved,Czechia,B
-00243,Heineken,Netherlands,H
-00244,Heineken,Netherlands,H
-00245,AvWees,Netherlands,A
-00246,Basta,Czechia,B
-00247,Kilian,Czechia,K
-00248,Cizova,Czechia,C
-00249,Budvar,Czechia,B
-00250,Antos,Czechia,A
-00251,Andelsky,Czechia,A
-00252,Malesov,Czechia,M
-00253,Kosice Pivovar,Slovakia,K
-00254,Siberia,Czechia,S
-00255,Gwern,Czechia,G
-00256,Permon Brewery,Czechia,P
-00257,Pilsner Urquell,Czechia,P
-00258,Pilsner Urquell,Czechia,P
-00259,Cvikov,Czechia,C
-00260,Uhrineves,Czechia,U
-00261,Weihenstephan,Germany,W
-00262,Weihenstephan,Germany,W
-00263,Hofbrau Kaltenhausen,Austria,H
-00264,Eggenberg,Austria,E
-00265,Falkenstejn,Czechia,F
-00266,Stella Artois,Belgium,S
-00267,TVerzet,Belgium,t
-00268,Tupadly,Czechia,T
-00269,Zlaty Bazant,Slovakia,Z
-00270,Kozel,Czechia,K
-00271,Breznak,Czechia,B
-00272,Warsteiner,Germany,W
-00273,Warsteiner,Germany,W
-00274,Wywar,Czechia,W
-00275,Wild East,USA,W
-00276,Wywar,Czechia,W
-00277,Westmalle,Belgium,W
-00278,Weitra Brau,Austria,W
-00279,Wai,,W
-00280,Tyskie,Poland,T
-00281,Triton,Czechia,T
-00282,Teletruc,Belgium,T
-00283,Thornbridge,England,T
-00284,Tropical,Spain,T
-00285,Tropical,Spain,T
-00286,Tovarna,Czechia,T
-00287,Trautenberk,Czechia,T
-00288,Trautenberk,Czechia,T
-00289,Oedipus,Netherlands,O
-00290,Texels,Netherlands,T
-00291,Two Chefs Brewing,Netherlands,T
-00292,Uneticky,Czechia,U
-00293,Uneticky,Czechia,U
-00294,Uneticky,Czechia,U
-00295,Uneticky,Czechia,U
-00296,Uneticky,Czechia,U
-00297,Uneticky,Czechia,U
-00298,Uneticky,Czechia,U
-00299,Uneticky,Czechia,U
-00300,Uneticky,Czechia,U
-00301,Untappd,Czechia,U
-00302,Uiltje,Netherlands,U
-00303,Up Festival,Belgium,U
-00304,Fleku,Czechia,F
-00305,Uhrineves,Czechia,U
-00306,Up Bar,Czechia,U
-00307,Augustin,Belgium,A
-00308,Amstel,Spain,A
-00309,Aspall,England,A
-00310,Aldersbacher,Germany,A
-00311,Aldersbacher,Germany,A
-00312,Aldersbacher,Germany,A
-00313,Aldersbacher,Germany,A
-00314,Aldersbacher,Germany,A
-00315,Andechs,Germany,A
-00316,Amundsen,Czechia,A
-00317,Amstel,Netherlands,A
-00318,Ayinger,Germany,A
-00319,Austral,Chile,A
-00320,Clock,Czechia,C
-00321,Clock,Czechia,C
-00322,Clock,Czechia,C
-00323,Coca Cola,Netherlands,C
-00324,Chric,Czechia,C
-00325,Chric,Czechia,C
-00326,Casino Gran Canaria,Spain,C
-00327,The Crown,USA,T
-00328,Carling,England,C
-00329,Carlsberg,Portugal,C
-00330,Chomout,Czechia,C
-00331,Chomout,Czechia,C
-00332,Cornet,Belgium,C
-00333,Cerna Swine,Czechia,C
-00334,Cernovar,Czechia,C
-00335,Cernovar,Czechia,C
-00336,Estrella Galicia,Spain,E
-00337,Estrella Galicia,Spain,E
-00338,Jameson,Ireland,J
-00339,Hop House,Ireland,H
-00340,Jopen,Netherlands,J
-00341,Orangina,Belgium,O
-00342,Ossegg,Czechia,O
-00343,Ossegg,Czechia,O
-00344,Ovipistan,Czechia,O
-00345,Novopacke,Czechia,N
-00346,Nemy Medved,Czechia,N
-00347,Nachmelena Opice,Czechia,N
-00348,Felber,Czechia,F
-00349,Felber,Czechia,F
-00350,Cafe Frida,Czechia,C
-00351,Full Circle,Belgium,F
-00352,Flamm,Czechia,F
-00353,Felsenkeller,Germany,F
-00354,Ferdinand,Czechia,F
-00355,Ferdinand,Czechia,F
-00356,Ferdinand,Czechia,F
-00357,Desperados,Czechia,D
-00358,De Prael,Netherlands,D
-00359,De Kade,Netherlands,D
-00360,Drzseplotu,Czechia,D
-00361,Dalesice,Czechia,D
-00362,Dalesice,Czechia,D
-00363,Dva Kohouti,Czechia,D
-00364,De Eeuwige Jeugd,Netherlands,D
-00365,De Eeuwige Jeugd,Netherlands,D
-00366,Draaimolen,Netherlands,D
-00367,,Czechia,
-00368,Delirium Noel,Belgium,D
-00369,Forst,Italy,F
-00370,Forst,Italy,F
-00371,Forst,Italy,F
-00372,Floris Passion,Belgium,F
-00373,Dorada,Spain,D
-00374,Jameson,Ireland,J
-00375,Jupiler,Belgium,J
-00376,Jupiler,Belgium,J
-00377,Jupiler,Belgium,J
-00378,Eggenberg,Czechia,E
-00379,Einsiedler,Czechia,E
-00380,,Belgium,
-00381,Duvel,Belgium,D
-00382,Duvel,Belgium,D
-00383,Duvel,Belgium,D
-00384,,Belgium,
-00385,Nutrl,USA,N
-00386,Nutrl,USA,N
-00387,,Czechia,
-00388,,Czechia,
-00389,,Czechia,
-00390,,Netherlands,
-00391,,Poland,
-00392,Heineken,Netherlands,H
-00393,Holsten,Germany,H
-00394,Hemingway Bar,Czechia,H
-00395,Hendrych,Czechia,H
-00396,Hostivar,Czechia,H
-00397,Hostivar,Czechia,H
-00398,Hostivar,Czechia,H
-00399,Holba,Czechia,H
-00400,Hertog Jan,Netherlands,H
-00401,Hannen Alt,Germany,H
-00402,Hannen Alt,Germany,H
-00403,Hannen Alt,Germany,H
-00404,Handle Bar,USA,H
-00405,Hostomice,Czechia,H
-00406,Hostomice,Czechia,H
-00407,Hostomice,Czechia,H
-00408,Hubertus,Czechia,H
-00409,Holba,Czechia,H
-00410,Cafe de Pels,Netherlands,C
-00411,Hofmuhl Hell,Germany,H
-00412,Herold,Czechia,H
-00413,Raschhofer,Austria,R
-00414,Radegast,Czechia,R
-00415,Radegast,Czechia,R
-00416,Radegast,Czechia,R
-00417,Radegast,Czechia,R
-00418,Radegast,Czechia,R
-00419,Bohemia Regent,Czechia,B
-00420,Rohozec,Czechia,R
-00421,Rohozec,Czechia,R
-00422,Royal Bliss,USA,R
-00423,Rizek,Czechia,R
-00424,Ramazzotti,Germany,R
-00425,Rudohor,Czechia,R
-00426,Rampusak,Czechia,R
-00427,Rampusak,Czechia,R
-00428,Raven,Czechia,R
-00429,Zatec,Czechia,Z
-00430,Zlaty Bazant,Slovakia,Z
-00431,Zlaty Bazant,Slovakia,Z
-00432,Zillertal,Austria,Z
-00433,Zillertal,Austria,Z
-00434,Zwettler,Austria,Z
-00435,Zizkoff Pivoteka,Czechia,Z
-00436,Zizkovske Mezidvorky,Czechia,Z
-00437,Zeliv,Czechia,Z
-00438,Zubr,Czechia,Z
-00439,Zubr,Czechia,Z
-00440,Zubr,Czechia,Z
-00441,Zywiec,Poland,Z
-00442,Zloun,Czechia,Z
-00443,Zdivar,Czechia,Z
-00444,Erdinger,Czechia,E
-00445,Stridacka,Czechia,S
-00446,Krakonos,Czechia,K
-00447,Krakonos,Czechia,K
-00448,Sedmy Schod,Czechia,S
-00449,Primator,Czechia,P
-00450,Svijany,Czechia,S
-00451,Svijany,Czechia,S
-00452,Svijany,Czechia,S
-00453,Svijany,Czechia,S
-00454,Svijany,Czechia,S
-00455,Karel IV,Czechia,K
-00456,Hoegaarden,Czechia,H
-00457,Chouffe,Belgium,C
-00458,Salm Brau,Austria,S
-00459,Stiegl,Austria,S
-00460,Kelt,Czechia,K
-00461,Brand,Netherlands,B
-00462,Kolcavka,Czechia,K
-00463,Zubr,Czechia,Z
-00464,Bakalar,Czechia,B
-00465,Bakalar,Czechia,B
-00466,Postrizinske,Czechia,P
-00467,Pilsner Urquell,Czechia,P
-00468,Maisel,Germany,M
-00469,Hendrych,Czechia,H
-00470,Chodovar,Czechia,C
-00471,Pioneer,Czechia,P
-00472,Cestmir,Czechia,C
-00473,Pilsner Urquell,Czechia,P
-00474,Pilsner Urquell,Czechia,P
-00475,Svijany,Czechia,S
-00476,Svijany,Czechia,S
-00477,Pilsner Urquell,Czechia,P
-00478,Pilsner Urquell,Czechia,P
-00479,Pioneer,Czechia,P
-00480,Pilsner Urquell,Czechia,P
-00481,Podripsky,Czechia,P
-00482,Kamenice,Czechia,K
-00483,Brouwerij 't IJ,Netherlands,B
-00484,Brezi Koza,Czechia,B
-00485,Kofola,Czechia,K
-00486,Kofola,Czechia,K
-00487,Breznak,Czechia,B
-00488,Breznak,Czechia,B
-00489,Breznak,Czechia,B
-00490,Budvar,Czechia,B
-00491,Budvar,Czechia,B
-00492,Budvar,Czechia,B
-00493,Budvar,Czechia,B
-00494,Budvar,Czechia,B
-00495,Bernard,Czechia,B
-00496,Bernard,Czechia,B
-00497,Bernard,Czechia,B
-00498,Bernard,Czechia,B
-00499,Bernard,Czechia,B
-00500,Bernard,Czechia,B
-00501,Bernard,Czechia,B
-00502,Bernard,Czechia,B
-00503,Bernard,Czechia,B
-00504,Beznoska,Czechia,B
-00505,Bohemia Regent,Czechia,B
-00506,Beskydsky,Czechia,B
-00507,Beskydsky,Czechia,B
-00508,Beskydsky,Czechia,B
-00509,Beskydsky,Czechia,B
-00510,Beskydsky,Czechia,B
-00511,Bakalar,Czechia,B
-00512,Budvar,Czechia,B
-00513,Branik,Czechia,B
-00514,Branik,Czechia,B
-00515,Beranek,Czechia,B
-00516,Beranek,Czechia,B
-00517,Beranek,Czechia,B
-00518,BeerGeek,Czechia,B
-00519,Bratcice,Czechia,B
-00520,Black Dogs,Czechia,B
-00521,Belveder,Czechia,B
-00522,Paulaner,Czechia,P
-00523,Brusseleir,Belgium,B
-00524,Bruxellensis,Belgium,B
-00525,Blanche de Namur,Belgium,B
-00526,Browar Amber,Poland,B
-00527,Aliance PIV,Czechia,A
-00528,Axiom,Czechia,A
-00529,Axiom,Czechia,A
-00530,Albrecht,Czechia,A
-00531,Aldersbacher,Germany,A
-00532,Aldersbacher,Germany,A
-00533,Augustin,Austria,A
-00534,Budvar,Czechia,B
-00535,Cobolis,Czechia,C
-00536,Chimay,Belgium,C
-00537,Cobra,Czechia,C
-00538,Chric,Czechia,C
-00539,Clock,Czechia,C
-00540,Cerna Hora,Czechia,C
-00541,Cerna Hora,Czechia,C
-00542,Cerna Hora,Czechia,C
-00543,Cerna Hora,Czechia,C
-00544,Domyno Bar,Czechia,D
-00545,Duvel,Belgium,D
-00546,Duvel,Belgium,D
-00547,Doubravnik,Czechia,D
-00548,Erb,Czechia,E
-00549,Erb,Czechia,E
-00550,Brevnovsky Klaster,Czechia,B
-00551,Falkenstejn,Czechia,F
-00552,Frankies,Czechia,F
-00553,Falkon,Czechia,F
-00554,Franziskaner,Germany,F
-00555,Feldschlobchen,Germany,F
-00556,Gambrinus,Czechia,G
-00557,Gambrinus,Czechia,G
-00558,Gambrinus,Czechia,G
-00559,Gambrinus,Czechia,G
-00560,Gambrinus,Czechia,G
-00561,Gambrinus,Czechia,G
-00562,Gambrinus,Czechia,G
-00563,Gambrinus,Czechia,G
-00564,Hoegaarden,Belgium,H
-00565,Hubertus,Czechia,H
-00566,Hubertus,Czechia,H
-00567,Hubertus,Czechia,H
-00568,Holba,Czechia,H
-00569,Holba,Czechia,H
-00570,Hertog Jan,Netherlands,H
-00571,Hertog Jan,Netherlands,H
-00572,Hertog Jan,Netherlands,H
-00573,Altstadthof ,Germany,A
-00574,Hasseroder,Germany,H
-00575,Hluboka,Czechia,H
-00576,Hangar,Czechia,H
-00577,Jever,Germany,J
-00578,Jezek,Czechia,J
-00579,Jezek,Czechia,J
-00580,Kozel,Czechia,K
-00581,Kozel,Czechia,K
-00582,Kozel,Czechia,K
-00583,Kozel,Czechia,K
-00584,Kozel,Czechia,K
-00585,Kozel,Czechia,K
-00586,Kozel,Czechia,K
-00587,Kozel,Czechia,K
-00588,Cesky Krumlov,Czechia,C
-00589,Klaster,Czechia,K
-00590,Konrad,Czechia,K
-00591,Konrad,Czechia,K
-00592,Krusovice,Czechia,K
-00593,Krusovice,Czechia,K
-00594,Krusovice,Czechia,K
-00595,Kolcavka,Czechia,K
-00596,Kolcavka,Czechia,K
-00597,Kolcavka,Czechia,K
-00598,Kolcavka,Czechia,K
-00599,Kral Sumavy,Czechia,K
-00600,Kocouri,Czechia,K
-00601,Krakonos,Czechia,K
-00602,Kynspersky,Czechia,K
-00603,Muflon,Czechia,M
-00604,Krkonossky Medved,Czechia,K
-00605,Mazak,Czechia,M
-00606,Mazak,Czechia,M
-00607,Malastrana,Czechia,M
-00608,Matuska,Czechia,M
-00609,Manifesto,Czechia,M
-00610,Policce,Czechia,P
-00611,Klenot,Czechia,K
-00612,Mordyr,Czechia,M
-00613,Muflon,Czechia,M
-00614,Never Enough,Czechia,N
-00615,Neratov,Czechia,N
-00616,Dalesice,Czechia,D
-00617,Parnik,Czechia,P
-00618,Parnik,Czechia,P
-00619,Pilsner Urquell,Czechia,P
-00620,Pilsner Urquell,Czechia,P
-00621,Pilsner Urquell,Czechia,P
-00622,Pilsner Urquell,Czechia,P
-00623,Pilsner Urquell,Czechia,P
-00624,Pilsner Urquell,Czechia,P
-00625,Pilsner Urquell,Czechia,P
-00626,Pilsner Urquell,Czechia,P
-00627,Pilsner Urquell,Czechia,P
-00628,Pilsner Urquell,Czechia,P
-00629,Platan,Czechia,P
-00630,Platan,Czechia,P
-00631,Porter,Czechia,P
-00632,Porter,Czechia,P
-00633,Porter,Czechia,P
-00634,Porter,Czechia,P
-00635,Primator,Czechia,P
-00636,Primator,Czechia,P
-00637,Pernstejn,Czechia,P
-00638,Pernstejn,Czechia,P
-00639,Paulaner,Czechia,P
-00640,Paintball Hall,Czechia,P
-00641,Preska,Czechia,P
-00642,Pilsner Urquell,Czechia,P
-00643,Pork and Beer,Czechia,P
-00644,Pork and Beer,Czechia,P
-00645,Pork and Beer,Czechia,P
-00646,Pilsner Urquell,Czechia,P
-00647,Pilsner Urquell,Czechia,P
-00648,Prazacka,Czechia,P
-00649,Poutnik Pelhrimov,Czechia,P
-00650,Jazz Republic,Czechia,J
-00651,Omer,Czechia,O
-00652,Omer,Czechia,O
-00653,Quest Cafe,Czechia,Q
-00654,Raschhofer,Austria,R
-00655,Romano Pizzeria,Czechia,R
-00656,Radegast,Czechia,R
-00657,Radeberger,Germany,R
-00658,Radous,Czechia,R
-00659,Rychtar,Czechia,R
-00660,Rychtar,Czechia,R
-00661,Raven,Czechia,R
-00662,Revnice,Czechia,R
-00663,Rychtar,Czechia,R
-00664,Staropramen,Czechia,S
-00665,Staropramen,Czechia,S
-00666,Staropramen,Czechia,S
-00667,Staropramen,Czechia,S
-00668,Staropramen,Czechia,S
-00669,Stankuv,Czechia,S
-00670,Kout na Sumave,Czechia,K
-00671,Sagres,Portugal,S
-00672,Super Bock,Portugal,S
-00673,Falkenstejn,Czechia,F
-00674,Stojaka,Czechia,S
-00675,Stouterik,Belgium,S
-00676,Stiegl,Austria,S
-00677,Scala,Czechia,S
-00678,Svijany,Czechia,S
-00679,Svijany,Czechia,S
-00680,Svijany,Czechia,S
-00681,Svijany,Czechia,S
-00682,Svijany,Czechia,S
-00683,Svijany,Czechia,S
-00684,Svijany,Czechia,S
-00685,Svijany,Czechia,S
-00686,Svijany,Czechia,S
-00687,Svijany,Czechia,S
-00688,Svijany,Czechia,S
-00689,Svijany,Czechia,S
-00690,Svijany,Czechia,S
-00691,Super Bock,Portugal,S
-00692,St Feuillien,Belgium,S
-00693,Tyskie,Poland,T
-00694,Tyskie,Poland,T
-00695,Tyskie,Poland,T
-00696,Uneticky,Czechia,U
-00697,Uneticky,Czechia,U
-00698,Uneticky,Czechia,U
-00699,Utopia Cajovna,Czechia,U
-00700,Uneticky,Czechia,U
-00701,Uneticky,Czechia,U
-00702,Volt Jablonecky,Czechia,V
-00703,Volt Jablonecky,Czechia,V
-00704,Veldensteiner,Germany,V
-00705,Veldensteiner,Germany,V
-00706,Vegalite,Czechia,V
-00707,Vinohradsky,Czechia,V
-00708,Visoky Chlumec,Czechia,V
-00709,Victor,Czechia,V
-00710,Zipfer,Germany,Z
-00711,Zatec,Czechia,Z
-00712,Zichovec,Czechia,Z
-00713,Zlatopramen,Czechia,Z
-00714,Zlaty Bazant,Slovakia,Z
-00715,,Czechia,
-00716,,Czechia,
-00717,,Czechia,
-00718,,Czechia,
-00719,Beirao,Portugal,B
-00720,Pilsner Urquell,Czechia,P
-00721,Pilsner Urquell,Czechia,P
-00722,Pilsner Urquell,Czechia,P
-00723,Breznak,Czechia,B
-00724,Beznoska,Czechia,B
-00725,Zalozna,Czechia,Z
-00726,Zalozna,Czechia,Z
-00727,Karlicek,Czechia,K
-00728,Lasagneria,Czechia,L
-00729,Karlicek,Czechia,K
-00730,,,
-00731,Old Cock,Czechia,O
-00732,Old Cock,Czechia,O
-00733,Mangy Moose,USA,M
-00734,Cesky Krumlov,Czechia,C
-00735,Cesky Krumlov,Czechia,C
-00736,Cesky Krumlov,Czechia,C
-00737,Laplace,Czechia,L
-00738,Lazensky,Czechia,L
-00739,,Belgium,
-00740,,Czechia,
-00741,Kofola,Czechia,K
-00742,Kofola,Czechia,K
-00743,Kofola,Czechia,K
-00744,Kozel,Czechia,K
-00745,Kozel,Czechia,K
-00746,Kozel,Czechia,K
-00747,Kozel,Czechia,K
-00748,Kozel,Czechia,K
-00749,Krusovice,Czechia,K
-00750,Krusovice,Czechia,K
-00751,Konrad,Czechia,K
-00752,Kocouri,Czechia,K
-00753,Keuzberger,Germany,K
-00754,Kbely,Czechia,K
-00755,Karlovarske,Czechia,K
-00756,Kahan,Czechia,K
-00757,Knir,Czechia,K
-00758,Kasteel,Belgium,K
-00759,Kamenice,Czechia,K
-00760,Kamenice,Czechia,K
-00761,Krusnohor,Czechia,K
-00762,Wieselburg,Austria,W
-00763,Kornuit,Netherlands,K
-00764,Krumauer,Czechia,K
-00765,Krusovice,Slovakia,K
-00766,Kelt,Czechia,K
-00767,Tovarna,Czechia,T
-00768,Kutna Hora,Czechia,K
-00769,Kutna Hora,Czechia,K
-00770,Kutna Hora,Czechia,K
-00771,Kutna Hora,Czechia,K
-00772,Kairos,Brazil,K
-00773,Kasteel,Belgium,K
-00774,Kwak,Belgium,K
-00775,Kujebak,Czechia,K
-00776,Bird,Netherlands,B
-00777,Brew Dog,Czechia,B
-00778,Baptist,Belgium,B
-00779,Letajici,Czechia,L
-00780,Berliner Berg,Germany,B
-00781,Beers & Cheers,Czechia,B
-00782,Bubenec,Czechia,B
-00783,Klubovna,Czechia,K
-00784,Bulldog,Netherlands,B
-00785,Brothers in Law,Netherlands,B
-00786,Beskydsky,Czechia,B
-00787,Beskydsky,Czechia,B
-00788,Beskydsky,Czechia,B
-00789,Budvar,Czechia,B
-00790,Budvar,Czechia,B
-00791,Budvar,Czechia,B
-00792,Budvar,Czechia,B
-00793,Bakalar,Czechia,B
-00794,Bakalar,Czechia,B
-00795,Blue Moon,Belgium,B
-00796,Blue Moon,Belgium,B
-00797,Brouwer,Belgium,B
-00798,Baguales,Chile,B
-00799,Britt,Costa Rica,B
-00800,Bavaria,Germany,B
-00801,Bernard,Czechia,B
-00802,Bernard,Czechia,B
-00803,Bernard,Czechia,B
-00804,Bernard,Czechia,B
-00805,Bernard,Czechia,B
-00806,Belzebuth,Belgium,B
-00807,Branik,Czechia,B
-00808,Barkotex,Czechia,B
-00809,Barao,Brazil,B
-00810,Becherovka,Czechia,B
-00811,Becherovka,Czechia,B
-00812,Becherovka,Czechia,B
-00813,Brasserie de la Senne,Belgium,B
-00814,Becks,Germany,B
-00815,Bohemia,Czechia,B
-00816,Staropramen,Czechia,S
-00817,Saris,Slovakia,S
-00818,Samuel Adams,USA,S
-00819,Sagres,Portugal,S
-00820,San Miguel,Spain,S
-00821,Strakonice,Czechia,S
-00822,Saris,Slovakia,S
-00823,Svijany,Czechia,S
-00824,Svijany,Czechia,S
-00825,Svijany,Czechia,S
-00826,Silly,Belgium,S
-00827,Silly,Belgium,S
-00828,Solnice,Czechia,S
-00829,Snake River,USA,S
-00830,Svijany,Czechia,S
-00831,Svijany,Czechia,S
-00832,Svijany,Czechia,S
-00833,Seicha,Czechia,S
-00834,SUP,Czechia,S
-00835,SUP,Czechia,S
-00836,Schazenbrau,Germany,S
-00837,SQBRU,Belgium,S
-00838,Spejle,Czechia,S
-00839,Spacal,Czechia,S
-00840,Samson,Czechia,S
-00841,Super Bock,Portugal,S
-00842,Sv Norbert,Czechia,S
-00843,Stonebrewing,Czechia,S
-00844,Svabin,Czechia,S
-00845,Schweppes,Switzerland,S
-00846,Pepsi,,P
-00847,Probier,Brazil,P
-00848,Prazacka,Czechia,P
-00849,Pilsner Urquell,Czechia,P
-00850,Pilsner Urquell,Czechia,P
-00851,Perrier,Belgium,P
-00852,Perrier,Belgium,P
-00853,Pilsner Urquell,Czechia,P
-00854,Pilsner Urquell,Czechia,P
-00855,Pilsner Urquell,Czechia,P
-00856,Poctiva,Czechia,P
-00857,Podripsky,Czechia,P
-00858,Permon,Czechia,P
-00859,Pardubicky,Czechia,P
-00860,Pardubicky,Czechia,P
-00861,Pocernicky,Czechia,P
-00862,Peroni,Netherlands,P
-00863,Primator,Czechia,P
-00864,Primator,Czechia,P
-00865,Primator,Czechia,P
-00866,Pilsner Urquell,Czechia,P
-00867,Pilsner Urquell,Czechia,P
-00868,Pilsner Urquell,Czechia,P
-00869,Pilsner Urquell,Czechia,P
-00870,PID,Czechia,P
-00871,Nonkel Pater,Belgium,N
-00872,Prager Laffe,Czechia,P
-00873,Pronck,Netherlands,P
-00874,Petrus,Czechia,P
-00875,U Pivrnce,Czechia,P
-00876,Tripple Crown,Czechia,T
-00877,Permon,Czechia,P
-00878,Pocernak,Czechia,P
-00879,Bad Flash,Czechia,B
-00880,Bad Flash,Czechia,B
-00881,Bad Flash,Czechia,B
-00882,Bad Flash,Czechia,B
-00883,Bad Flash,Czechia,B
-00884,Lupia,Spain,L
-00885,Heteroclito,Greece,H
-00886,La Hechicera,Czechia,L
-00887,Erdinger,Germany,E
-00888,Ottakringer,Austria,O
-00889,Porter,Czechia,P
-00890,Groove Bar,Czechia,G
-00891,Together,Czechia,T
-00892,Mustang,Czechia,M
-00893,Barnie,Czechia,B
-00894,Kasteel,Belgium,K
-00895,Andelsky,Czechia,A
-00896,Super Bock,Portugal,S
-00897,Gambrinus,Czechia,G
-00898,Castello,Portugal,C
-00899,U Orloje,Czechia,U
-00900,U Orloje,Czechia,U
-00901,Zatec,Czechia,Z
-00902,Chyse,Czechia,C
-00903,Chyse,Czechia,C
-00904,Chyse,Czechia,C
-00905,U Orloje,Czechia,U
-00906,Zatec,Czechia,Z
-00907,Holba,Czechia,H
-00908,Radegast,Czechia,R
-00909,Radegast,Czechia,R
-00910,Uneticky,Czechia,U
-00911,Zichovec,Czechia,Z
-00912,Uneticky,Czechia,U
-00913,Gianni Franzi,Italy,G
-00914,Gianni Franzi,Italy,G
-00915,Pavilh?o Chin?s,Portugal,P
-00916,The Dior,Italy,D
-00917,Menabrea,Italy,M
-00918,VZO,Italy,V
-00919,Beer Port,Slovakia,B
-00920,Krusovice,Slovakia,K
-00921,Pilsner Urquell,Slovakia,P
-00922,Ovipistan,Czechia,O
-00923,Ovipistan,Czechia,O
-00924,Ovipistan,Czechia,O
-00925,Ovipistan,Czechia,O
-00926,Ovipistan,Czechia,O
-00927,Barn,Czechia,B
-00928,U Vojtechu,Czechia,V
-00929,Hradec Kralove,Czechia,H
-00930,Hradec Kralove,Czechia,H
-00931,Hradec Kralove,Czechia,H
-00932,Hradec Kralove,Czechia,H
-00933,Clock,Czechia,C
-00934,Opatovicky,Czechia,O
-00935,Lobkowicz,Czechia,L
-00936,Pilsner Urquell,Czechia,P
-00937,Raven,Czechia,R
-00938,Pecky Snezka,Czechia,P
-00939,Antos,Czechia,A
-00940,Loutkar,Czechia,L
-00941,Pecky Snezka,Czechia,P
-00942,Hradec Kralove,Czechia,H
-00943,Hradec Kralove,Czechia,H
-00944,Hradec Kralove,Czechia,H
-00945,Hradec Kralove,Czechia,H
-00946,Hradec Kralove,Czechia,H
-00947,Klenot,Czechia,K
-00948,Mordyr,Czechia,M
-00949,Pilsner Urquell,Czechia,P
-00950,Hubertus,Czechia,H
-00951,Falkenstejn,Czechia,F
-00952,Hubertus,Czechia,H
-00953,Craft Beer,Czechia,C
-00954,Hostivar,Czechia,H
+id,description,country,letter,storage ID
+00530,Albrecht,Czechia,A,26
+00310,Aldersbacher,Germany,A,21
+00311,Aldersbacher,Germany,A,20
+00312,Aldersbacher,Germany,A,19
+00313,Aldersbacher,Germany,A,18
+00314,Aldersbacher,Germany,A,17
+00531,Aldersbacher,Germany,A,23
+00532,Aldersbacher,Germany,A,22
+00179,Alera,Honduras,A,5
+00176,Alfa Hellenic,Greece,A,4
+00057,Alhambra,Spain,A,6
+00065,Alhambra,Spain,A,7
+00527,Aliance PIV,Czechia,A,29
+00573,Altstadthof ,Germany,A,
+00222,Altvater,Czechia,A,8
+00184,Amstel,Greece,A,13
+00308,Amstel,Spain,A,14
+00317,Amstel,Netherlands,A,12
+00316,Amundsen,Czechia,A,15
+00315,Andechs,Germany,A,16
+00251,Andelsky,Czechia,A,1
+00895,Andelsky,Czechia,A,31
+00250,Antos,Czechia,A,2
+00939,Antos,Czechia,A,32
+00309,Aspall,England,A,24
+00307,Augustin,Belgium,A,25
+00533,Augustin,Austria,A,30
+00319,Austral,Chile,A,10
+00245,AvWees,Netherlands,A,3
+00528,Axiom,Czechia,A,28
+00529,Axiom,Czechia,A,27
+00318,Ayinger,Germany,A,11
+00879,Bad Flash,Czechia,B,44
+00880,Bad Flash,Czechia,B,45
+00881,Bad Flash,Czechia,B,46
+00882,Bad Flash,Czechia,B,47
+00883,Bad Flash,Czechia,B,
+00798,Baguales,Chile,B,129
+00137,Bakalar,Czechia,B,78
+00464,Bakalar,Czechia,B,79
+00465,Bakalar,Czechia,B,80
+00511,Bakalar,Czechia,B,81
+00793,Bakalar,Czechia,B,134
+00794,Bakalar,Czechia,B,133
+00778,Baptist,Belgium,B,43
+00809,Barao,Brazil,B,118
+00808,Barkotex,Czechia,B,119
+00927,Barn,Czechia,B,
+00893,Barnie,Czechia,B,108
+00246,Basta,Czechia,B,38
+00106,Bavaria,Netherlands,B,32
+00800,Bavaria,Germany,B,127
+00810,Becherovka,Czechia,B,117
+00811,Becherovka,Czechia,B,116
+00812,Becherovka,Czechia,B,115
+00814,Becks,Germany,B,114
+00050,Beer Experience,Spain,B,34
+00919,Beer Port,Slovakia,B,42
+00518,BeerGeek,Czechia,B,95
+00781,Beers & Cheers,Czechia,B,112
+00719,Beirao,Portugal,B,
+00521,Belveder,Czechia,B,98
+00806,Belzebuth,Belgium,B,121
+00241,Beranek,Czechia,B,48
+00515,Beranek,Czechia,B,92
+00516,Beranek,Czechia,B,93
+00517,Beranek,Czechia,B,94
+00181,Beranuv,Czechia,B,37
+00182,Beranuv,Czechia,B,36
+00780,Berliner Berg,Germany,B,110
+00109,Bernard,Czechia,B,77
+00495,Bernard,Czechia,B,73
+00496,Bernard,Czechia,B,72
+00497,Bernard,Czechia,B,71
+00498,Bernard,Czechia,B,70
+00499,Bernard,Czechia,B,69
+00500,Bernard,Czechia,B,76
+00501,Bernard,Czechia,B,75
+00502,Bernard,Czechia,B,68
+00503,Bernard,Czechia,B,74
+00801,Bernard,Czechia,B,125
+00802,Bernard,Czechia,B,126
+00803,Bernard,Czechia,B,123
+00804,Bernard,Czechia,B,124
+00805,Bernard,Czechia,B,122
+00242,Berounsky Medved,Czechia,B,39
+00506,Beskydsky,Czechia,B,84
+00507,Beskydsky,Czechia,B,85
+00508,Beskydsky,Czechia,B,86
+00509,Beskydsky,Czechia,B,87
+00510,Beskydsky,Czechia,B,88
+00786,Beskydsky,Czechia,B,141
+00787,Beskydsky,Czechia,B,140
+00788,Beskydsky,Czechia,B,139
+00218,Beznoska,Czechia,B,65
+00504,Beznoska,Czechia,B,64
+00724,Beznoska,Czechia,B,
+00776,Bird,Netherlands,B,106
+00034,Birra Moretti,Italy,B,
+00192,Bistro4,Czechia,B,83
+00520,Black Dogs,Czechia,B,97
+00525,Blanche de Namur,Belgium,B,102
+00795,Blue Moon,Belgium,B,132
+00796,Blue Moon,Belgium,B,131
+00815,Bohemia,Czechia,B,111
+00419,Bohemia Regent,Czechia,B,66
+00505,Bohemia Regent,Czechia,B,67
+00101,Bradac Slobodny Pivovar,Slovakia,B,104
+00461,Brand,Netherlands,B,63
+00513,Branik,Czechia,B,90
+00514,Branik,Czechia,B,91
+00807,Branik,Czechia,B,120
+00001,Brasileiro,Czechia,B,33
+00813,Brasserie de la Senne,Belgium,B,113
+00519,Bratcice,Czechia,B,96
+00195,Brevnovsky Klaster,Czechia,B,49
+00550,Brevnovsky Klaster,Czechia,B,105
+00777,Brew Dog,Czechia,B,107
+00484,Brezi Koza,Czechia,B,89
+00271,Breznak,Czechia,B,53
+00487,Breznak,Czechia,B,52
+00488,Breznak,Czechia,B,51
+00489,Breznak,Czechia,B,50
+00723,Breznak,Czechia,B,
+00799,Britt,Costa Rica,B,128
+00785,Brothers in Law,Netherlands,B,143
+00797,Brouwer,Belgium,B,130
+00483,Brouwerij 't IJ,Netherlands,B,82
+00526,Browar Amber,Poland,B,103
+00523,Brusseleir,Belgium,B,100
+00178,Brustok,Czechia,B,35
+00524,Bruxellensis,Belgium,B,101
+00782,Bubenec,Czechia,B,41
+00206,Budvar,Czechia,B,56
+00249,Budvar,Czechia,B,57
+00490,Budvar,Czechia,B,54
+00491,Budvar,Czechia,B,55
+00492,Budvar,Czechia,B,58
+00493,Budvar,Czechia,B,59
+00494,Budvar,Czechia,B,60
+00512,Budvar,Czechia,B,61
+00534,Budvar,Czechia,B,62
+00789,Budvar,Czechia,B,138
+00790,Budvar,Czechia,B,137
+00791,Budvar,Czechia,B,136
+00792,Budvar,Czechia,B,135
+00784,Bulldog,Netherlands,B,142
+00410,Cafe de Pels,Netherlands,C,
+00350,Cafe Frida,Czechia,C,
+00064,Canarias Viva,Spain,C,
+00328,Carling,England,C,
+00329,Carlsberg,Portugal,C,
+00326,Casino Gran Canaria,Spain,C,
+00898,Castello,Portugal,C,
+00127,Cerna Barbora,Czechia,C,
+00540,Cerna Hora,Czechia,C,
+00541,Cerna Hora,Czechia,C,
+00542,Cerna Hora,Czechia,C,
+00543,Cerna Hora,Czechia,C,
+00333,Cerna Swine,Czechia,C,
+00334,Cernovar,Czechia,C,
+00335,Cernovar,Czechia,C,
+00126,Cerny Medved Pivovar,Czechia,C,
+00068,Cerveny Jelen,Czechia,C,
+00139,Cerveny Vlk,Czechia,C,
+00053,Cervezas 1906,Spain,C,
+00588,Cesky Krumlov,Czechia,C,
+00734,Cesky Krumlov,Czechia,C,
+00735,Cesky Krumlov,Czechia,C,
+00736,Cesky Krumlov,Czechia,C,
+00472,Cestmir,Czechia,C,
+00536,Chimay,Belgium,C,
+00470,Chodovar,Czechia,C,
+00330,Chomout,Czechia,C,
+00331,Chomout,Czechia,C,
+00457,Chouffe,Belgium,C,
+00324,Chric,Czechia,C,
+00325,Chric,Czechia,C,
+00538,Chric,Czechia,C,
+00902,Chyse,Czechia,C,
+00903,Chyse,Czechia,C,
+00904,Chyse,Czechia,C,
+00248,Cizova,Czechia,C,
+00122,Clock,Czechia,C,
+00233,Clock,Czechia,C,
+00234,Clock,Czechia,C,
+00235,Clock,Czechia,C,
+00320,Clock,Czechia,C,
+00321,Clock,Czechia,C,
+00322,Clock,Czechia,C,
+00539,Clock,Czechia,C,
+00933,Clock,Czechia,C,
+00535,Cobolis,Czechia,C,
+00537,Cobra,Czechia,C,
+00323,Coca Cola,Netherlands,C,
+00332,Cornet,Belgium,C,
+00953,Craft Beer,Czechia,C,
+00058,Cruzcampo,Spain,C,
+00259,Cvikov,Czechia,C,
+00227,Czech Lion,Czechia,C,
+00213,Dalesice,Czechia,D,
+00361,Dalesice,Czechia,D,
+00362,Dalesice,Czechia,D,
+00616,Dalesice,Czechia,D,
+00364,De Eeuwige Jeugd,Netherlands,D,
+00365,De Eeuwige Jeugd,Netherlands,D,
+00359,De Kade,Netherlands,D,
+00358,De Prael,Netherlands,D,
+00368,Delirium Noel,Belgium,D,
+00357,Desperados,Czechia,D,
+00175,Dewars,Spain,D,
+00544,Domyno Bar,Czechia,D,
+00051,Dorada,Spain,D,
+00066,Dorada,Spain,D,
+00373,Dorada,Spain,D,
+00547,Doubravnik,Czechia,D,
+00366,Draaimolen,Netherlands,D,
+00360,Drzseplotu,Czechia,D,
+00381,Duvel,Belgium,D,
+00382,Duvel,Belgium,D,
+00383,Duvel,Belgium,D,
+00545,Duvel,Belgium,D,
+00546,Duvel,Belgium,D,
+00363,Dva Kohouti,Czechia,D,
+00264,Eggenberg,Austria,E,
+00378,Eggenberg,Czechia,E,
+00379,Einsiedler,Czechia,E,
+00062,El Aguila,Spain,E,9
+00188,Ename,Belgium,E,
+00548,Erb,Czechia,E,
+00549,Erb,Czechia,E,
+00183,Erdinger,Germany,E,
+00444,Erdinger,Czechia,E,
+00887,Erdinger,Germany,E,
+00054,Estrella Damm,Spain,E,
+00052,Estrella Galicia,Spain,E,
+00336,Estrella Galicia,Spain,E,
+00337,Estrella Galicia,Spain,E,
+00265,Falkenstejn,Czechia,F,
+00551,Falkenstejn,Czechia,F,
+00673,Falkenstejn,Czechia,F,
+00951,Falkenstejn,Czechia,F,
+00553,Falkon,Czechia,F,
+00348,Felber,Czechia,F,
+00349,Felber,Czechia,F,
+00555,Feldschlobchen,Germany,F,
+00353,Felsenkeller,Germany,F,
+00354,Ferdinand,Czechia,F,
+00355,Ferdinand,Czechia,F,
+00356,Ferdinand,Czechia,F,
+00124,FH Prager,Czechia,F,
+00125,FH Prager,Czechia,F,
+00352,Flamm,Czechia,F,
+00304,Fleku,Czechia,F,
+00372,Floris Passion,Belgium,F,
+00369,Forst,Italy,F,
+00370,Forst,Italy,F,
+00371,Forst,Italy,F,
+00552,Frankies,Czechia,F,
+00554,Franziskaner,Germany,F,
+00351,Full Circle,Belgium,F,
+00004,Gambrinus,Czechia,G,
+00018,Gambrinus,Czechia,G,
+00019,Gambrinus,Czechia,G,
+00020,Gambrinus,Czechia,G,
+00089,Gambrinus,Czechia,G,
+00556,Gambrinus,Czechia,G,
+00557,Gambrinus,Czechia,G,
+00558,Gambrinus,Czechia,G,
+00559,Gambrinus,Czechia,G,
+00560,Gambrinus,Czechia,G,
+00561,Gambrinus,Czechia,G,
+00562,Gambrinus,Czechia,G,
+00563,Gambrinus,Czechia,G,
+00897,Gambrinus,Czechia,G,
+00017,Gebrouwen door Vrouwen,Netherlands,G,
+00009,Gefragt,Germany,G,
+00913,Gianni Franzi,Italy,G,
+00914,Gianni Franzi,Italy,G,
+00023,Gilded Iguana,Costa Rica,G,
+00008,Golden Bauch,Brazil,G,
+00006,Golem,Czechia,G,
+00168,Gosser,Austria,G,
+00007,Grand Mir,Belgium,G,
+00200,Grasel,Czechia,G,
+00005,Grimbergen,Belgium,G,
+00011,Grolsch,Netherlands,G,
+00012,Grolsch,Netherlands,G,
+00105,Grolsch,Netherlands,G,
+00002,Groove Bar,Czechia,G,
+00890,Groove Bar,Czechia,G,
+00013,Guinness,Ireland,G,
+00014,Guinness,Ireland,G,
+00015,Guinness,Ireland,G,
+00016,Guinness,Ireland,G,
+00021,Guinness,Ireland,G,
+00022,Guinness,Ireland,G,
+00010,Gulden Draak,Czechia,G,
+00003,Gulpener,Netherlands,G,
+00255,Gwern,Czechia,G,
+00404,Handle Bar,USA,H,
+00576,Hangar,Czechia,H,
+00401,Hannen Alt,Germany,H,
+00402,Hannen Alt,Germany,H,
+00403,Hannen Alt,Germany,H,
+00574,Hasseroder,Germany,H,
+00210,Hauskrecht,Czechia,H,
+00212,Hauskrecht,Czechia,H,
+00055,Heineken,Netherlands,H,
+00243,Heineken,Netherlands,H,
+00244,Heineken,Netherlands,H,
+00392,Heineken,Netherlands,H,
+00193,Hejkal,Czechia,H,
+00394,Hemingway Bar,Czechia,H,
+00395,Hendrych,Czechia,H,
+00469,Hendrych,Czechia,H,
+00194,Herold,Czechia,H,
+00412,Herold,Czechia,H,
+00400,Hertog Jan,Netherlands,H,
+00570,Hertog Jan,Netherlands,H,
+00571,Hertog Jan,Netherlands,H,
+00572,Hertog Jan,Netherlands,H,
+00885,Heteroclito,Greece,H,
+00575,Hluboka,Czechia,H,
+00456,Hoegaarden,Czechia,H,
+00564,Hoegaarden,Belgium,H,
+00263,Hofbrau Kaltenhausen,Austria,H,
+00411,Hofmuhl Hell,Germany,H,
+00399,Holba,Czechia,H,
+00409,Holba,Czechia,H,
+00568,Holba,Czechia,H,
+00569,Holba,Czechia,H,
+00907,Holba,Czechia,H,
+00393,Holsten,Germany,H,
+00339,Hop House,Ireland,H,
+00170,Hostivar,Czechia,H,
+00171,Hostivar,Czechia,H,
+00396,Hostivar,Czechia,H,
+00397,Hostivar,Czechia,H,
+00398,Hostivar,Czechia,H,
+00954,Hostivar,Czechia,H,
+00161,Hostomice,Czechia,H,
+00162,Hostomice,Czechia,H,
+00163,Hostomice,Czechia,H,
+00405,Hostomice,Czechia,H,
+00406,Hostomice,Czechia,H,
+00407,Hostomice,Czechia,H,
+00929,Hradec Kralove,Czechia,H,
+00930,Hradec Kralove,Czechia,H,
+00931,Hradec Kralove,Czechia,H,
+00932,Hradec Kralove,Czechia,H,
+00942,Hradec Kralove,Czechia,H,
+00943,Hradec Kralove,Czechia,H,
+00944,Hradec Kralove,Czechia,H,
+00945,Hradec Kralove,Czechia,H,
+00946,Hradec Kralove,Czechia,H,
+00408,Hubertus,Czechia,H,
+00565,Hubertus,Czechia,H,
+00566,Hubertus,Czechia,H,
+00567,Hubertus,Czechia,H,
+00950,Hubertus,Czechia,H,
+00952,Hubertus,Czechia,H,
+00338,Jameson,Ireland,J,
+00374,Jameson,Ireland,J,
+00650,Jazz Republic,Czechia,J,
+00577,Jever,Germany,J,
+00578,Jezek,Czechia,J,
+00579,Jezek,Czechia,J,
+00340,Jopen,Netherlands,J,
+00375,Jupiler,Belgium,J,
+00376,Jupiler,Belgium,J,
+00377,Jupiler,Belgium,J,
+00756,Kahan,Czechia,K,
+00772,Kairos,Brazil,K,
+00071,Kaltenecker Pivovar,Slovakia,K,
+00075,Kamenice,Czechia,K,
+00123,Kamenice,Czechia,K,
+00482,Kamenice,Czechia,K,
+00759,Kamenice,Czechia,K,
+00760,Kamenice,Czechia,K,
+00455,Karel IV,Czechia,K,
+00727,Karlicek,Czechia,K,
+00729,Karlicek,Czechia,K,
+00755,Karlovarske,Czechia,K,
+00205,Kasteel,Netherlands,K,
+00758,Kasteel,Belgium,K,
+00773,Kasteel,Belgium,K,
+00894,Kasteel,Belgium,K,
+00754,Kbely,Czechia,K,
+00460,Kelt,Czechia,K,
+00766,Kelt,Czechia,K,
+00753,Keuzberger,Germany,K,
+00247,Kilian,Czechia,K,
+00589,Klaster,Czechia,K,
+00611,Klenot,Czechia,K,
+00947,Klenot,Czechia,K,
+00100,Klubovna,Czechia,K,
+00783,Klubovna,Czechia,K,40
+00757,Knir,Czechia,K,
+00600,Kocouri,Czechia,K,
+00752,Kocouri,Czechia,K,
+00090,Kofola,Slovakia,K,
+00485,Kofola,Czechia,K,
+00486,Kofola,Czechia,K,
+00741,Kofola,Czechia,K,
+00742,Kofola,Czechia,K,
+00743,Kofola,Czechia,K,
+00462,Kolcavka,Czechia,K,
+00595,Kolcavka,Czechia,K,
+00596,Kolcavka,Czechia,K,
+00597,Kolcavka,Czechia,K,
+00598,Kolcavka,Czechia,K,
+00196,Koli,Czechia,K,
+00219,Konrad,Czechia,K,
+00590,Konrad,Czechia,K,
+00591,Konrad,Czechia,K,
+00751,Konrad,Czechia,K,
+00763,Kornuit,Netherlands,K,
+00204,Kos,Czechia,K,
+00069,Kosice Pivovar,Slovakia,K,
+00070,Kosice Pivovar,Slovakia,K,
+00253,Kosice Pivovar,Slovakia,K,
+00670,Kout na Sumave,Czechia,K,
+00270,Kozel,Czechia,K,
+00580,Kozel,Czechia,K,
+00581,Kozel,Czechia,K,
+00582,Kozel,Czechia,K,
+00583,Kozel,Czechia,K,
+00584,Kozel,Czechia,K,
+00585,Kozel,Czechia,K,
+00586,Kozel,Czechia,K,
+00587,Kozel,Czechia,K,
+00744,Kozel,Czechia,K,
+00745,Kozel,Czechia,K,
+00746,Kozel,Czechia,K,
+00747,Kozel,Czechia,K,
+00748,Kozel,Czechia,K,
+00446,Krakonos,Czechia,K,
+00447,Krakonos,Czechia,K,
+00601,Krakonos,Czechia,K,
+00599,Kral Sumavy,Czechia,K,
+00044,Krkonossky Medved,Czechia,K,
+00048,Krkonossky Medved,Czechia,K,
+00604,Krkonossky Medved,Czechia,K,
+00764,Krumauer,Czechia,K,
+00761,Krusnohor,Czechia,K,
+00113,Krusovice,Czechia,K,
+00592,Krusovice,Czechia,K,
+00593,Krusovice,Czechia,K,
+00594,Krusovice,Czechia,K,
+00749,Krusovice,Czechia,K,
+00750,Krusovice,Czechia,K,
+00765,Krusovice,Slovakia,K,
+00920,Krusovice,Slovakia,K,
+00775,Kujebak,Czechia,K,
+00036,Kutna Hora,Czechia,K,
+00768,Kutna Hora,Czechia,K,
+00769,Kutna Hora,Czechia,K,
+00770,Kutna Hora,Czechia,K,
+00771,Kutna Hora,Czechia,K,
+00774,Kwak,Belgium,K,
+00602,Kynspersky,Czechia,K,
+00886,La Hechicera,Czechia,L,
+00164,Lagunitas,USA,L,
+00165,Lagunitas,USA,L,
+00166,Lagunitas,USA,L,
+00083,Landwehr-Brau,Germany,L,
+00737,Laplace,Czechia,L,
+00728,Lasagneria,Czechia,L,
+00738,Lazensky,Czechia,L,
+00130,Leffe,Belgium,L,
+00131,Leffe,Belgium,L,
+00132,Leffe,Belgium,L,
+00149,Leffe,Belgium,L,
+00151,Leffe,Belgium,L,
+00174,Legendes,Belgium,L,
+00207,Baran,Czechia,B,109
+00211,Pivecka,Czechia,P,
+00779,Letajici,Czechia,L,
+00110,Libertas,Czechia,L,
+00152,Libertas,Czechia,L,
+00077,Lipton,,L,
+00080,Litovel,Czechia,L,
+00148,Litovel,Czechia,L,
+00078,Lobec Pivovar,Czechia,L,
+00079,Lobec Pivovar,Czechia,L,
+00935,Lobkowicz,Czechia,L,
+00119,Lobkowicz Pivovar,Czechia,L,
+00142,Lobkowicz Pivovar,Czechia,L,
+00143,Lobkowicz Pivovar,Czechia,L,
+00144,Lobkowicz Pivovar,Czechia,L,
+00157,Lobkowicz Pivovar,Czechia,L,
+00158,Lobkowicz Pivovar,Czechia,L,
+00159,Lobkowicz Pivovar,Czechia,L,
+00160,Lobkowicz Pivovar,Czechia,L,
+00173,Lobkowicz Pivovar,Czechia,L,
+00076,Louka Pivovar,Czechia,L,
+00156,Louka Pivovar,Czechia,L,
+00940,Loutkar,Czechia,L,
+00145,Lowlander,Netherlands,L,
+00146,Lowlander,Netherlands,L,
+00153,Lowlander,Netherlands,L,
+00154,Lowlander,Netherlands,L,
+00155,Lowlander,Netherlands,L,
+00147,Lucifer,Belgium,L,
+00081,Lucky Drop Malostrana,Czechia,L,
+00172,Lucni Bouda,Czechia,L,
+00884,Lupia,Spain,L,
+00042,M,,M,
+00026,Maes,Belgium,M,
+00038,Magners,Ireland,M,
+00037,Mahou,Spain,M,
+00059,Mahou,Spain,M,
+00024,Maisel,Germany,M,
+00035,Maisel,Germany,M,
+00187,Maisel,Germany,M,
+00468,Maisel,Germany,M,
+00607,Malastrana,Czechia,M,
+00252,Malesov,Czechia,M,
+00226,Maly Janek,Czechia,M,
+00030,Mamlasù,Czechia,M,
+00129,Mandarin Oriental,Switzerland,M,
+00029,Maneblusser,Belgium,M,
+00733,Mangy Moose,USA,M,
+00609,Manifesto,Czechia,M,
+00608,Matuska,Czechia,M,
+00025,Max Haus,Brazil,M,
+00605,Mazak,Czechia,M,
+00606,Mazak,Czechia,M,
+00032,Mazette,Belgium,M,
+00031,McGuires,USA,M,
+00088,Medved Humensky Pivovar,Slovakia,M,
+00917,Menabrea,Italy,M,
+00049,Mercuria,Czechia,M,
+00039,Michala Restaurace,Czechia,M,
+00045,Mikalido,Germany,M,
+00027,Moby Dick,Italy,M,
+00043,Mokum,Netherlands,M,
+00028,Monchshof,Germany,M,
+00040,Moravia Pivovar,Czechia,M,
+00082,Moravia Pivovar,Czechia,M,
+00041,Moravsky Zizkov Pivovar,Czechia,M,
+00612,Mordyr,Czechia,M,
+00948,Mordyr,Czechia,M,
+00033,Mort Subite,Belgium,M,
+00177,Muflon,Czechia,M,
+00603,Muflon,Czechia,M,
+00613,Muflon,Czechia,M,
+00046,Munchner Bier,Germany,M,
+00892,Mustang,Czechia,M,
+00186,Mythos,Greece,M,
+00347,Nachmelena Opice,Czechia,N,
+00346,Nemy Medved,Czechia,N,
+00615,Neratov,Czechia,N,
+00614,Never Enough,Czechia,N,
+00871,Nonkel Pater,Belgium,N,
+00345,Novopacke,Czechia,N,
+00385,Nutrl,USA,N,
+00386,Nutrl,USA,N,
+00112,Obora,Czechia,O,
+00190,Obora,Czechia,O,
+00191,Obora,Czechia,O,
+00047,Oedipus,Netherlands,O,
+00289,Oedipus,Netherlands,O,
+00731,Old Cock,Czechia,O,
+00732,Old Cock,Czechia,O,
+00651,Omer,Czechia,O,
+00652,Omer,Czechia,O,
+00934,Opatovicky,Czechia,O,
+00341,Orangina,Belgium,O,
+00342,Ossegg,Czechia,O,
+00343,Ossegg,Czechia,O,
+00128,Ostravar,Czechia,O,
+00888,Ottakringer,Austria,O,
+00344,Ovipistan,Czechia,O,
+00922,Ovipistan,Czechia,O,
+00923,Ovipistan,Czechia,O,
+00924,Ovipistan,Czechia,O,
+00925,Ovipistan,Czechia,O,
+00926,Ovipistan,Czechia,O,
+00640,Paintball Hall,Czechia,P,
+00240,Pardubicky,Czechia,P,
+00859,Pardubicky,Czechia,P,
+00860,Pardubicky,Czechia,P,
+00617,Parnik,Czechia,P,
+00618,Parnik,Czechia,P,
+00522,Paulaner,Czechia,P,99
+00639,Paulaner,Czechia,P,
+00915,Pavilh?o Chin?s,Portugal,P,
+00938,Pecky Snezka,Czechia,P,
+00941,Pecky Snezka,Czechia,P,
+00201,Pegas,Czechia,P,
+00846,Pepsi,,P,
+00858,Permon,Czechia,P,
+00877,Permon,Czechia,P,
+00141,Permon Brewery,Czechia,P,
+00256,Permon Brewery,Czechia,P,
+00223,Pernstejn,Czechia,P,
+00236,Pernstejn,Czechia,P,
+00637,Pernstejn,Czechia,P,
+00638,Pernstejn,Czechia,P,
+00862,Peroni,Netherlands,P,
+00851,Perrier,Belgium,P,
+00852,Perrier,Belgium,P,
+00874,Petrus,Czechia,P,
+00870,PID,Czechia,P,
+00073,Pilsner Urquell,Czechia,P,
+00074,Pilsner Urquell,Czechia,P,
+00135,Pilsner Urquell,Czechia,P,
+00224,Pilsner Urquell,Czechia,P,
+00228,Pilsner Urquell,Czechia,P,
+00257,Pilsner Urquell,Czechia,P,
+00258,Pilsner Urquell,Czechia,P,
+00467,Pilsner Urquell,Czechia,P,
+00473,Pilsner Urquell,Czechia,P,
+00474,Pilsner Urquell,Czechia,P,
+00477,Pilsner Urquell,Czechia,P,
+00478,Pilsner Urquell,Czechia,P,
+00480,Pilsner Urquell,Czechia,P,
+00619,Pilsner Urquell,Czechia,P,
+00620,Pilsner Urquell,Czechia,P,
+00621,Pilsner Urquell,Czechia,P,
+00622,Pilsner Urquell,Czechia,P,
+00623,Pilsner Urquell,Czechia,P,
+00624,Pilsner Urquell,Czechia,P,
+00625,Pilsner Urquell,Czechia,P,
+00626,Pilsner Urquell,Czechia,P,
+00627,Pilsner Urquell,Czechia,P,
+00628,Pilsner Urquell,Czechia,P,
+00642,Pilsner Urquell,Czechia,P,
+00646,Pilsner Urquell,Czechia,P,
+00647,Pilsner Urquell,Czechia,P,
+00720,Pilsner Urquell,Czechia,P,
+00721,Pilsner Urquell,Czechia,P,
+00722,Pilsner Urquell,Czechia,P,
+00849,Pilsner Urquell,Czechia,P,
+00850,Pilsner Urquell,Czechia,P,
+00853,Pilsner Urquell,Czechia,P,
+00854,Pilsner Urquell,Czechia,P,
+00855,Pilsner Urquell,Czechia,P,
+00866,Pilsner Urquell,Czechia,P,
+00867,Pilsner Urquell,Czechia,P,
+00868,Pilsner Urquell,Czechia,P,
+00869,Pilsner Urquell,Czechia,P,
+00921,Pilsner Urquell,Slovakia,P,
+00936,Pilsner Urquell,Czechia,P,
+00949,Pilsner Urquell,Czechia,P,
+00471,Pioneer,Czechia,P,
+00479,Pioneer,Czechia,P,
+00111,Pivoboard,Czechia,P,
+00108,Pivoteka.cz,Czechia,P,
+00114,Pivoteka.cz,Czechia,P,
+00115,Pivoteka.cz,Czechia,P,
+00116,Pivoteka.cz,Czechia,P,
+00629,Platan,Czechia,P,
+00630,Platan,Czechia,P,
+00878,Pocernak,Czechia,P,
+00861,Pocernicky,Czechia,P,
+00856,Poctiva,Czechia,P,
+00481,Podripsky,Czechia,P,
+00857,Podripsky,Czechia,P,
+00610,Policce,Czechia,P,
+00643,Pork and Beer,Czechia,P,
+00644,Pork and Beer,Czechia,P,
+00645,Pork and Beer,Czechia,P,
+00631,Porter,Czechia,P,
+00632,Porter,Czechia,P,
+00633,Porter,Czechia,P,
+00634,Porter,Czechia,P,
+00889,Porter,Czechia,P,
+00466,Postrizinske,Czechia,P,
+00199,Poutnik Pelhrimov,Czechia,P,
+00649,Poutnik Pelhrimov,Czechia,P,
+00872,Prager Laffe,Czechia,P,
+00648,Prazacka,Czechia,P,
+00848,Prazacka,Czechia,P,
+00641,Preska,Czechia,P,
+00449,Primator,Czechia,P,
+00635,Primator,Czechia,P,
+00636,Primator,Czechia,P,
+00863,Primator,Czechia,P,
+00864,Primator,Czechia,P,
+00865,Primator,Czechia,P,
+00847,Probier,Brazil,P,
+00873,Pronck,Netherlands,P,
+00220,Propamatky,Czechia,P,
+00229,Pult,Czechia,P,
+00167,Puntigamer,Austria,P,
+00653,Quest Cafe,Czechia,Q,
+00189,Radeberger,Germany,R,
+00657,Radeberger,Germany,R,
+00214,Radegast,Czechia,R,
+00215,Radegast,Czechia,R,
+00216,Radegast,Czechia,R,
+00217,Radegast,Czechia,R,
+00414,Radegast,Czechia,R,
+00415,Radegast,Czechia,R,
+00416,Radegast,Czechia,R,
+00417,Radegast,Czechia,R,
+00418,Radegast,Czechia,R,
+00656,Radegast,Czechia,R,
+00908,Radegast,Czechia,R,
+00909,Radegast,Czechia,R,
+00658,Radous,Czechia,R,
+00424,Ramazzotti,Germany,R,
+00426,Rampusak,Czechia,R,
+00427,Rampusak,Czechia,R,
+00413,Raschhofer,Austria,R,
+00654,Raschhofer,Austria,R,
+00428,Raven,Czechia,R,
+00661,Raven,Czechia,R,
+00937,Raven,Czechia,R,
+00136,Regionova,Czechia,R,
+00662,Revnice,Czechia,R,
+00117,Rezidenti1,Czechia,R,
+00134,Ricansky Pivovar,Czechia,R,
+00423,Rizek,Czechia,R,
+00420,Rohozec,Czechia,R,
+00421,Rohozec,Czechia,R,
+00655,Romano Pizzeria,Czechia,R,
+00209,Rotor,Czechia,R,
+00422,Royal Bliss,USA,R,
+00425,Rudohor,Czechia,R,
+00659,Rychtar,Czechia,R,
+00660,Rychtar,Czechia,R,
+00663,Rychtar,Czechia,R,
+00671,Sagres,Portugal,S,
+00819,Sagres,Portugal,S,
+00458,Salm Brau,Austria,S,
+00840,Samson,Czechia,S,
+00818,Samuel Adams,USA,S,
+00820,San Miguel,Spain,S,
+00230,Saris,Slovakia,S,
+00817,Saris,Slovakia,S,
+00822,Saris,Slovakia,S,
+00677,Scala,Czechia,S,
+00836,Schazenbrau,Germany,S,
+00845,Schweppes,Switzerland,S,
+00448,Sedmy Schod,Czechia,S,
+00833,Seicha,Czechia,S,
+00254,Siberia,Czechia,S,
+00826,Silly,Belgium,S,
+00827,Silly,Belgium,S,
+00239,Skaut,Czechia,S,
+00202,Slavkovsky,Czechia,S,
+00203,Slavkovsky,Czechia,S,
+00829,Snake River,USA,S,
+00828,Solnice,Czechia,S,
+00839,Spacal,Czechia,S,
+00838,Spejle,Czechia,S,
+00837,SQBRU,Belgium,S,
+00692,St Feuillien,Belgium,S,
+00669,Stankuv,Czechia,S,
+00072,Starobrno,Czechia,S,
+00198,Starobrno,Czechia,S,
+00225,Staropramen,Czechia,S,
+00664,Staropramen,Czechia,S,
+00665,Staropramen,Czechia,S,
+00666,Staropramen,Czechia,S,
+00667,Staropramen,Czechia,S,
+00668,Staropramen,Czechia,S,
+00816,Staropramen,Czechia,S,
+00086,Steiger,Slovakia,S,
+00087,Steiger,Slovakia,S,
+00103,Steiger,Slovakia,S,
+00232,Stella Artois,Belgium,S,
+00266,Stella Artois,Belgium,S,
+00085,Stelz,Netherlands,S,
+00231,Stern,Czechia,S,
+00459,Stiegl,Austria,S,
+00676,Stiegl,Austria,S,
+00674,Stojaka,Czechia,S,
+00843,Stonebrewing,Czechia,S,
+00675,Stouterik,Belgium,S,
+00821,Strakonice,Czechia,S,
+00133,Strakonice Pivovar,Czechia,S,
+00445,Stridacka,Czechia,S,
+00834,SUP,Czechia,S,
+00835,SUP,Czechia,S,
+00672,Super Bock,Portugal,S,
+00691,Super Bock,Portugal,S,
+00841,Super Bock,Portugal,S,
+00896,Super Bock,Portugal,S,
+00842,Sv Norbert,Czechia,S,
+00844,Svabin,Czechia,S,
+00180,Svihov,Czechia,S,
+00450,Svijany,Czechia,S,
+00451,Svijany,Czechia,S,
+00452,Svijany,Czechia,S,
+00453,Svijany,Czechia,S,
+00454,Svijany,Czechia,S,
+00475,Svijany,Czechia,S,
+00476,Svijany,Czechia,S,
+00678,Svijany,Czechia,S,
+00679,Svijany,Czechia,S,
+00680,Svijany,Czechia,S,
+00681,Svijany,Czechia,S,
+00682,Svijany,Czechia,S,
+00683,Svijany,Czechia,S,
+00684,Svijany,Czechia,S,
+00685,Svijany,Czechia,S,
+00686,Svijany,Czechia,S,
+00687,Svijany,Czechia,S,
+00688,Svijany,Czechia,S,
+00689,Svijany,Czechia,S,
+00690,Svijany,Czechia,S,
+00823,Svijany,Czechia,S,
+00824,Svijany,Czechia,S,
+00825,Svijany,Czechia,S,
+00830,Svijany,Czechia,S,
+00831,Svijany,Czechia,S,
+00832,Svijany,Czechia,S,
+00067,TAJ Rooftop,Spain,T,
+00282,Teletruc,Belgium,T,
+00290,Texels,Netherlands,T,
+00327,The Crown,USA,T,
+00916,The Dior,Italy,D,
+00283,Thornbridge,England,T,
+00091,Tipos,Slovakia,T,
+00891,Together,Czechia,T,
+00208,Topolsky,Czechia,T,
+00121,Topsil,Czechia,T,
+00286,Tovarna,Czechia,T,
+00767,Tovarna,Czechia,T,
+00287,Trautenberk,Czechia,T,
+00288,Trautenberk,Czechia,T,
+00092,Trenciansky Lanius Pivovar,Slovakia,T,
+00093,Trenciansky Lanius Pivovar,Slovakia,T,
+00094,Trenciansky Lanius Pivovar,Slovakia,T,
+00095,Trenciansky Lanius Pivovar,Slovakia,T,
+00096,Trenciansky Lanius Pivovar,Slovakia,T,
+00097,Trenciansky Lanius Pivovar,Slovakia,T,
+00098,Trenciansky Lanius Pivovar,Slovakia,T,
+00099,Trenciansky Lanius Pivovar,Slovakia,T,
+00102,Tripel Danvers,Belgium,T,
+00876,Tripple Crown,Czechia,T,
+00281,Triton,Czechia,T,
+00056,Tropical,Spain,T,
+00060,Tropical,Spain,T,
+00063,Tropical,Spain,T,
+00284,Tropical,Spain,T,
+00285,Tropical,Spain,T,
+00268,Tupadly,Czechia,T,
+00185,Turnov,Czechia,T,
+00267,TVerzet,Belgium,t,
+00291,Two Chefs Brewing,Netherlands,T,
+00280,Tyskie,Poland,T,
+00693,Tyskie,Poland,T,
+00694,Tyskie,Poland,T,
+00695,Tyskie,Poland,T,
+00899,U Orloje,Czechia,U,
+00900,U Orloje,Czechia,U,
+00905,U Orloje,Czechia,U,
+00875,U Pivrnce,Czechia,P,
+00928,U Vojtechu,Czechia,V,
+00138,U2 Craft ,Czechia,U,
+00260,Uhrineves,Czechia,U,
+00305,Uhrineves,Czechia,U,
+00084,Uiltje,Netherlands,U,
+00104,Uiltje,Netherlands,U,
+00302,Uiltje,Netherlands,U,
+00238,Uneticky,Czechia,U,
+00292,Uneticky,Czechia,U,
+00293,Uneticky,Czechia,U,
+00294,Uneticky,Czechia,U,
+00295,Uneticky,Czechia,U,
+00296,Uneticky,Czechia,U,
+00297,Uneticky,Czechia,U,
+00298,Uneticky,Czechia,U,
+00299,Uneticky,Czechia,U,
+00300,Uneticky,Czechia,U,
+00696,Uneticky,Czechia,U,
+00697,Uneticky,Czechia,U,
+00698,Uneticky,Czechia,U,
+00700,Uneticky,Czechia,U,
+00701,Uneticky,Czechia,U,
+00910,Uneticky,Czechia,U,
+00912,Uneticky,Czechia,U,
+00301,Untappd,Czechia,U,
+00306,Up Bar,Czechia,U,
+00303,Up Festival,Belgium,U,
+00699,Utopia Cajovna,Czechia,U,
+00706,Vegalite,Czechia,V,
+00704,Veldensteiner,Germany,V,
+00705,Veldensteiner,Germany,V,
+00709,Victor,Czechia,V,
+00107,Vila 63,Czechia,V,
+00118,Vila 63,Czechia,V,
+00120,Vila 63,Czechia,V,
+00707,Vinohradsky,Czechia,V,
+00708,Visoky Chlumec,Czechia,V,
+00140,Volt Jablonecky,Czechia,V,
+00702,Volt Jablonecky,Czechia,V,
+00703,Volt Jablonecky,Czechia,V,
+00918,VZO,Italy,V,
+00279,Wai,,W,
+00061,Warsteiner,Spain,W,
+00272,Warsteiner,Germany,W,
+00273,Warsteiner,Germany,W,
+00261,Weihenstephan,Germany,W,
+00262,Weihenstephan,Germany,W,
+00278,Weitra Brau,Austria,W,
+00277,Westmalle,Belgium,W,
+00762,Wieselburg,Austria,W,
+00275,Wild East,USA,W,
+00274,Wywar,Czechia,W,
+00276,Wywar,Czechia,W,
+00169,Zajko,Czechia,Z,
+00725,Zalozna,Czechia,Z,
+00726,Zalozna,Czechia,Z,
+00429,Zatec,Czechia,Z,
+00711,Zatec,Czechia,Z,
+00901,Zatec,Czechia,Z,
+00906,Zatec,Czechia,Z,
+00443,Zdivar,Czechia,Z,
+00437,Zeliv,Czechia,Z,
+00237,Zichovec,Czechia,Z,
+00712,Zichovec,Czechia,Z,
+00911,Zichovec,Czechia,Z,
+00432,Zillertal,Austria,Z,
+00433,Zillertal,Austria,Z,
+00710,Zipfer,Germany,Z,
+00435,Zizkoff Pivoteka,Czechia,Z,
+00436,Zizkovske Mezidvorky,Czechia,Z,
+00197,Zlata Krava,Czechia,Z,
+00221,Zlatopramen,Czechia,Z,
+00713,Zlatopramen,Czechia,Z,
+00150,Zlaty Bazant,Slovakia,Z,
+00269,Zlaty Bazant,Slovakia,Z,
+00430,Zlaty Bazant,Slovakia,Z,
+00431,Zlaty Bazant,Slovakia,Z,
+00714,Zlaty Bazant,Slovakia,Z,
+00442,Zloun,Czechia,Z,
+00438,Zubr,Czechia,Z,
+00439,Zubr,Czechia,Z,
+00440,Zubr,Czechia,Z,
+00463,Zubr,Czechia,Z,
+00434,Zwettler,Austria,Z,
+00441,Zywiec,Poland,Z,
+00367,,Czechia,,
+00380,,Belgium,,
+00384,,Belgium,,
+00387,,Czechia,,
+00388,,Czechia,,
+00389,,Czechia,,
+00390,,Netherlands,,
+00391,,Poland,,
+00715,,Czechia,,
+00716,,Czechia,,
+00717,,Czechia,,
+00718,,Czechia,,
+00730,,,,
+00739,,Belgium,,
+00740,,Czechia,,
