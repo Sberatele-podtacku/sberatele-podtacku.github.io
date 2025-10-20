@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 
 # —— CONFIG ——
-MAIN      = Path("images/thumbs")
+MAIN      = Path("images/")
 CSV       = Path("metadata_updated.csv")
 PAD_WIDTH = 5
 # ————————
