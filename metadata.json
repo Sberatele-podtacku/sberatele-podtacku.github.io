@@ -6683,5 +6683,180 @@
     "country": "Czechia",
     "letter": "G",
     "storage id": "281"
+  },
+  {
+    "id": "00956",
+    "description": "Axiom",
+    "country": "Czechia",
+    "letter": "A",
+    "storage id": "871"
+  },
+  {
+    "id": "00957",
+    "description": "Bernard",
+    "country": "Czechia",
+    "letter": "B",
+    "storage id": "872"
+  },
+  {
+    "id": "00958",
+    "description": "Cestmir",
+    "country": "Czechia",
+    "letter": "C",
+    "storage id": "873"
+  },
+  {
+    "id": "00959",
+    "description": "Hradec Kralove",
+    "country": "Czechia",
+    "letter": "H",
+    "storage id": "874"
+  },
+  {
+    "id": "00960",
+    "description": "Kozel",
+    "country": "Czechia",
+    "letter": "K",
+    "storage id": "875"
+  },
+  {
+    "id": "00961",
+    "description": "Kofola",
+    "country": "Czechia",
+    "letter": "K",
+    "storage id": "876"
+  },
+  {
+    "id": "00962",
+    "description": "Primator",
+    "country": "Czechia",
+    "letter": "P",
+    "storage id": "877"
+  },
+  {
+    "id": "00963",
+    "description": "Rimska",
+    "country": "Czechia",
+    "letter": "R",
+    "storage id": "878"
+  },
+  {
+    "id": "00964",
+    "description": "Permon",
+    "country": "Czechia",
+    "letter": "P",
+    "storage id": "879"
+  },
+  {
+    "id": "00965",
+    "description": "Gerhard",
+    "country": "Czechia",
+    "letter": "G",
+    "storage id": "880"
+  },
+  {
+    "id": "00966",
+    "description": "Kynspersky",
+    "country": "Czechia",
+    "letter": "K",
+    "storage id": "881"
+  },
+  {
+    "id": "00967",
+    "description": "Uneticky",
+    "country": "Czechia",
+    "letter": "U",
+    "storage id": "882"
+  },
+  {
+    "id": "00968",
+    "description": "JAT'",
+    "country": "Belgium",
+    "letter": "J",
+    "storage id": "883"
+  },
+  {
+    "id": "00969",
+    "description": "Acropolis",
+    "country": "Spain",
+    "letter": "A",
+    "storage id": "884"
+  },
+  {
+    "id": "00970",
+    "description": "Sibeeria",
+    "country": "Czechia",
+    "letter": "S",
+    "storage id": "885"
+  },
+  {
+    "id": "00971",
+    "description": "Beskydsky",
+    "country": "Czechia",
+    "letter": "B",
+    "storage id": "886"
+  },
+  {
+    "id": "00972",
+    "description": "Jung Berg",
+    "country": "Czechia",
+    "letter": "J",
+    "storage id": "887"
+  },
+  {
+    "id": "00973",
+    "description": "Out To Lunch",
+    "country": "Portugal",
+    "letter": "O",
+    "storage id": "888"
+  },
+  {
+    "id": "00974",
+    "description": "Paulaner",
+    "country": "Germany",
+    "letter": "P",
+    "storage id": "959"
+  },
+  {
+    "id": "00975",
+    "description": "Rebel",
+    "country": "Czechia",
+    "letter": "R",
+    "storage id": "960"
+  },
+  {
+    "id": "00976",
+    "description": "Guinness",
+    "country": "Czechia",
+    "letter": "G",
+    "storage id": "961"
+  },
+  {
+    "id": "00977",
+    "description": "Starobrno",
+    "country": "Czechia",
+    "letter": "S",
+    "storage id": "962"
+  },
+  {
+    "id": "00978",
+    "description": "Poctiva",
+    "country": "Czechia",
+    "letter": "P",
+    "storage id": "963"
+  },
+  {
+    "id": "00979",
+    "description": "Poctiva",
+    "country": "Czechia",
+    "letter": "P",
+    "storage id": "964"
+  },
+  {
+    "id": "00980",
+    "description": "Poctiva",
+    "country": "Czechia",
+    "letter": "P",
+    "storage id": "965"
   }
 ]
