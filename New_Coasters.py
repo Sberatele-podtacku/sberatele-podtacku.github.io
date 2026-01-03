@@ -130,7 +130,7 @@ for i in range(0, len(recenter_files), 2):
 
 # ─── STEP 4: UPDATE metadata_updated.csv SAFELY ──────────────────────────
 try:
-    df_existing = pd.read_csv(METADATA_CSV)
+    df_existing = pd.read_csv(METADATA_CSV, encoding='cp1252')
     df_existing.columns = df_existing.columns.str.strip().str.lower()
     existing_ids = set(df_existing["id"].astype(str))
 except FileNotFoundError:
@@ -143,7 +143,7 @@ new_df = pd.DataFrame({"id": ids_to_add})
 if ids_to_add:
     df_final = pd.concat([df_existing, new_df], ignore_index=True)
     try:
-        df_final.to_csv(METADATA_CSV, index=False)
+        df_final.to_csv(METADATA_CSV, index=False, encoding='utf-8-sig')
         print(f"📄 metadata_updated.csv updated with {len(ids_to_add)} new IDs.")
     except PermissionError:
         print("❌ ERROR: Cannot write to metadata_updated.csv — is it open in Excel?")

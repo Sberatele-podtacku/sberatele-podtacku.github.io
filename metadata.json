@@ -7047,5 +7047,82 @@
     "country": "Cyprus",
     "letter": "E",
     "storage id": "992"
+  },
+  {
+    "id": "01008",
+    "description": "Nachmelena Opice",
+    "country": "Czechia",
+    "letter": "N",
+    "storage id": "993"
+  },
+  {
+    "id": "01009",
+    "description": "Agent",
+    "country": "Czechia",
+    "letter": "A",
+    "storage id": "994"
+  },
+  {
+    "id": "01010",
+    "description": "Zeliv",
+    "country": "Czechia",
+    "letter": "Z",
+    "storage id": "995"
+  },
+  {
+    "id": "01011",
+    "description": "Louka Pivovar",
+    "country": "Czechia",
+    "letter": "L",
+    "storage id": "996"
+  },
+  {
+    "id": "01012",
+    "description": "Carolus",
+    "country": "Belgium",
+    "letter": "C",
+    "storage id": "997"
+  },
+  {
+    "id": "01013",
+    "description": "Klenot",
+    "country": "Czechia",
+    "letter": "K",
+    "storage id": "998"
+  },
+  {
+    "id": "01014",
+    "description": "Anonymous",
+    "country": "Czechia",
+    "letter": "A",
+    "storage id": "999"
+  },
+  {
+    "id": "01015",
+    "description": "Starokladno",
+    "country": "Czechia",
+    "letter": "S",
+    "storage id": "1000"
+  },
+  {
+    "id": "01016",
+    "description": "Supa",
+    "country": "Czechia",
+    "letter": "S",
+    "storage id": "1001"
+  },
+  {
+    "id": "01017",
+    "description": "Holba",
+    "country": "Czechia",
+    "letter": "H",
+    "storage id": "1002"
+  },
+  {
+    "id": "01018",
+    "description": "Moravia Pivovar",
+    "country": "Czechia",
+    "letter": "M",
+    "storage id": "1003"
   }
 ]
