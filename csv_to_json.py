@@ -12,7 +12,7 @@ if not CSV_PATH.exists():
     exit(1)
 
 # 1) Read the CSV
-with CSV_PATH.open(newline="", encoding="utf8") as f:
+with CSV_PATH.open(newline="", encoding="cp1252") as f:
     reader = csv.DictReader(f)
     data   = list(reader)
 

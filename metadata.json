@@ -6858,5 +6858,194 @@
     "country": "Czechia",
     "letter": "P",
     "storage id": "965"
+  },
+  {
+    "id": "00981",
+    "description": "Maisel",
+    "country": "Germany",
+    "letter": "M",
+    "storage id": "966"
+  },
+  {
+    "id": "00982",
+    "description": "Mazak",
+    "country": "Czechia",
+    "letter": "M",
+    "storage id": "967"
+  },
+  {
+    "id": "00983",
+    "description": "Matuska",
+    "country": "Czechia",
+    "letter": "M",
+    "storage id": "968"
+  },
+  {
+    "id": "00984",
+    "description": "Mazak",
+    "country": "Czechia",
+    "letter": "M",
+    "storage id": "969"
+  },
+  {
+    "id": "00985",
+    "description": "Svabin",
+    "country": "Czechia",
+    "letter": "S",
+    "storage id": "970"
+  },
+  {
+    "id": "00986",
+    "description": "Svabin",
+    "country": "Czechia",
+    "letter": "S",
+    "storage id": "971"
+  },
+  {
+    "id": "00987",
+    "description": "Lod",
+    "country": "Czechia",
+    "letter": "L",
+    "storage id": "972"
+  },
+  {
+    "id": "00988",
+    "description": "Lod",
+    "country": "Czechia",
+    "letter": "L",
+    "storage id": "973"
+  },
+  {
+    "id": "00989",
+    "description": "Kronenbourg ",
+    "country": "France",
+    "letter": "K",
+    "storage id": "974"
+  },
+  {
+    "id": "00990",
+    "description": "Carlsberg",
+    "country": "Cyprus",
+    "letter": "C",
+    "storage id": "975"
+  },
+  {
+    "id": "00991",
+    "description": "Madcat",
+    "country": "Czechia",
+    "letter": "M",
+    "storage id": "976"
+  },
+  {
+    "id": "00992",
+    "description": "Beerlovers",
+    "country": "Austria",
+    "letter": "B",
+    "storage id": "977"
+  },
+  {
+    "id": "00993",
+    "description": "Brew Dog",
+    "country": "Czechia",
+    "letter": "B",
+    "storage id": "978"
+  },
+  {
+    "id": "00994",
+    "description": "Kino Pivo",
+    "country": "Czechia",
+    "letter": "K",
+    "storage id": "979"
+  },
+  {
+    "id": "00995",
+    "description": "Mythos",
+    "country": "Cyprus",
+    "letter": "M",
+    "storage id": "980"
+  },
+  {
+    "id": "00996",
+    "description": "Memories",
+    "country": "Cyprus",
+    "letter": "M",
+    "storage id": "981"
+  },
+  {
+    "id": "00997",
+    "description": "Estrella Damn",
+    "country": "Cyprus",
+    "letter": "E",
+    "storage id": "982"
+  },
+  {
+    "id": "00998",
+    "description": "Golem",
+    "country": "Cyprus",
+    "letter": "G",
+    "storage id": "983"
+  },
+  {
+    "id": "00999",
+    "description": "KEO",
+    "country": "Cyprus",
+    "letter": "K",
+    "storage id": "984"
+  },
+  {
+    "id": "01000",
+    "description": "KEO",
+    "country": "Cyprus",
+    "letter": "K",
+    "storage id": "985"
+  },
+  {
+    "id": "01001",
+    "description": "Columbia",
+    "country": "Cyprus",
+    "letter": "C",
+    "storage id": "986"
+  },
+  {
+    "id": "01002",
+    "description": "U Dvou Kocek",
+    "country": "Czechia",
+    "letter": "U",
+    "storage id": "987"
+  },
+  {
+    "id": "01003",
+    "description": "Sdruzeni Pratel Piva",
+    "country": "Czechia",
+    "letter": "S",
+    "storage id": "988"
+  },
+  {
+    "id": "01004",
+    "description": "Svabin",
+    "country": "Czechia",
+    "letter": "S",
+    "storage id": "989"
+  },
+  {
+    "id": "01005",
+    "description": "Varga Brothers",
+    "country": "Czechia",
+    "letter": "V",
+    "storage id": "990"
+  },
+  {
+    "id": "01006",
+    "description": "Kasteel",
+    "country": "Belgium",
+    "letter": "K",
+    "storage id": "991"
+  },
+  {
+    "id": "01007",
+    "description": "Efes",
+    "country": "Cyprus",
+    "letter": "E",
+    "storage id": "992"
   }
 ]
