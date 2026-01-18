@@ -272,7 +272,7 @@
         cap.innerHTML = `
           <div style="font-weight: 600;">${m.description || ''}</div>
           <div style="font-size: 0.65rem; color: #444;">${m.country || ''}</div>
-          <div style="font-size: 0.6rem; color: #666;">[${m.id}]</div>
+          <div style="font-size: 0.6rem; color: #666;">[${m.id}] [${m.grade || "?"}]</div>
         `;
         cap.onclick = () => openLightbox(m.id, img.dataset.side);
         fig.append(cap);
