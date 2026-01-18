@@ -4,8295 +4,7258 @@
     "description": "Brasileiro",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "34",
-    "grade": ""
+    "storage id": "34"
   },
   {
     "id": "00002",
     "description": "Groove Bar",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "262",
-    "grade": ""
+    "storage id": "262"
   },
   {
     "id": "00003",
     "description": "Gulpener",
     "country": "Netherlands",
     "letter": "G",
-    "storage id": "261",
-    "grade": ""
+    "storage id": "261"
   },
   {
     "id": "00004",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "283",
-    "grade": ""
+    "storage id": "283"
   },
   {
     "id": "00005",
     "description": "Grimbergen",
     "country": "Belgium",
     "letter": "G",
-    "storage id": "272",
-    "grade": ""
+    "storage id": "272"
   },
   {
     "id": "00006",
     "description": "Golem",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "273",
-    "grade": ""
+    "storage id": "273"
   },
   {
     "id": "00007",
     "description": "Grand Mir",
     "country": "Belgium",
     "letter": "G",
-    "storage id": "274",
-    "grade": ""
+    "storage id": "274"
   },
   {
     "id": "00008",
     "description": "Golden Bauch",
     "country": "Brazil",
     "letter": "G",
-    "storage id": "275",
-    "grade": ""
+    "storage id": "275"
   },
   {
     "id": "00009",
     "description": "Gefragt",
     "country": "Germany",
     "letter": "G",
-    "storage id": "271",
-    "grade": ""
+    "storage id": "271"
   },
   {
     "id": "00010",
     "description": "Gulden Draak",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "264",
-    "grade": ""
+    "storage id": "264"
   },
   {
     "id": "00011",
     "description": "Grolsch",
     "country": "Netherlands",
     "letter": "G",
-    "storage id": "277",
-    "grade": ""
+    "storage id": "277"
   },
   {
     "id": "00012",
     "description": "Grolsch",
     "country": "Netherlands",
     "letter": "G",
-    "storage id": "279",
-    "grade": ""
+    "storage id": "279"
   },
   {
     "id": "00013",
     "description": "Guinness",
     "country": "Ireland",
     "letter": "G",
-    "storage id": "267",
-    "grade": ""
+    "storage id": "267"
   },
   {
     "id": "00014",
     "description": "Guinness",
     "country": "Ireland",
     "letter": "G",
-    "storage id": "268",
-    "grade": ""
+    "storage id": "268"
   },
   {
     "id": "00015",
     "description": "Guinness",
     "country": "Ireland",
     "letter": "G",
-    "storage id": "269",
-    "grade": ""
+    "storage id": "269"
   },
   {
     "id": "00016",
     "description": "Guinness",
     "country": "Ireland",
     "letter": "G",
-    "storage id": "270",
-    "grade": ""
+    "storage id": "270"
   },
   {
     "id": "00017",
     "description": "Gebrouwen door Vrouwen",
     "country": "Netherlands",
     "letter": "G",
-    "storage id": "276",
-    "grade": ""
+    "storage id": "276"
   },
   {
     "id": "00018",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "289",
-    "grade": ""
+    "storage id": "289"
   },
   {
     "id": "00019",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "288",
-    "grade": ""
+    "storage id": "288"
   },
   {
     "id": "00020",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "290",
-    "grade": ""
+    "storage id": "290"
   },
   {
     "id": "00021",
     "description": "Guinness",
     "country": "Ireland",
     "letter": "G",
-    "storage id": "266",
-    "grade": ""
+    "storage id": "266"
   },
   {
     "id": "00022",
     "description": "Guinness",
     "country": "Ireland",
     "letter": "G",
-    "storage id": "265",
-    "grade": ""
+    "storage id": "265"
   },
   {
     "id": "00023",
     "description": "Gilded Iguana",
     "country": "Costa Rica",
     "letter": "G",
-    "storage id": "257",
-    "grade": ""
+    "storage id": "257"
   },
   {
     "id": "00024",
     "description": "Maisel",
     "country": "Germany",
     "letter": "M",
-    "storage id": "519",
-    "grade": ""
+    "storage id": "519"
   },
   {
     "id": "00025",
     "description": "Max Haus",
     "country": "Brazil",
     "letter": "M",
-    "storage id": "520",
-    "grade": ""
+    "storage id": "520"
   },
   {
     "id": "00026",
     "description": "Maes",
     "country": "Belgium",
     "letter": "M",
-    "storage id": "522",
-    "grade": ""
+    "storage id": "522"
   },
   {
     "id": "00027",
     "description": "Moby Dick",
     "country": "Italy",
     "letter": "M",
-    "storage id": "533",
-    "grade": ""
+    "storage id": "533"
   },
   {
     "id": "00028",
     "description": "Monchshof",
     "country": "Germany",
     "letter": "M",
-    "storage id": "532",
-    "grade": ""
+    "storage id": "532"
   },
   {
     "id": "00029",
     "description": "Maneblusser",
     "country": "Belgium",
     "letter": "M",
-    "storage id": "511",
-    "grade": ""
+    "storage id": "511"
   },
   {
     "id": "00030",
     "description": "Mamlasu",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "512",
-    "grade": ""
+    "storage id": "512"
   },
   {
     "id": "00031",
     "description": "McGuires",
     "country": "USA",
     "letter": "M",
-    "storage id": "498",
-    "grade": ""
+    "storage id": "498"
   },
   {
     "id": "00032",
     "description": "Mazette",
     "country": "Belgium",
     "letter": "M",
-    "storage id": "513",
-    "grade": ""
+    "storage id": "513"
   },
   {
     "id": "00033",
     "description": "Mort Subite",
     "country": "Belgium",
     "letter": "M",
-    "storage id": "514",
-    "grade": ""
+    "storage id": "514"
   },
   {
     "id": "00034",
     "description": "Moretti",
     "country": "Italy",
     "letter": "M",
-    "storage id": "515",
-    "grade": ""
+    "storage id": "515"
   },
   {
     "id": "00035",
     "description": "Maisel",
     "country": "Germany",
     "letter": "M",
-    "storage id": "500",
-    "grade": ""
+    "storage id": "500"
   },
   {
     "id": "00036",
     "description": "Kutna Hora",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "506",
-    "grade": ""
+    "storage id": "506"
   },
   {
     "id": "00037",
     "description": "Mahou",
     "country": "Spain",
     "letter": "M",
-    "storage id": "501",
-    "grade": ""
+    "storage id": "501"
   },
   {
     "id": "00038",
     "description": "Magners",
     "country": "Ireland",
     "letter": "M",
-    "storage id": "504",
-    "grade": ""
+    "storage id": "504"
   },
   {
     "id": "00039",
     "description": "Michala Restaurace",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "509",
-    "grade": ""
+    "storage id": "509"
   },
   {
     "id": "00040",
     "description": "Moravia Pivovar",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "538",
-    "grade": ""
+    "storage id": "538"
   },
   {
     "id": "00041",
     "description": "Moravsky Zizkov Pivovar",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "928",
-    "grade": ""
+    "storage id": "928"
   },
   {
     "id": "00042",
     "description": "M",
     "country": "",
     "letter": "M",
-    "storage id": "540",
-    "grade": ""
+    "storage id": "540"
   },
   {
     "id": "00043",
     "description": "Mokum",
     "country": "Netherlands",
     "letter": "M",
-    "storage id": "539",
-    "grade": ""
+    "storage id": "539"
   },
   {
     "id": "00044",
     "description": "Krkonossky Medved",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "536",
-    "grade": ""
+    "storage id": "536"
   },
   {
     "id": "00045",
     "description": "Mikalido",
     "country": "Germany",
     "letter": "M",
-    "storage id": "543",
-    "grade": ""
+    "storage id": "543"
   },
   {
     "id": "00046",
     "description": "Munchner Bier",
     "country": "Germany",
     "letter": "M",
-    "storage id": "542",
-    "grade": ""
+    "storage id": "542"
   },
   {
     "id": "00047",
     "description": "Oedipus",
     "country": "Netherlands",
     "letter": "O",
-    "storage id": "541",
-    "grade": ""
+    "storage id": "541"
   },
   {
     "id": "00048",
     "description": "Krkonossky Medved",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "535",
-    "grade": ""
+    "storage id": "535"
   },
   {
     "id": "00049",
     "description": "Mercuria",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "537",
-    "grade": ""
+    "storage id": "537"
   },
   {
     "id": "00050",
     "description": "Beer Experience",
     "country": "Spain",
     "letter": "B",
-    "storage id": "35",
-    "grade": ""
+    "storage id": "35"
   },
   {
     "id": "00051",
     "description": "Dorada",
     "country": "Spain",
     "letter": "D",
-    "storage id": "208",
-    "grade": ""
+    "storage id": "208"
   },
   {
     "id": "00052",
     "description": "Estrella Galicia",
     "country": "Spain",
     "letter": "E",
-    "storage id": "226",
-    "grade": ""
+    "storage id": "226"
   },
   {
     "id": "00053",
     "description": "Cervezas 1906",
     "country": "Spain",
     "letter": "C",
-    "storage id": "163",
-    "grade": ""
+    "storage id": "163"
   },
   {
     "id": "00054",
     "description": "Estrella Damm",
     "country": "Spain",
     "letter": "E",
-    "storage id": "227",
-    "grade": ""
+    "storage id": "227"
   },
   {
     "id": "00055",
     "description": "Heineken",
     "country": "Netherlands",
     "letter": "H",
-    "storage id": "310",
-    "grade": ""
+    "storage id": "310"
   },
   {
     "id": "00056",
     "description": "Tropical",
     "country": "Spain",
     "letter": "T",
-    "storage id": "832",
-    "grade": ""
+    "storage id": "832"
   },
   {
     "id": "00057",
     "description": "Alhambra",
     "country": "Spain",
     "letter": "A",
-    "storage id": "6",
-    "grade": ""
+    "storage id": "6"
   },
   {
     "id": "00058",
     "description": "Cruzcampo",
     "country": "Spain",
     "letter": "C",
-    "storage id": "179",
-    "grade": ""
+    "storage id": "179"
   },
   {
     "id": "00059",
     "description": "Mahou",
     "country": "Spain",
     "letter": "M",
-    "storage id": "502",
-    "grade": ""
+    "storage id": "502"
   },
   {
     "id": "00060",
     "description": "Tropical",
     "country": "Spain",
     "letter": "T",
-    "storage id": "831",
-    "grade": ""
+    "storage id": "831"
   },
   {
     "id": "00061",
     "description": "Warsteiner",
     "country": "Spain",
     "letter": "W",
-    "storage id": "866",
-    "grade": ""
+    "storage id": "866"
   },
   {
     "id": "00062",
     "description": "El Aguila",
     "country": "Spain",
     "letter": "E",
-    "storage id": "9",
-    "grade": ""
+    "storage id": "9"
   },
   {
     "id": "00063",
     "description": "Tropical",
     "country": "Spain",
     "letter": "T",
-    "storage id": "833",
-    "grade": ""
+    "storage id": "833"
   },
   {
     "id": "00064",
     "description": "Canarias Viva",
     "country": "Spain",
     "letter": "C",
-    "storage id": "945",
-    "grade": ""
+    "storage id": "945"
   },
   {
     "id": "00065",
     "description": "Alhambra",
     "country": "Spain",
     "letter": "A",
-    "storage id": "7",
-    "grade": ""
+    "storage id": "7"
   },
   {
     "id": "00066",
     "description": "Dorada",
     "country": "Spain",
     "letter": "D",
-    "storage id": "209",
-    "grade": ""
+    "storage id": "209"
   },
   {
     "id": "00067",
     "description": "TAJ Rooftop",
     "country": "Spain",
     "letter": "T",
-    "storage id": "837",
-    "grade": ""
+    "storage id": "837"
   },
   {
     "id": "00068",
     "description": "Cerveny Jelen",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "161",
-    "grade": ""
+    "storage id": "161"
   },
   {
     "id": "00069",
     "description": "Kosice Pivovar",
     "country": "Slovakia",
     "letter": "K",
-    "storage id": "377",
-    "grade": ""
+    "storage id": "377"
   },
   {
     "id": "00070",
     "description": "Kosice Pivovar",
     "country": "Slovakia",
     "letter": "K",
-    "storage id": "378",
-    "grade": ""
+    "storage id": "378"
   },
   {
     "id": "00071",
     "description": "Kaltenecker Pivovar",
     "country": "Slovakia",
     "letter": "K",
-    "storage id": "380",
-    "grade": ""
+    "storage id": "380"
   },
   {
     "id": "00072",
     "description": "Starobrno",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "749",
-    "grade": ""
+    "storage id": "749"
   },
   {
     "id": "00073",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "611",
-    "grade": ""
+    "storage id": "611"
   },
   {
     "id": "00074",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "612",
-    "grade": ""
+    "storage id": "612"
   },
   {
     "id": "00075",
     "description": "Kamenice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "410",
-    "grade": ""
+    "storage id": "410"
   },
   {
     "id": "00076",
     "description": "Louka Pivovar",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "446",
-    "grade": ""
+    "storage id": "446"
   },
   {
     "id": "00077",
     "description": "Lipton",
     "country": "",
     "letter": "L",
-    "storage id": "444",
-    "grade": ""
+    "storage id": "444"
   },
   {
     "id": "00078",
     "description": "Lobec Pivovar",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "448",
-    "grade": ""
+    "storage id": "448"
   },
   {
     "id": "00079",
     "description": "Lobec Pivovar",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "447",
-    "grade": ""
+    "storage id": "447"
   },
   {
     "id": "00080",
     "description": "Litovel",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "439",
-    "grade": ""
+    "storage id": "439"
   },
   {
     "id": "00081",
     "description": "Lucky Drop Malostrana",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "449",
-    "grade": ""
+    "storage id": "449"
   },
   {
     "id": "00082",
     "description": "Moravia Pivovar",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "450",
-    "grade": ""
+    "storage id": "450"
   },
   {
     "id": "00083",
     "description": "Landwehr-Brau",
     "country": "Germany",
     "letter": "L",
-    "storage id": "436",
-    "grade": ""
+    "storage id": "436"
   },
   {
     "id": "00084",
     "description": "Uiltje",
     "country": "Netherlands",
     "letter": "U",
-    "storage id": "906",
-    "grade": ""
+    "storage id": "906"
   },
   {
     "id": "00085",
     "description": "Stelz",
     "country": "Netherlands",
     "letter": "S",
-    "storage id": "764",
-    "grade": ""
+    "storage id": "764"
   },
   {
     "id": "00086",
     "description": "Steiger",
     "country": "Slovakia",
     "letter": "S",
-    "storage id": "763",
-    "grade": ""
+    "storage id": "763"
   },
   {
     "id": "00087",
     "description": "Steiger",
     "country": "Slovakia",
     "letter": "S",
-    "storage id": "762",
-    "grade": ""
+    "storage id": "762"
   },
   {
     "id": "00088",
     "description": "Medved Humensky Pivovar",
     "country": "Slovakia",
     "letter": "M",
-    "storage id": "503",
-    "grade": ""
+    "storage id": "503"
   },
   {
     "id": "00089",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "285",
-    "grade": ""
+    "storage id": "285"
   },
   {
     "id": "00090",
     "description": "Kofola",
     "country": "Slovakia",
     "letter": "K",
-    "storage id": "414",
-    "grade": ""
+    "storage id": "414"
   },
   {
     "id": "00091",
     "description": "Tipos",
     "country": "Slovakia",
     "letter": "T",
-    "storage id": "836",
-    "grade": ""
+    "storage id": "836"
   },
   {
     "id": "00092",
     "description": "Trenciansky Lanius Pivovar",
     "country": "Slovakia",
     "letter": "T",
-    "storage id": "855",
-    "grade": ""
+    "storage id": "855"
   },
   {
     "id": "00093",
     "description": "Trenciansky Lanius Pivovar",
     "country": "Slovakia",
     "letter": "T",
-    "storage id": "854",
-    "grade": ""
+    "storage id": "854"
   },
   {
     "id": "00094",
     "description": "Trenciansky Lanius Pivovar",
     "country": "Slovakia",
     "letter": "T",
-    "storage id": "853",
-    "grade": ""
+    "storage id": "853"
   },
   {
     "id": "00095",
     "description": "Trenciansky Lanius Pivovar",
     "country": "Slovakia",
     "letter": "T",
-    "storage id": "852",
-    "grade": ""
+    "storage id": "852"
   },
   {
     "id": "00096",
     "description": "Trenciansky Lanius Pivovar",
     "country": "Slovakia",
     "letter": "T",
-    "storage id": "851",
-    "grade": ""
+    "storage id": "851"
   },
   {
     "id": "00097",
     "description": "Trenciansky Lanius Pivovar",
     "country": "Slovakia",
     "letter": "T",
-    "storage id": "850",
-    "grade": ""
+    "storage id": "850"
   },
   {
     "id": "00098",
     "description": "Trenciansky Lanius Pivovar",
     "country": "Slovakia",
     "letter": "T",
-    "storage id": "849",
-    "grade": ""
+    "storage id": "849"
   },
   {
     "id": "00099",
     "description": "Trenciansky Lanius Pivovar",
     "country": "Slovakia",
     "letter": "T",
-    "storage id": "848",
-    "grade": ""
+    "storage id": "848"
   },
   {
     "id": "00100",
     "description": "Klubovna",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "390",
-    "grade": ""
+    "storage id": "390"
   },
   {
     "id": "00101",
     "description": "Bradac Slobodny Pivovar",
     "country": "Slovakia",
     "letter": "B",
-    "storage id": "105",
-    "grade": ""
+    "storage id": "105"
   },
   {
     "id": "00102",
     "description": "Tripel Danvers",
     "country": "Belgium",
     "letter": "T",
-    "storage id": "834",
-    "grade": ""
+    "storage id": "834"
   },
   {
     "id": "00103",
     "description": "Steiger",
     "country": "Slovakia",
     "letter": "S",
-    "storage id": "761",
-    "grade": ""
+    "storage id": "761"
   },
   {
     "id": "00104",
     "description": "Uiltje",
     "country": "Netherlands",
     "letter": "U",
-    "storage id": "908",
-    "grade": ""
+    "storage id": "908"
   },
   {
     "id": "00105",
     "description": "Grolsch",
     "country": "Netherlands",
     "letter": "G",
-    "storage id": "278",
-    "grade": ""
+    "storage id": "278"
   },
   {
     "id": "00106",
     "description": "Bavaria",
     "country": "Netherlands",
     "letter": "B",
-    "storage id": "33",
-    "grade": ""
+    "storage id": "33"
   },
   {
     "id": "00107",
     "description": "Vila 63",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "948",
-    "grade": ""
+    "storage id": "948"
   },
   {
     "id": "00108",
     "description": "Pivoteka.cz",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "602",
-    "grade": ""
+    "storage id": "602"
   },
   {
     "id": "00109",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "78",
-    "grade": ""
+    "storage id": "78"
   },
   {
     "id": "00110",
     "description": "Libertas",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "442",
-    "grade": ""
+    "storage id": "442"
   },
   {
     "id": "00111",
     "description": "Pivoboard",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "606",
-    "grade": ""
+    "storage id": "606"
   },
   {
     "id": "00112",
     "description": "Obora",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "559",
-    "grade": ""
+    "storage id": "559"
   },
   {
     "id": "00113",
     "description": "Krusovice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "400",
-    "grade": ""
+    "storage id": "400"
   },
   {
     "id": "00114",
     "description": "Pivoteka.cz",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "605",
-    "grade": ""
+    "storage id": "605"
   },
   {
     "id": "00115",
     "description": "Pivoteka.cz",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "604",
-    "grade": ""
+    "storage id": "604"
   },
   {
     "id": "00116",
     "description": "Pivoteka.cz",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "603",
-    "grade": ""
+    "storage id": "603"
   },
   {
     "id": "00117",
     "description": "Rezidenti1",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "669",
-    "grade": ""
+    "storage id": "669"
   },
   {
     "id": "00118",
     "description": "Vila 63",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "949",
-    "grade": ""
+    "storage id": "949"
   },
   {
     "id": "00119",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "452",
-    "grade": ""
+    "storage id": "452"
   },
   {
     "id": "00120",
     "description": "Vila 63",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "950",
-    "grade": ""
+    "storage id": "950"
   },
   {
     "id": "00121",
     "description": "Topsil",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "838",
-    "grade": ""
+    "storage id": "838"
   },
   {
     "id": "00122",
     "description": "Clock",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "160",
-    "grade": ""
+    "storage id": "160"
   },
   {
     "id": "00123",
     "description": "Kamenice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "411",
-    "grade": ""
+    "storage id": "411"
   },
   {
     "id": "00124",
     "description": "FH Prager",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "252",
-    "grade": ""
+    "storage id": "252"
   },
   {
     "id": "00125",
     "description": "FH Prager",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "251",
-    "grade": ""
+    "storage id": "251"
   },
   {
     "id": "00126",
     "description": "Cerny Medved Pivovar",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "152",
-    "grade": ""
+    "storage id": "152"
   },
   {
     "id": "00127",
     "description": "Cerna Barbora",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "171",
-    "grade": ""
+    "storage id": "171"
   },
   {
     "id": "00128",
     "description": "Ostravar",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "560",
-    "grade": ""
+    "storage id": "560"
   },
   {
     "id": "00129",
     "description": "Mandarin Oriental",
     "country": "Switzerland",
     "letter": "M",
-    "storage id": "521",
-    "grade": ""
+    "storage id": "521"
   },
   {
     "id": "00130",
     "description": "Leffe",
     "country": "Belgium",
     "letter": "L",
-    "storage id": "421",
-    "grade": ""
+    "storage id": "421"
   },
   {
     "id": "00131",
     "description": "Leffe",
     "country": "Belgium",
     "letter": "L",
-    "storage id": "417",
-    "grade": ""
+    "storage id": "417"
   },
   {
     "id": "00132",
     "description": "Leffe",
     "country": "Belgium",
     "letter": "L",
-    "storage id": "419",
-    "grade": ""
+    "storage id": "419"
   },
   {
     "id": "00133",
     "description": "Strakonice",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "752",
-    "grade": ""
+    "storage id": "752"
   },
   {
     "id": "00134",
     "description": "Ricansky Pivovar",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "689",
-    "grade": ""
+    "storage id": "689"
   },
   {
     "id": "00135",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "615",
-    "grade": ""
+    "storage id": "615"
   },
   {
     "id": "00136",
     "description": "Regionova",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "683",
-    "grade": ""
+    "storage id": "683"
   },
   {
     "id": "00137",
     "description": "Bakalar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "79",
-    "grade": ""
+    "storage id": "79"
   },
   {
     "id": "00138",
     "description": "U2 Craft ",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "913",
-    "grade": ""
+    "storage id": "913"
   },
   {
     "id": "00139",
     "description": "Cerveny Vlk",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "162",
-    "grade": ""
+    "storage id": "162"
   },
   {
     "id": "00140",
     "description": "Permon",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "608",
-    "grade": ""
+    "storage id": "608"
   },
   {
     "id": "00141",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "454",
-    "grade": ""
+    "storage id": "454"
   },
   {
     "id": "00142",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "453",
-    "grade": ""
+    "storage id": "453"
   },
   {
     "id": "00143",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "451",
-    "grade": ""
+    "storage id": "451"
   },
   {
     "id": "00144",
     "description": "Lowlander",
     "country": "Netherlands",
     "letter": "L",
-    "storage id": "425",
-    "grade": ""
+    "storage id": "425"
   },
   {
     "id": "00145",
     "description": "Lowlander",
     "country": "Netherlands",
     "letter": "L",
-    "storage id": "424",
-    "grade": ""
+    "storage id": "424"
   },
   {
     "id": "00146",
     "description": "Lucifer",
     "country": "Belgium",
     "letter": "L",
-    "storage id": "437",
-    "grade": ""
+    "storage id": "437"
   },
   {
     "id": "00147",
     "description": "Litovel",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "438",
-    "grade": ""
+    "storage id": "438"
   },
   {
     "id": "00148",
     "description": "Leffe",
     "country": "Belgium",
     "letter": "L",
-    "storage id": "418",
-    "grade": ""
+    "storage id": "418"
   },
   {
     "id": "00149",
     "description": "Zlaty Bazant",
     "country": "Slovakia",
     "letter": "Z",
-    "storage id": "919",
-    "grade": ""
+    "storage id": "919"
   },
   {
     "id": "00150",
     "description": "Leffe",
     "country": "Belgium",
     "letter": "L",
-    "storage id": "420",
-    "grade": ""
+    "storage id": "420"
   },
   {
     "id": "00151",
     "description": "Libertas",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "441",
-    "grade": ""
+    "storage id": "441"
   },
   {
     "id": "00152",
     "description": "Lowlander",
     "country": "Netherlands",
     "letter": "L",
-    "storage id": "423",
-    "grade": ""
+    "storage id": "423"
   },
   {
     "id": "00153",
     "description": "Lowlander",
     "country": "Netherlands",
     "letter": "L",
-    "storage id": "422",
-    "grade": ""
+    "storage id": "422"
   },
   {
     "id": "00154",
     "description": "Lowlander",
     "country": "Netherlands",
     "letter": "L",
-    "storage id": "426",
-    "grade": ""
+    "storage id": "426"
   },
   {
     "id": "00155",
     "description": "Louka Pivovar",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "445",
-    "grade": ""
+    "storage id": "445"
   },
   {
     "id": "00156",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "432",
-    "grade": ""
+    "storage id": "432"
   },
   {
     "id": "00157",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "431",
-    "grade": ""
+    "storage id": "431"
   },
   {
     "id": "00158",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "430",
-    "grade": ""
+    "storage id": "430"
   },
   {
     "id": "00159",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "429",
-    "grade": ""
+    "storage id": "429"
   },
   {
     "id": "00160",
     "description": "Hostomice",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "339",
-    "grade": ""
+    "storage id": "339"
   },
   {
     "id": "00161",
     "description": "Hostomice",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "338",
-    "grade": ""
+    "storage id": "338"
   },
   {
     "id": "00162",
     "description": "Hostomice",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "337",
-    "grade": ""
+    "storage id": "337"
   },
   {
     "id": "00163",
     "description": "Lagunitas",
     "country": "USA",
     "letter": "L",
-    "storage id": "435",
-    "grade": ""
+    "storage id": "435"
   },
   {
     "id": "00164",
     "description": "Lagunitas",
     "country": "USA",
     "letter": "L",
-    "storage id": "433",
-    "grade": ""
+    "storage id": "433"
   },
   {
     "id": "00165",
     "description": "Lagunitas",
     "country": "USA",
     "letter": "L",
-    "storage id": "434",
-    "grade": ""
+    "storage id": "434"
   },
   {
     "id": "00166",
     "description": "Puntigamer",
     "country": "Austria",
     "letter": "P",
-    "storage id": "579",
-    "grade": ""
+    "storage id": "579"
   },
   {
     "id": "00167",
     "description": "Gosser",
     "country": "Austria",
     "letter": "G",
-    "storage id": "260",
-    "grade": ""
+    "storage id": "260"
   },
   {
     "id": "00168",
     "description": "Zajko",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "927",
-    "grade": ""
+    "storage id": "927"
   },
   {
     "id": "00169",
     "description": "Hostivar",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "345",
-    "grade": ""
+    "storage id": "345"
   },
   {
     "id": "00170",
     "description": "Hostivar",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "346",
-    "grade": ""
+    "storage id": "346"
   },
   {
     "id": "00171",
     "description": "Lucni Bouda",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "443",
-    "grade": ""
+    "storage id": "443"
   },
   {
     "id": "00172",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "637",
-    "grade": ""
+    "storage id": "637"
   },
   {
     "id": "00173",
     "description": "Legendes",
     "country": "Belgium",
     "letter": "L",
-    "storage id": "440",
-    "grade": ""
+    "storage id": "440"
   },
   {
     "id": "00174",
     "description": "Dewars",
     "country": "Spain",
     "letter": "D",
-    "storage id": "202",
-    "grade": ""
+    "storage id": "202"
   },
   {
     "id": "00175",
     "description": "Alfa Hellenic",
     "country": "Greece",
     "letter": "A",
-    "storage id": "4",
-    "grade": ""
+    "storage id": "4"
   },
   {
     "id": "00176",
     "description": "Muflon",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "530",
-    "grade": ""
+    "storage id": "530"
   },
   {
     "id": "00177",
     "description": "Brustok",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "36",
-    "grade": ""
+    "storage id": "36"
   },
   {
     "id": "00178",
     "description": "Alera",
     "country": "Honduras",
     "letter": "A",
-    "storage id": "5",
-    "grade": ""
+    "storage id": "5"
   },
   {
     "id": "00179",
     "description": "Svihov",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "748",
-    "grade": ""
+    "storage id": "748"
   },
   {
     "id": "00180",
     "description": "Beranuv",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "38",
-    "grade": ""
+    "storage id": "38"
   },
   {
     "id": "00181",
     "description": "Beranuv",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "37",
-    "grade": ""
+    "storage id": "37"
   },
   {
     "id": "00182",
     "description": "Erdinger",
     "country": "Germany",
     "letter": "E",
-    "storage id": "224",
-    "grade": ""
+    "storage id": "224"
   },
   {
     "id": "00183",
     "description": "Amstel",
     "country": "Greece",
     "letter": "A",
-    "storage id": "13",
-    "grade": ""
+    "storage id": "13"
   },
   {
     "id": "00184",
     "description": "Turnov",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "505",
-    "grade": ""
+    "storage id": "505"
   },
   {
     "id": "00185",
     "description": "Mythos",
     "country": "Greece",
     "letter": "M",
-    "storage id": "510",
-    "grade": ""
+    "storage id": "510"
   },
   {
     "id": "00186",
     "description": "Maisel",
     "country": "Germany",
     "letter": "M",
-    "storage id": "499",
-    "grade": ""
+    "storage id": "499"
   },
   {
     "id": "00187",
     "description": "Ename",
     "country": "Belgium",
     "letter": "E",
-    "storage id": "222",
-    "grade": ""
+    "storage id": "222"
   },
   {
     "id": "00188",
     "description": "Radeberger",
     "country": "Germany",
     "letter": "R",
-    "storage id": "687",
-    "grade": ""
+    "storage id": "687"
   },
   {
     "id": "00189",
     "description": "Obora",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "558",
-    "grade": ""
+    "storage id": "558"
   },
   {
     "id": "00190",
     "description": "Obora",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "557",
-    "grade": ""
+    "storage id": "557"
   },
   {
     "id": "00191",
     "description": "Bistro4",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "84",
-    "grade": ""
+    "storage id": "84"
   },
   {
     "id": "00192",
     "description": "Hejkal",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "303",
-    "grade": ""
+    "storage id": "303"
   },
   {
     "id": "00193",
     "description": "Herold",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "306",
-    "grade": ""
+    "storage id": "306"
   },
   {
     "id": "00194",
     "description": "Brevnovsky Klaster",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "50",
-    "grade": ""
+    "storage id": "50"
   },
   {
     "id": "00195",
     "description": "Koli",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "393",
-    "grade": ""
+    "storage id": "393"
   },
   {
     "id": "00196",
     "description": "Zlata Krava",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "940",
-    "grade": ""
+    "storage id": "940"
   },
   {
     "id": "00197",
     "description": "Starobrno",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "750",
-    "grade": ""
+    "storage id": "750"
   },
   {
     "id": "00198",
     "description": "Poutnik Pelhrimov",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "581",
-    "grade": ""
+    "storage id": "581"
   },
   {
     "id": "00199",
     "description": "Grasel",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "259",
-    "grade": ""
+    "storage id": "259"
   },
   {
     "id": "00200",
     "description": "Pegas",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "580",
-    "grade": ""
+    "storage id": "580"
   },
   {
     "id": "00201",
     "description": "Slavkovsky",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "753",
-    "grade": ""
+    "storage id": "753"
   },
   {
     "id": "00202",
     "description": "Slavkovsky",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "754",
-    "grade": ""
+    "storage id": "754"
   },
   {
     "id": "00203",
     "description": "Kos",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "391",
-    "grade": ""
+    "storage id": "391"
   },
   {
     "id": "00204",
     "description": "Kasteel",
     "country": "Netherlands",
     "letter": "K",
-    "storage id": "392",
-    "grade": ""
+    "storage id": "392"
   },
   {
     "id": "00205",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "57",
-    "grade": ""
+    "storage id": "57"
   },
   {
     "id": "00206",
     "description": "Pivecka",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "428",
-    "grade": ""
+    "storage id": "428"
   },
   {
     "id": "00207",
     "description": "Topolsky",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "835",
-    "grade": ""
+    "storage id": "835"
   },
   {
     "id": "00208",
     "description": "Rotor",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "670",
-    "grade": ""
+    "storage id": "670"
   },
   {
     "id": "00209",
     "description": "Hauskrecht",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "302",
-    "grade": ""
+    "storage id": "302"
   },
   {
     "id": "00210",
     "description": "Pivecka",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "427",
-    "grade": ""
+    "storage id": "427"
   },
   {
     "id": "00211",
     "description": "Hauskrecht",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "301",
-    "grade": ""
+    "storage id": "301"
   },
   {
     "id": "00212",
     "description": "Dalesice",
     "country": "Czechia",
     "letter": "D",
-    "storage id": "193",
-    "grade": ""
+    "storage id": "193"
   },
   {
     "id": "00213",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "673",
-    "grade": ""
+    "storage id": "673"
   },
   {
     "id": "00214",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "676",
-    "grade": ""
+    "storage id": "676"
   },
   {
     "id": "00215",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "674",
-    "grade": ""
+    "storage id": "674"
   },
   {
     "id": "00216",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "675",
-    "grade": ""
+    "storage id": "675"
   },
   {
     "id": "00217",
     "description": "Beznoska",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "66",
-    "grade": ""
+    "storage id": "66"
   },
   {
     "id": "00218",
     "description": "Konrad",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "394",
-    "grade": ""
+    "storage id": "394"
   },
   {
     "id": "00219",
     "description": "Propamatky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "583",
-    "grade": ""
+    "storage id": "583"
   },
   {
     "id": "00220",
     "description": "Zlatopramen",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "916",
-    "grade": ""
+    "storage id": "916"
   },
   {
     "id": "00221",
     "description": "Altvater",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "8",
-    "grade": ""
+    "storage id": "8"
   },
   {
     "id": "00222",
     "description": "Pardubicky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "601",
-    "grade": ""
+    "storage id": "601"
   },
   {
     "id": "00223",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "613",
-    "grade": ""
+    "storage id": "613"
   },
   {
     "id": "00224",
     "description": "Staropramen",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "733",
-    "grade": ""
+    "storage id": "733"
   },
   {
     "id": "00225",
     "description": "Maly Janek",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "528",
-    "grade": ""
+    "storage id": "528"
   },
   {
     "id": "00226",
     "description": "Czech Lion",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "180",
-    "grade": ""
+    "storage id": "180"
   },
   {
     "id": "00227",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "614",
-    "grade": ""
+    "storage id": "614"
   },
   {
     "id": "00228",
     "description": "Pult",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "584",
-    "grade": ""
+    "storage id": "584"
   },
   {
     "id": "00229",
     "description": "Saris",
     "country": "Slovakia",
     "letter": "S",
-    "storage id": "729",
-    "grade": ""
+    "storage id": "729"
   },
   {
     "id": "00230",
     "description": "Stern",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "755",
-    "grade": ""
+    "storage id": "755"
   },
   {
     "id": "00231",
     "description": "Stella Artois",
     "country": "Belgium",
     "letter": "S",
-    "storage id": "740",
-    "grade": ""
+    "storage id": "740"
   },
   {
     "id": "00232",
     "description": "Clock",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "156",
-    "grade": ""
+    "storage id": "156"
   },
   {
     "id": "00233",
     "description": "Clock",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "157",
-    "grade": ""
+    "storage id": "157"
   },
   {
     "id": "00234",
     "description": "Clock",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "158",
-    "grade": ""
+    "storage id": "158"
   },
   {
     "id": "00235",
     "description": "Pardubicky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "600",
-    "grade": ""
+    "storage id": "600"
   },
   {
     "id": "00236",
     "description": "Zichovec",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "921",
-    "grade": ""
+    "storage id": "921"
   },
   {
     "id": "00237",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "896",
-    "grade": ""
+    "storage id": "896"
   },
   {
     "id": "00238",
     "description": "Skaut",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "751",
-    "grade": ""
+    "storage id": "751"
   },
   {
     "id": "00239",
     "description": "Pardubicky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "597",
-    "grade": ""
+    "storage id": "597"
   },
   {
     "id": "00240",
     "description": "Beranek",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "49",
-    "grade": ""
+    "storage id": "49"
   },
   {
     "id": "00241",
     "description": "Berounsky Medved",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "40",
-    "grade": ""
+    "storage id": "40"
   },
   {
     "id": "00242",
     "description": "Heineken",
     "country": "Netherlands",
     "letter": "H",
-    "storage id": "312",
-    "grade": ""
+    "storage id": "312"
   },
   {
     "id": "00243",
     "description": "Heineken",
     "country": "Netherlands",
     "letter": "H",
-    "storage id": "311",
-    "grade": ""
+    "storage id": "311"
   },
   {
     "id": "00244",
     "description": "AvWees",
     "country": "Netherlands",
     "letter": "A",
-    "storage id": "3",
-    "grade": ""
+    "storage id": "3"
   },
   {
     "id": "00245",
     "description": "Basta",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "39",
-    "grade": ""
+    "storage id": "39"
   },
   {
     "id": "00246",
     "description": "Kilian",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "379",
-    "grade": ""
+    "storage id": "379"
   },
   {
     "id": "00247",
     "description": "Cizova",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "164",
-    "grade": ""
+    "storage id": "164"
   },
   {
     "id": "00248",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "58",
-    "grade": ""
+    "storage id": "58"
   },
   {
     "id": "00249",
     "description": "Antos",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "2",
-    "grade": ""
+    "storage id": "2"
   },
   {
     "id": "00250",
     "description": "Andelsky",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "1",
-    "grade": ""
+    "storage id": "1"
   },
   {
     "id": "00251",
     "description": "Malesov",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "534",
-    "grade": ""
+    "storage id": "534"
   },
   {
     "id": "00252",
     "description": "Kosice Pivovar",
     "country": "Slovakia",
     "letter": "K",
-    "storage id": "372",
-    "grade": ""
+    "storage id": "372"
   },
   {
     "id": "00253",
     "description": "Siberia",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "747",
-    "grade": ""
+    "storage id": "747"
   },
   {
     "id": "00254",
     "description": "Gwern",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "258",
-    "grade": ""
+    "storage id": "258"
   },
   {
     "id": "00255",
     "description": "Permon",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "607",
-    "grade": ""
+    "storage id": "607"
   },
   {
     "id": "00256",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "622",
-    "grade": ""
+    "storage id": "622"
   },
   {
     "id": "00257",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "621",
-    "grade": ""
+    "storage id": "621"
   },
   {
     "id": "00258",
     "description": "Cvikov",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "151",
-    "grade": ""
+    "storage id": "151"
   },
   {
     "id": "00259",
     "description": "Uhrineves",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "904",
-    "grade": ""
+    "storage id": "904"
   },
   {
     "id": "00260",
     "description": "Weihenstephan",
     "country": "Germany",
     "letter": "W",
-    "storage id": "868",
-    "grade": ""
+    "storage id": "868"
   },
   {
     "id": "00261",
     "description": "Weihenstephan",
     "country": "Germany",
     "letter": "W",
-    "storage id": "869",
-    "grade": ""
+    "storage id": "869"
   },
   {
     "id": "00262",
     "description": "Hofbrau Kaltenhausen",
     "country": "Austria",
     "letter": "H",
-    "storage id": "300",
-    "grade": ""
+    "storage id": "300"
   },
   {
     "id": "00263",
     "description": "Eggenberg",
     "country": "Austria",
     "letter": "E",
-    "storage id": "219",
-    "grade": ""
+    "storage id": "219"
   },
   {
     "id": "00264",
     "description": "Falkenstejn",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "244",
-    "grade": ""
+    "storage id": "244"
   },
   {
     "id": "00265",
     "description": "Stella Artois",
     "country": "Belgium",
     "letter": "S",
-    "storage id": "739",
-    "grade": ""
+    "storage id": "739"
   },
   {
     "id": "00266",
     "description": "TVerzet",
     "country": "Belgium",
     "letter": "t",
-    "storage id": "947",
-    "grade": ""
+    "storage id": "947"
   },
   {
     "id": "00267",
     "description": "Tupadly",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "847",
-    "grade": ""
+    "storage id": "847"
   },
   {
     "id": "00268",
     "description": "Zlaty Bazant",
     "country": "Slovakia",
     "letter": "Z",
-    "storage id": "931",
-    "grade": ""
+    "storage id": "931"
   },
   {
     "id": "00269",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "381",
-    "grade": ""
+    "storage id": "381"
   },
   {
     "id": "00270",
     "description": "Breznak",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "54",
-    "grade": ""
+    "storage id": "54"
   },
   {
     "id": "00271",
     "description": "Warsteiner",
     "country": "Germany",
     "letter": "W",
-    "storage id": "865",
-    "grade": ""
+    "storage id": "865"
   },
   {
     "id": "00272",
     "description": "Warsteiner",
     "country": "Germany",
     "letter": "W",
-    "storage id": "864",
-    "grade": ""
+    "storage id": "864"
   },
   {
     "id": "00273",
     "description": "Wywar",
     "country": "Czechia",
     "letter": "W",
-    "storage id": "861",
-    "grade": ""
+    "storage id": "861"
   },
   {
     "id": "00274",
     "description": "Wild East",
     "country": "USA",
     "letter": "W",
-    "storage id": "867",
-    "grade": ""
+    "storage id": "867"
   },
   {
     "id": "00275",
     "description": "Wywar",
     "country": "Czechia",
     "letter": "W",
-    "storage id": "860",
-    "grade": ""
+    "storage id": "860"
   },
   {
     "id": "00276",
     "description": "Westmalle",
     "country": "Belgium",
     "letter": "W",
-    "storage id": "862",
-    "grade": ""
+    "storage id": "862"
   },
   {
     "id": "00277",
     "description": "Weitra Brau",
     "country": "Austria",
     "letter": "W",
-    "storage id": "863",
-    "grade": ""
+    "storage id": "863"
   },
   {
     "id": "00278",
     "description": "Wai",
     "country": "",
     "letter": "W",
-    "storage id": "946",
-    "grade": ""
+    "storage id": "946"
   },
   {
     "id": "00279",
     "description": "Tyskie",
     "country": "Poland",
     "letter": "T",
-    "storage id": "828",
-    "grade": ""
+    "storage id": "828"
   },
   {
     "id": "00280",
     "description": "Triton",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "846",
-    "grade": ""
+    "storage id": "846"
   },
   {
     "id": "00281",
     "description": "Teletruc",
     "country": "Belgium",
     "letter": "T",
-    "storage id": "845",
-    "grade": ""
+    "storage id": "845"
   },
   {
     "id": "00282",
     "description": "Thornbridge",
     "country": "England",
     "letter": "T",
-    "storage id": "844",
-    "grade": ""
+    "storage id": "844"
   },
   {
     "id": "00283",
     "description": "Tropical",
     "country": "Spain",
     "letter": "T",
-    "storage id": "830",
-    "grade": ""
+    "storage id": "830"
   },
   {
     "id": "00284",
     "description": "Tropical",
     "country": "Spain",
     "letter": "T",
-    "storage id": "829",
-    "grade": ""
+    "storage id": "829"
   },
   {
     "id": "00285",
     "description": "Tovarna",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "839",
-    "grade": ""
+    "storage id": "839"
   },
   {
     "id": "00286",
     "description": "Trautenberk",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "842",
-    "grade": ""
+    "storage id": "842"
   },
   {
     "id": "00287",
     "description": "Trautenberk",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "841",
-    "grade": ""
+    "storage id": "841"
   },
   {
     "id": "00288",
     "description": "Oedipus",
     "country": "Netherlands",
     "letter": "O",
-    "storage id": "561",
-    "grade": ""
+    "storage id": "561"
   },
   {
     "id": "00289",
     "description": "Texels",
     "country": "Netherlands",
     "letter": "T",
-    "storage id": "843",
-    "grade": ""
+    "storage id": "843"
   },
   {
     "id": "00290",
     "description": "Two Chefs Brewing",
     "country": "Netherlands",
     "letter": "T",
-    "storage id": "840",
-    "grade": ""
+    "storage id": "840"
   },
   {
     "id": "00291",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "895",
-    "grade": ""
+    "storage id": "895"
   },
   {
     "id": "00292",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "894",
-    "grade": ""
+    "storage id": "894"
   },
   {
     "id": "00293",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "897",
-    "grade": ""
+    "storage id": "897"
   },
   {
     "id": "00294",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "898",
-    "grade": ""
+    "storage id": "898"
   },
   {
     "id": "00295",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "899",
-    "grade": ""
+    "storage id": "899"
   },
   {
     "id": "00296",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "900",
-    "grade": ""
+    "storage id": "900"
   },
   {
     "id": "00297",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "901",
-    "grade": ""
+    "storage id": "901"
   },
   {
     "id": "00298",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "902",
-    "grade": ""
+    "storage id": "902"
   },
   {
     "id": "00299",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "903",
-    "grade": ""
+    "storage id": "903"
   },
   {
     "id": "00300",
     "description": "Untappd",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "909",
-    "grade": ""
+    "storage id": "909"
   },
   {
     "id": "00301",
     "description": "Uiltje",
     "country": "Netherlands",
     "letter": "U",
-    "storage id": "907",
-    "grade": ""
+    "storage id": "907"
   },
   {
     "id": "00302",
     "description": "Up Festival",
     "country": "Belgium",
     "letter": "U",
-    "storage id": "910",
-    "grade": ""
+    "storage id": "910"
   },
   {
     "id": "00303",
     "description": "Fleku",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "242",
-    "grade": ""
+    "storage id": "242"
   },
   {
     "id": "00304",
     "description": "Uhrineves",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "905",
-    "grade": ""
+    "storage id": "905"
   },
   {
     "id": "00305",
     "description": "Up Bar",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "911",
-    "grade": ""
+    "storage id": "911"
   },
   {
     "id": "00306",
     "description": "Augustin",
     "country": "Belgium",
     "letter": "A",
-    "storage id": "25",
-    "grade": ""
+    "storage id": "25"
   },
   {
     "id": "00307",
     "description": "Amstel",
     "country": "Spain",
     "letter": "A",
-    "storage id": "14",
-    "grade": ""
+    "storage id": "14"
   },
   {
     "id": "00308",
     "description": "Aspall",
     "country": "England",
     "letter": "A",
-    "storage id": "24",
-    "grade": ""
+    "storage id": "24"
   },
   {
     "id": "00309",
     "description": "Aldersbacher",
     "country": "Germany",
     "letter": "A",
-    "storage id": "21",
-    "grade": ""
+    "storage id": "21"
   },
   {
     "id": "00310",
     "description": "Aldersbacher",
     "country": "Germany",
     "letter": "A",
-    "storage id": "20",
-    "grade": ""
+    "storage id": "20"
   },
   {
     "id": "00311",
     "description": "Aldersbacher",
     "country": "Germany",
     "letter": "A",
-    "storage id": "19",
-    "grade": ""
+    "storage id": "19"
   },
   {
     "id": "00312",
     "description": "Aldersbacher",
     "country": "Germany",
     "letter": "A",
-    "storage id": "18",
-    "grade": ""
+    "storage id": "18"
   },
   {
     "id": "00313",
     "description": "Aldersbacher",
     "country": "Germany",
     "letter": "A",
-    "storage id": "17",
-    "grade": ""
+    "storage id": "17"
   },
   {
     "id": "00314",
     "description": "Andechs",
     "country": "Germany",
     "letter": "A",
-    "storage id": "16",
-    "grade": ""
+    "storage id": "16"
   },
   {
     "id": "00315",
     "description": "Amundsen",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "15",
-    "grade": ""
+    "storage id": "15"
   },
   {
     "id": "00316",
     "description": "Amstel",
     "country": "Netherlands",
     "letter": "A",
-    "storage id": "12",
-    "grade": ""
+    "storage id": "12"
   },
   {
     "id": "00317",
     "description": "Ayinger",
     "country": "Germany",
     "letter": "A",
-    "storage id": "11",
-    "grade": ""
+    "storage id": "11"
   },
   {
     "id": "00318",
     "description": "Austral",
     "country": "Chile",
     "letter": "A",
-    "storage id": "10",
-    "grade": ""
+    "storage id": "10"
   },
   {
     "id": "00319",
     "description": "Clock",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "155",
-    "grade": ""
+    "storage id": "155"
   },
   {
     "id": "00320",
     "description": "Clock",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "154",
-    "grade": ""
+    "storage id": "154"
   },
   {
     "id": "00321",
     "description": "Clock",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "153",
-    "grade": ""
+    "storage id": "153"
   },
   {
     "id": "00322",
     "description": "Coca Cola",
     "country": "Netherlands",
     "letter": "C",
-    "storage id": "170",
-    "grade": ""
+    "storage id": "170"
   },
   {
     "id": "00323",
     "description": "Chric",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "167",
-    "grade": ""
+    "storage id": "167"
   },
   {
     "id": "00324",
     "description": "Chric",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "166",
-    "grade": ""
+    "storage id": "166"
   },
   {
     "id": "00325",
     "description": "Casino Gran Canaria",
     "country": "Spain",
     "letter": "C",
-    "storage id": "169",
-    "grade": ""
+    "storage id": "169"
   },
   {
     "id": "00326",
     "description": "The Crown",
     "country": "USA",
     "letter": "T",
-    "storage id": "168",
-    "grade": ""
+    "storage id": "168"
   },
   {
     "id": "00327",
     "description": "Carling",
     "country": "England",
     "letter": "C",
-    "storage id": "187",
-    "grade": ""
+    "storage id": "187"
   },
   {
     "id": "00328",
     "description": "Carlsberg",
     "country": "Portugal",
     "letter": "C",
-    "storage id": "176",
-    "grade": ""
+    "storage id": "176"
   },
   {
     "id": "00329",
     "description": "Chomout",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "182",
-    "grade": ""
+    "storage id": "182"
   },
   {
     "id": "00330",
     "description": "Chomout",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "181",
-    "grade": ""
+    "storage id": "181"
   },
   {
     "id": "00331",
     "description": "Cornet",
     "country": "Belgium",
     "letter": "C",
-    "storage id": "175",
-    "grade": ""
+    "storage id": "175"
   },
   {
     "id": "00332",
     "description": "Cerna Swine",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "174",
-    "grade": ""
+    "storage id": "174"
   },
   {
     "id": "00333",
     "description": "Cernovar",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "178",
-    "grade": ""
+    "storage id": "178"
   },
   {
     "id": "00334",
     "description": "Cernovar",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "177",
-    "grade": ""
+    "storage id": "177"
   },
   {
     "id": "00335",
     "description": "Estrella Galicia",
     "country": "Spain",
     "letter": "E",
-    "storage id": "228",
-    "grade": ""
+    "storage id": "228"
   },
   {
     "id": "00336",
     "description": "Estrella Galicia",
     "country": "Spain",
     "letter": "E",
-    "storage id": "225",
-    "grade": ""
+    "storage id": "225"
   },
   {
     "id": "00337",
     "description": "Jameson",
     "country": "Ireland",
     "letter": "J",
-    "storage id": "360",
-    "grade": ""
+    "storage id": "360"
   },
   {
     "id": "00338",
     "description": "Hop House",
     "country": "Ireland",
     "letter": "H",
-    "storage id": "308",
-    "grade": ""
+    "storage id": "308"
   },
   {
     "id": "00339",
     "description": "Jopen",
     "country": "Netherlands",
     "letter": "J",
-    "storage id": "356",
-    "grade": ""
+    "storage id": "356"
   },
   {
     "id": "00340",
     "description": "Orangina",
     "country": "Belgium",
     "letter": "O",
-    "storage id": "562",
-    "grade": ""
+    "storage id": "562"
   },
   {
     "id": "00341",
     "description": "Ossegg",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "556",
-    "grade": ""
+    "storage id": "556"
   },
   {
     "id": "00342",
     "description": "Ossegg",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "555",
-    "grade": ""
+    "storage id": "555"
   },
   {
     "id": "00343",
     "description": "Ovipistan",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "554",
-    "grade": ""
+    "storage id": "554"
   },
   {
     "id": "00344",
     "description": "Novopacke",
     "country": "Czechia",
     "letter": "N",
-    "storage id": "549",
-    "grade": ""
+    "storage id": "549"
   },
   {
     "id": "00345",
     "description": "Nemy Medved",
     "country": "Czechia",
     "letter": "N",
-    "storage id": "548",
-    "grade": ""
+    "storage id": "548"
   },
   {
     "id": "00346",
     "description": "Nachmelena Opice",
     "country": "Czechia",
     "letter": "N",
-    "storage id": "550",
-    "grade": ""
+    "storage id": "550"
   },
   {
     "id": "00347",
     "description": "Felber",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "254",
-    "grade": ""
+    "storage id": "254"
   },
   {
     "id": "00348",
     "description": "Felber",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "253",
-    "grade": ""
+    "storage id": "253"
   },
   {
     "id": "00349",
     "description": "Cafe Frida",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "241",
-    "grade": ""
+    "storage id": "241"
   },
   {
     "id": "00350",
     "description": "Full Circle",
     "country": "Belgium",
     "letter": "F",
-    "storage id": "247",
-    "grade": ""
+    "storage id": "247"
   },
   {
     "id": "00351",
     "description": "Flamm",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "246",
-    "grade": ""
+    "storage id": "246"
   },
   {
     "id": "00352",
     "description": "Felsenkeller",
     "country": "Germany",
     "letter": "F",
-    "storage id": "245",
-    "grade": ""
+    "storage id": "245"
   },
   {
     "id": "00353",
     "description": "Ferdinand",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "250",
-    "grade": ""
+    "storage id": "250"
   },
   {
     "id": "00354",
     "description": "Ferdinand",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "249",
-    "grade": ""
+    "storage id": "249"
   },
   {
     "id": "00355",
     "description": "Ferdinand",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "248",
-    "grade": ""
+    "storage id": "248"
   },
   {
     "id": "00356",
     "description": "Desperados",
     "country": "Czechia",
     "letter": "D",
-    "storage id": "200",
-    "grade": ""
+    "storage id": "200"
   },
   {
     "id": "00357",
     "description": "De Prael",
     "country": "Netherlands",
     "letter": "D",
-    "storage id": "201",
-    "grade": ""
+    "storage id": "201"
   },
   {
     "id": "00358",
     "description": "De Kade",
     "country": "Netherlands",
     "letter": "D",
-    "storage id": "198",
-    "grade": ""
+    "storage id": "198"
   },
   {
     "id": "00359",
     "description": "Drzseplotu",
     "country": "Czechia",
     "letter": "D",
-    "storage id": "196",
-    "grade": ""
+    "storage id": "196"
   },
   {
     "id": "00360",
     "description": "Dalesice",
     "country": "Czechia",
     "letter": "D",
-    "storage id": "195",
-    "grade": ""
+    "storage id": "195"
   },
   {
     "id": "00361",
     "description": "Dalesice",
     "country": "Czechia",
     "letter": "D",
-    "storage id": "194",
-    "grade": ""
+    "storage id": "194"
   },
   {
     "id": "00362",
     "description": "Dva Kohouti",
     "country": "Czechia",
     "letter": "D",
-    "storage id": "199",
-    "grade": ""
+    "storage id": "199"
   },
   {
     "id": "00363",
     "description": "De Eeuwige Jeugd",
     "country": "Netherlands",
     "letter": "D",
-    "storage id": "206",
-    "grade": ""
+    "storage id": "206"
   },
   {
     "id": "00364",
     "description": "De Eeuwige Jeugd",
     "country": "Netherlands",
     "letter": "D",
-    "storage id": "205",
-    "grade": ""
+    "storage id": "205"
   },
   {
     "id": "00365",
     "description": "Draaimolen",
     "country": "Netherlands",
     "letter": "D",
-    "storage id": "204",
-    "grade": ""
+    "storage id": "204"
   },
   {
     "id": "00366",
     "description": "",
     "country": "Czechia",
     "letter": "",
-    "storage id": "822",
-    "grade": ""
+    "storage id": "822"
   },
   {
     "id": "00367",
     "description": "Delirium Noel",
     "country": "Belgium",
     "letter": "D",
-    "storage id": "203",
-    "grade": ""
+    "storage id": "203"
   },
   {
     "id": "00368",
     "description": "Forst",
     "country": "Italy",
     "letter": "F",
-    "storage id": "238",
-    "grade": ""
+    "storage id": "238"
   },
   {
     "id": "00369",
     "description": "Forst",
     "country": "Italy",
     "letter": "F",
-    "storage id": "239",
-    "grade": ""
+    "storage id": "239"
   },
   {
     "id": "00370",
     "description": "Forst",
     "country": "Italy",
     "letter": "F",
-    "storage id": "237",
-    "grade": ""
+    "storage id": "237"
   },
   {
     "id": "00371",
     "description": "Floris Passion",
     "country": "Belgium",
     "letter": "F",
-    "storage id": "236",
-    "grade": ""
+    "storage id": "236"
   },
   {
     "id": "00372",
     "description": "Dorada",
     "country": "Spain",
     "letter": "D",
-    "storage id": "207",
-    "grade": ""
+    "storage id": "207"
   },
   {
     "id": "00373",
     "description": "Jameson",
     "country": "Ireland",
     "letter": "J",
-    "storage id": "361",
-    "grade": ""
+    "storage id": "361"
   },
   {
     "id": "00374",
     "description": "Jupiler",
     "country": "Belgium",
     "letter": "J",
-    "storage id": "357",
-    "grade": ""
+    "storage id": "357"
   },
   {
     "id": "00375",
     "description": "Jupiler",
     "country": "Belgium",
     "letter": "J",
-    "storage id": "358",
-    "grade": ""
+    "storage id": "358"
   },
   {
     "id": "00376",
     "description": "Jupiler",
     "country": "Belgium",
     "letter": "J",
-    "storage id": "359",
-    "grade": ""
+    "storage id": "359"
   },
   {
     "id": "00377",
     "description": "Eggenberg",
     "country": "Czechia",
     "letter": "E",
-    "storage id": "229",
-    "grade": ""
+    "storage id": "229"
   },
   {
     "id": "00378",
     "description": "Einsiedler",
     "country": "Czechia",
     "letter": "E",
-    "storage id": "221",
-    "grade": ""
+    "storage id": "221"
   },
   {
     "id": "00379",
     "description": "",
     "country": "Belgium",
     "letter": "",
-    "storage id": "823",
-    "grade": ""
+    "storage id": "823"
   },
   {
     "id": "00380",
     "description": "Duvel",
     "country": "Belgium",
     "letter": "D",
-    "storage id": "214",
-    "grade": ""
+    "storage id": "214"
   },
   {
     "id": "00381",
     "description": "Duvel",
     "country": "Belgium",
     "letter": "D",
-    "storage id": "213",
-    "grade": ""
+    "storage id": "213"
   },
   {
     "id": "00382",
     "description": "Duvel",
     "country": "Belgium",
     "letter": "D",
-    "storage id": "212",
-    "grade": ""
+    "storage id": "212"
   },
   {
     "id": "00383",
     "description": "",
     "country": "Belgium",
     "letter": "",
-    "storage id": "824",
-    "grade": ""
+    "storage id": "824"
   },
   {
     "id": "00384",
     "description": "Nutrl",
     "country": "USA",
     "letter": "N",
-    "storage id": "552",
-    "grade": ""
+    "storage id": "552"
   },
   {
     "id": "00385",
     "description": "Nutrl",
     "country": "USA",
     "letter": "N",
-    "storage id": "551",
-    "grade": ""
+    "storage id": "551"
   },
   {
     "id": "00386",
     "description": "",
     "country": "Czechia",
     "letter": "",
-    "storage id": "821",
-    "grade": ""
+    "storage id": "821"
   },
   {
     "id": "00387",
     "description": "",
     "country": "Czechia",
     "letter": "",
-    "storage id": "547",
-    "grade": ""
+    "storage id": "547"
   },
   {
     "id": "00388",
     "description": "",
     "country": "Czechia",
     "letter": "",
-    "storage id": "220",
-    "grade": ""
+    "storage id": "220"
   },
   {
     "id": "00389",
     "description": "",
     "country": "Netherlands",
     "letter": "",
-    "storage id": "263",
-    "grade": ""
+    "storage id": "263"
   },
   {
     "id": "00390",
     "description": "",
     "country": "Poland",
     "letter": "",
-    "storage id": "858",
-    "grade": ""
+    "storage id": "858"
   },
   {
     "id": "00391",
     "description": "Heineken",
     "country": "Netherlands",
     "letter": "H",
-    "storage id": "309",
-    "grade": ""
+    "storage id": "309"
   },
   {
     "id": "00392",
     "description": "Holsten",
     "country": "Germany",
     "letter": "H",
-    "storage id": "299",
-    "grade": ""
+    "storage id": "299"
   },
   {
     "id": "00393",
     "description": "Hemingway Bar",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "298",
-    "grade": ""
+    "storage id": "298"
   },
   {
     "id": "00394",
     "description": "Hendrych",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "341",
-    "grade": ""
+    "storage id": "341"
   },
   {
     "id": "00395",
     "description": "Hostivar",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "344",
-    "grade": ""
+    "storage id": "344"
   },
   {
     "id": "00396",
     "description": "Hostivar",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "343",
-    "grade": ""
+    "storage id": "343"
   },
   {
     "id": "00397",
     "description": "Hostivar",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "342",
-    "grade": ""
+    "storage id": "342"
   },
   {
     "id": "00398",
     "description": "Holba",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "327",
-    "grade": ""
+    "storage id": "327"
   },
   {
     "id": "00399",
     "description": "Hertog Jan",
     "country": "Netherlands",
     "letter": "H",
-    "storage id": "333",
-    "grade": ""
+    "storage id": "333"
   },
   {
     "id": "00400",
     "description": "Hannen Alt",
     "country": "Germany",
     "letter": "H",
-    "storage id": "323",
-    "grade": ""
+    "storage id": "323"
   },
   {
     "id": "00401",
     "description": "Hannen Alt",
     "country": "Germany",
     "letter": "H",
-    "storage id": "322",
-    "grade": ""
+    "storage id": "322"
   },
   {
     "id": "00402",
     "description": "Hannen Alt",
     "country": "Germany",
     "letter": "H",
-    "storage id": "321",
-    "grade": ""
+    "storage id": "321"
   },
   {
     "id": "00403",
     "description": "Handle Bar",
     "country": "USA",
     "letter": "H",
-    "storage id": "320",
-    "grade": ""
+    "storage id": "320"
   },
   {
     "id": "00404",
     "description": "Hostomice",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "336",
-    "grade": ""
+    "storage id": "336"
   },
   {
     "id": "00405",
     "description": "Hostomice",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "335",
-    "grade": ""
+    "storage id": "335"
   },
   {
     "id": "00406",
     "description": "Hostomice",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "334",
-    "grade": ""
+    "storage id": "334"
   },
   {
     "id": "00407",
     "description": "Hubertus",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "316",
-    "grade": ""
+    "storage id": "316"
   },
   {
     "id": "00408",
     "description": "Holba",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "329",
-    "grade": ""
+    "storage id": "329"
   },
   {
     "id": "00409",
     "description": "Cafe de Pels",
     "country": "Netherlands",
     "letter": "C",
-    "storage id": "307",
-    "grade": ""
+    "storage id": "307"
   },
   {
     "id": "00410",
     "description": "Hofmuhl Hell",
     "country": "Germany",
     "letter": "H",
-    "storage id": "304",
-    "grade": ""
+    "storage id": "304"
   },
   {
     "id": "00411",
     "description": "Herold",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "305",
-    "grade": ""
+    "storage id": "305"
   },
   {
     "id": "00412",
     "description": "Raschhofer",
     "country": "Austria",
     "letter": "R",
-    "storage id": "672",
-    "grade": ""
+    "storage id": "672"
   },
   {
     "id": "00413",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "678",
-    "grade": ""
+    "storage id": "678"
   },
   {
     "id": "00414",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "679",
-    "grade": ""
+    "storage id": "679"
   },
   {
     "id": "00415",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "680",
-    "grade": ""
+    "storage id": "680"
   },
   {
     "id": "00416",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "681",
-    "grade": ""
+    "storage id": "681"
   },
   {
     "id": "00417",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "682",
-    "grade": ""
+    "storage id": "682"
   },
   {
     "id": "00418",
     "description": "Bohemia Regent",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "67",
-    "grade": ""
+    "storage id": "67"
   },
   {
     "id": "00419",
     "description": "Rohozec",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "686",
-    "grade": ""
+    "storage id": "686"
   },
   {
     "id": "00420",
     "description": "Rohozec",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "685",
-    "grade": ""
+    "storage id": "685"
   },
   {
     "id": "00421",
     "description": "Royal Bliss",
     "country": "USA",
     "letter": "R",
-    "storage id": "668",
-    "grade": ""
+    "storage id": "668"
   },
   {
     "id": "00422",
     "description": "Rizek",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "667",
-    "grade": ""
+    "storage id": "667"
   },
   {
     "id": "00423",
     "description": "Ramazzotti",
     "country": "Germany",
     "letter": "R",
-    "storage id": "666",
-    "grade": ""
+    "storage id": "666"
   },
   {
     "id": "00424",
     "description": "Rudohor",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "665",
-    "grade": ""
+    "storage id": "665"
   },
   {
     "id": "00425",
     "description": "Rampusak",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "664",
-    "grade": ""
+    "storage id": "664"
   },
   {
     "id": "00426",
     "description": "Rampusak",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "663",
-    "grade": ""
+    "storage id": "663"
   },
   {
     "id": "00427",
     "description": "Raven",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "662",
-    "grade": ""
+    "storage id": "662"
   },
   {
     "id": "00428",
     "description": "Zatec",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "942",
-    "grade": ""
+    "storage id": "942"
   },
   {
     "id": "00429",
     "description": "Zlaty Bazant",
     "country": "Slovakia",
     "letter": "Z",
-    "storage id": "932",
-    "grade": ""
+    "storage id": "932"
   },
   {
     "id": "00430",
     "description": "Zlaty Bazant",
     "country": "Slovakia",
     "letter": "Z",
-    "storage id": "930",
-    "grade": ""
+    "storage id": "930"
   },
   {
     "id": "00431",
     "description": "Zillertal",
     "country": "Austria",
     "letter": "Z",
-    "storage id": "929",
-    "grade": ""
+    "storage id": "929"
   },
   {
     "id": "00432",
     "description": "Zillertal",
     "country": "Austria",
     "letter": "Z",
-    "storage id": "934",
-    "grade": ""
+    "storage id": "934"
   },
   {
     "id": "00433",
     "description": "Zwettler",
     "country": "Austria",
     "letter": "Z",
-    "storage id": "935",
-    "grade": ""
+    "storage id": "935"
   },
   {
     "id": "00434",
     "description": "Zizkoff Pivoteka",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "931",
-    "grade": ""
+    "storage id": "931"
   },
   {
     "id": "00435",
     "description": "Zizkovske Mezidvorky",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "933",
-    "grade": ""
+    "storage id": "933"
   },
   {
     "id": "00436",
     "description": "Zeliv",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "932",
-    "grade": ""
+    "storage id": "932"
   },
   {
     "id": "00437",
     "description": "Zubr",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "936",
-    "grade": ""
+    "storage id": "936"
   },
   {
     "id": "00438",
     "description": "Zubr",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "937",
-    "grade": ""
+    "storage id": "937"
   },
   {
     "id": "00439",
     "description": "Zywiec",
     "country": "Poland",
     "letter": "Z",
-    "storage id": "925",
-    "grade": ""
+    "storage id": "925"
   },
   {
     "id": "00440",
     "description": "Zloun",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "926",
-    "grade": ""
+    "storage id": "926"
   },
   {
     "id": "00441",
     "description": "Zdivar",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "920",
-    "grade": ""
+    "storage id": "920"
   },
   {
     "id": "00442",
     "description": "Erdinger",
     "country": "Czechia",
     "letter": "E",
-    "storage id": "223",
-    "grade": ""
+    "storage id": "223"
   },
   {
     "id": "00443",
     "description": "Stridacka",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "738",
-    "grade": ""
+    "storage id": "738"
   },
   {
     "id": "00444",
     "description": "Krakonos",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "408",
-    "grade": ""
+    "storage id": "408"
   },
   {
     "id": "00445",
     "description": "Krakonos",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "407",
-    "grade": ""
+    "storage id": "407"
   },
   {
     "id": "00446",
     "description": "Sedmy Schod",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "730",
-    "grade": ""
+    "storage id": "730"
   },
   {
     "id": "00447",
     "description": "Primator",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "575",
-    "grade": ""
+    "storage id": "575"
   },
   {
     "id": "00448",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "778",
-    "grade": ""
+    "storage id": "778"
   },
   {
     "id": "00449",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "779",
-    "grade": ""
+    "storage id": "779"
   },
   {
     "id": "00450",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "780",
-    "grade": ""
+    "storage id": "780"
   },
   {
     "id": "00451",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "781",
-    "grade": ""
+    "storage id": "781"
   },
   {
     "id": "00452",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "782",
-    "grade": ""
+    "storage id": "782"
   },
   {
     "id": "00453",
     "description": "Karel IV",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "369",
-    "grade": ""
+    "storage id": "369"
   },
   {
     "id": "00454",
     "description": "Hoegaarden",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "325",
-    "grade": ""
+    "storage id": "325"
   },
   {
     "id": "00455",
     "description": "Chouffe",
     "country": "Belgium",
     "letter": "C",
-    "storage id": "183",
-    "grade": ""
+    "storage id": "183"
   },
   {
     "id": "00456",
     "description": "Salm Brau",
     "country": "Austria",
     "letter": "S",
-    "storage id": "731",
-    "grade": ""
+    "storage id": "731"
   },
   {
     "id": "00457",
     "description": "Stiegl",
     "country": "Austria",
     "letter": "S",
-    "storage id": "758",
-    "grade": ""
+    "storage id": "758"
   },
   {
     "id": "00458",
     "description": "Kelt",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "401",
-    "grade": ""
+    "storage id": "401"
   },
   {
     "id": "00459",
     "description": "Brand",
     "country": "Netherlands",
     "letter": "B",
-    "storage id": "64",
-    "grade": ""
+    "storage id": "64"
   },
   {
     "id": "00460",
     "description": "Kolcavka",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "402",
-    "grade": ""
+    "storage id": "402"
   },
   {
     "id": "00461",
     "description": "Zubr",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "938",
-    "grade": ""
+    "storage id": "938"
   },
   {
     "id": "00462",
     "description": "Bakalar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "80",
-    "grade": ""
+    "storage id": "80"
   },
   {
     "id": "00463",
     "description": "Bakalar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "81",
-    "grade": ""
+    "storage id": "81"
   },
   {
     "id": "00464",
     "description": "Postrizinske",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "571",
-    "grade": ""
+    "storage id": "571"
   },
   {
     "id": "00465",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "623",
-    "grade": ""
+    "storage id": "623"
   },
   {
     "id": "00466",
     "description": "Maisel",
     "country": "Germany",
     "letter": "M",
-    "storage id": "517",
-    "grade": ""
+    "storage id": "517"
   },
   {
     "id": "00467",
     "description": "Hendrych",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "340",
-    "grade": ""
+    "storage id": "340"
   },
   {
     "id": "00468",
     "description": "Chodovar",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "172",
-    "grade": ""
+    "storage id": "172"
   },
   {
     "id": "00469",
     "description": "Pioneer",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "573",
-    "grade": ""
+    "storage id": "573"
   },
   {
     "id": "00470",
     "description": "Cestmir",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "173",
-    "grade": ""
+    "storage id": "173"
   },
   {
     "id": "00471",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "616",
-    "grade": ""
+    "storage id": "616"
   },
   {
     "id": "00472",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00473",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "766",
-    "grade": ""
+    "storage id": "766"
   },
   {
     "id": "00474",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "765",
-    "grade": ""
+    "storage id": "765"
   },
   {
     "id": "00475",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "619",
-    "grade": ""
+    "storage id": "619"
   },
   {
     "id": "00476",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "620",
-    "grade": ""
+    "storage id": "620"
   },
   {
     "id": "00477",
     "description": "Pioneer",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "574",
-    "grade": ""
+    "storage id": "574"
   },
   {
     "id": "00478",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "627",
-    "grade": ""
+    "storage id": "627"
   },
   {
     "id": "00479",
     "description": "Podripsky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "578",
-    "grade": ""
+    "storage id": "578"
   },
   {
     "id": "00480",
     "description": "Kamenice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "409",
-    "grade": ""
+    "storage id": "409"
   },
   {
     "id": "00481",
     "description": "Brouwerij 't IJ",
     "country": "Netherlands",
     "letter": "B",
-    "storage id": "83",
-    "grade": ""
+    "storage id": "83"
   },
   {
     "id": "00482",
     "description": "Brezi Koza",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "90",
-    "grade": ""
+    "storage id": "90"
   },
   {
     "id": "00483",
     "description": "Kofola",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "413",
-    "grade": ""
+    "storage id": "413"
   },
   {
     "id": "00484",
     "description": "Kofola",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "412",
-    "grade": ""
+    "storage id": "412"
   },
   {
     "id": "00485",
     "description": "Breznak",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "53",
-    "grade": ""
+    "storage id": "53"
   },
   {
     "id": "00486",
     "description": "Breznak",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "52",
-    "grade": ""
+    "storage id": "52"
   },
   {
     "id": "00487",
     "description": "Breznak",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "51",
-    "grade": ""
+    "storage id": "51"
   },
   {
     "id": "00488",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "55",
-    "grade": ""
+    "storage id": "55"
   },
   {
     "id": "00489",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "56",
-    "grade": ""
+    "storage id": "56"
   },
   {
     "id": "00490",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "59",
-    "grade": ""
+    "storage id": "59"
   },
   {
     "id": "00491",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "60",
-    "grade": ""
+    "storage id": "60"
   },
   {
     "id": "00492",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "61",
-    "grade": ""
+    "storage id": "61"
   },
   {
     "id": "00493",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "74",
-    "grade": ""
+    "storage id": "74"
   },
   {
     "id": "00494",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "73",
-    "grade": ""
+    "storage id": "73"
   },
   {
     "id": "00495",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "72",
-    "grade": ""
+    "storage id": "72"
   },
   {
     "id": "00496",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "71",
-    "grade": ""
+    "storage id": "71"
   },
   {
     "id": "00497",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "70",
-    "grade": ""
+    "storage id": "70"
   },
   {
     "id": "00498",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "77",
-    "grade": ""
+    "storage id": "77"
   },
   {
     "id": "00499",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "76",
-    "grade": ""
+    "storage id": "76"
   },
   {
     "id": "00500",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "69",
-    "grade": ""
+    "storage id": "69"
   },
   {
     "id": "00501",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "75",
-    "grade": ""
+    "storage id": "75"
   },
   {
     "id": "00502",
     "description": "Beznoska",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "65",
-    "grade": ""
+    "storage id": "65"
   },
   {
     "id": "00503",
     "description": "Bohemia Regent",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "68",
-    "grade": ""
+    "storage id": "68"
   },
   {
     "id": "00504",
     "description": "Beskydsky",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "85",
-    "grade": ""
+    "storage id": "85"
   },
   {
     "id": "00505",
     "description": "Beskydsky",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "86",
-    "grade": ""
+    "storage id": "86"
   },
   {
     "id": "00506",
     "description": "Beskydsky",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "87",
-    "grade": ""
+    "storage id": "87"
   },
   {
     "id": "00507",
     "description": "Beskydsky",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "88",
-    "grade": ""
+    "storage id": "88"
   },
   {
     "id": "00508",
     "description": "Beskydsky",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "89",
-    "grade": ""
+    "storage id": "89"
   },
   {
     "id": "00509",
     "description": "Bakalar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "82",
-    "grade": ""
+    "storage id": "82"
   },
   {
     "id": "00510",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "62",
-    "grade": ""
+    "storage id": "62"
   },
   {
     "id": "00511",
     "description": "Branik",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "91",
-    "grade": ""
+    "storage id": "91"
   },
   {
     "id": "00512",
     "description": "Branik",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "92",
-    "grade": ""
+    "storage id": "92"
   },
   {
     "id": "00513",
     "description": "Beranek",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "93",
-    "grade": ""
+    "storage id": "93"
   },
   {
     "id": "00514",
     "description": "Beranek",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "94",
-    "grade": ""
+    "storage id": "94"
   },
   {
     "id": "00515",
     "description": "Beranek",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "95",
-    "grade": ""
+    "storage id": "95"
   },
   {
     "id": "00516",
     "description": "BeerGeek",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "96",
-    "grade": ""
+    "storage id": "96"
   },
   {
     "id": "00517",
     "description": "Bratcice",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "97",
-    "grade": ""
+    "storage id": "97"
   },
   {
     "id": "00518",
     "description": "Black Dogs",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "98",
-    "grade": ""
+    "storage id": "98"
   },
   {
     "id": "00519",
     "description": "Belveder",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "99",
-    "grade": ""
+    "storage id": "99"
   },
   {
     "id": "00520",
     "description": "Paulaner",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "100",
-    "grade": ""
+    "storage id": "100"
   },
   {
     "id": "00521",
     "description": "Brusseleir",
     "country": "Belgium",
     "letter": "B",
-    "storage id": "101",
-    "grade": ""
+    "storage id": "101"
   },
   {
     "id": "00522",
     "description": "Bruxellensis",
     "country": "Belgium",
     "letter": "B",
-    "storage id": "102",
-    "grade": ""
+    "storage id": "102"
   },
   {
     "id": "00523",
     "description": "Blanche de Namur",
     "country": "Belgium",
     "letter": "B",
-    "storage id": "103",
-    "grade": ""
+    "storage id": "103"
   },
   {
     "id": "00524",
     "description": "Browar Amber",
     "country": "Poland",
     "letter": "B",
-    "storage id": "104",
-    "grade": ""
+    "storage id": "104"
   },
   {
     "id": "00525",
     "description": "Aliance PIV",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "29",
-    "grade": ""
+    "storage id": "29"
   },
   {
     "id": "00526",
     "description": "Axiom",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "28",
-    "grade": ""
+    "storage id": "28"
   },
   {
     "id": "00527",
     "description": "Axiom",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "27",
-    "grade": ""
+    "storage id": "27"
   },
   {
     "id": "00528",
     "description": "Albrecht",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "26",
-    "grade": ""
+    "storage id": "26"
   },
   {
     "id": "00529",
     "description": "Aldersbacher",
     "country": "Germany",
     "letter": "A",
-    "storage id": "23",
-    "grade": ""
+    "storage id": "23"
   },
   {
     "id": "00530",
     "description": "Aldersbacher",
     "country": "Germany",
     "letter": "A",
-    "storage id": "22",
-    "grade": ""
+    "storage id": "22"
   },
   {
     "id": "00531",
     "description": "Augustin",
     "country": "Austria",
     "letter": "A",
-    "storage id": "30",
-    "grade": ""
+    "storage id": "30"
   },
   {
     "id": "00532",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "63",
-    "grade": ""
+    "storage id": "63"
   },
   {
     "id": "00533",
     "description": "Cobolis",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "150",
-    "grade": ""
+    "storage id": "150"
   },
   {
     "id": "00534",
     "description": "Chimay",
     "country": "Belgium",
     "letter": "C",
-    "storage id": "188",
-    "grade": ""
+    "storage id": "188"
   },
   {
     "id": "00535",
     "description": "Cobra",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "149",
-    "grade": ""
+    "storage id": "149"
   },
   {
     "id": "00536",
     "description": "Chric",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "165",
-    "grade": ""
+    "storage id": "165"
   },
   {
     "id": "00537",
     "description": "Clock",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "159",
-    "grade": ""
+    "storage id": "159"
   },
   {
     "id": "00538",
     "description": "Cerna Hora",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "147",
-    "grade": ""
+    "storage id": "147"
   },
   {
     "id": "00539",
     "description": "Cerna Hora",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "146",
-    "grade": ""
+    "storage id": "146"
   },
   {
     "id": "00540",
     "description": "Cerna Hora",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "148",
-    "grade": ""
+    "storage id": "148"
   },
   {
     "id": "00541",
     "description": "Cerna Hora",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "145",
-    "grade": ""
+    "storage id": "145"
   },
   {
     "id": "00542",
     "description": "Domyno Bar",
     "country": "Czechia",
     "letter": "D",
-    "storage id": "197",
-    "grade": ""
+    "storage id": "197"
   },
   {
     "id": "00543",
     "description": "Duvel",
     "country": "Belgium",
     "letter": "D",
-    "storage id": "211",
-    "grade": ""
+    "storage id": "211"
   },
   {
     "id": "00544",
     "description": "Duvel",
     "country": "Belgium",
     "letter": "D",
-    "storage id": "210",
-    "grade": ""
+    "storage id": "210"
   },
   {
     "id": "00545",
     "description": "Doubravnik",
     "country": "Czechia",
     "letter": "D",
-    "storage id": "215",
-    "grade": ""
+    "storage id": "215"
   },
   {
     "id": "00546",
     "description": "Erb",
     "country": "Czechia",
     "letter": "E",
-    "storage id": "218",
-    "grade": ""
+    "storage id": "218"
   },
   {
     "id": "00547",
     "description": "Erb",
     "country": "Czechia",
     "letter": "E",
-    "storage id": "217",
-    "grade": ""
+    "storage id": "217"
   },
   {
     "id": "00548",
     "description": "Brevnovsky Klaster",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "106",
-    "grade": ""
+    "storage id": "106"
   },
   {
     "id": "00549",
     "description": "Falkenstejn",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "243",
-    "grade": ""
+    "storage id": "243"
   },
   {
     "id": "00550",
     "description": "Frankies",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "240",
-    "grade": ""
+    "storage id": "240"
   },
   {
     "id": "00551",
     "description": "Falkon",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "233",
-    "grade": ""
+    "storage id": "233"
   },
   {
     "id": "00552",
     "description": "Franziskaner",
     "country": "Germany",
     "letter": "F",
-    "storage id": "235",
-    "grade": ""
+    "storage id": "235"
   },
   {
     "id": "00553",
     "description": "Feldschlobchen",
     "country": "Germany",
     "letter": "F",
-    "storage id": "234",
-    "grade": ""
+    "storage id": "234"
   },
   {
     "id": "00554",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "294",
-    "grade": ""
+    "storage id": "294"
   },
   {
     "id": "00555",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "293",
-    "grade": ""
+    "storage id": "293"
   },
   {
     "id": "00556",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "292",
-    "grade": ""
+    "storage id": "292"
   },
   {
     "id": "00557",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "291",
-    "grade": ""
+    "storage id": "291"
   },
   {
     "id": "00558",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "286",
-    "grade": ""
+    "storage id": "286"
   },
   {
     "id": "00559",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "287",
-    "grade": ""
+    "storage id": "287"
   },
   {
     "id": "00560",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "284",
-    "grade": ""
+    "storage id": "284"
   },
   {
     "id": "00561",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "282",
-    "grade": ""
+    "storage id": "282"
   },
   {
     "id": "00562",
     "description": "Hoegaarden",
     "country": "Belgium",
     "letter": "H",
-    "storage id": "324",
-    "grade": ""
+    "storage id": "324"
   },
   {
     "id": "00563",
     "description": "Hubertus",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "315",
-    "grade": ""
+    "storage id": "315"
   },
   {
     "id": "00564",
     "description": "Hubertus",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "314",
-    "grade": ""
+    "storage id": "314"
   },
   {
     "id": "00565",
     "description": "Hubertus",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "313",
-    "grade": ""
+    "storage id": "313"
   },
   {
     "id": "00566",
     "description": "Holba",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "326",
-    "grade": ""
+    "storage id": "326"
   },
   {
     "id": "00567",
     "description": "Holba",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "328",
-    "grade": ""
+    "storage id": "328"
   },
   {
     "id": "00568",
     "description": "Hertog Jan",
     "country": "Netherlands",
     "letter": "H",
-    "storage id": "332",
-    "grade": ""
+    "storage id": "332"
   },
   {
     "id": "00569",
     "description": "Hertog Jan",
     "country": "Netherlands",
     "letter": "H",
-    "storage id": "331",
-    "grade": ""
+    "storage id": "331"
   },
   {
     "id": "00570",
     "description": "Hertog Jan",
     "country": "Netherlands",
     "letter": "H",
-    "storage id": "330",
-    "grade": ""
+    "storage id": "330"
   },
   {
     "id": "00571",
     "description": "Altstadthof",
     "country": "Germany",
     "letter": "A",
-    "storage id": "297",
-    "grade": ""
+    "storage id": "297"
   },
   {
     "id": "00572",
     "description": "Hasseroder",
     "country": "Germany",
     "letter": "H",
-    "storage id": "319",
-    "grade": ""
+    "storage id": "319"
   },
   {
     "id": "00573",
     "description": "Hluboka",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "318",
-    "grade": ""
+    "storage id": "318"
   },
   {
     "id": "00574",
     "description": "Hangar",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "317",
-    "grade": ""
+    "storage id": "317"
   },
   {
     "id": "00575",
     "description": "Jever",
     "country": "Germany",
     "letter": "J",
-    "storage id": "355",
-    "grade": ""
+    "storage id": "355"
   },
   {
     "id": "00576",
     "description": "Jezek",
     "country": "Czechia",
     "letter": "J",
-    "storage id": "354",
-    "grade": ""
+    "storage id": "354"
   },
   {
     "id": "00577",
     "description": "Jezek",
     "country": "Czechia",
     "letter": "J",
-    "storage id": "353",
-    "grade": ""
+    "storage id": "353"
   },
   {
     "id": "00578",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "389",
-    "grade": ""
+    "storage id": "389"
   },
   {
     "id": "00579",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "388",
-    "grade": ""
+    "storage id": "388"
   },
   {
     "id": "00580",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "387",
-    "grade": ""
+    "storage id": "387"
   },
   {
     "id": "00581",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "385",
-    "grade": ""
+    "storage id": "385"
   },
   {
     "id": "00582",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "386",
-    "grade": ""
+    "storage id": "386"
   },
   {
     "id": "00583",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "384",
-    "grade": ""
+    "storage id": "384"
   },
   {
     "id": "00584",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "383",
-    "grade": ""
+    "storage id": "383"
   },
   {
     "id": "00585",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "382",
-    "grade": ""
+    "storage id": "382"
   },
   {
     "id": "00586",
     "description": "Cesky Krumlov",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "371",
-    "grade": ""
+    "storage id": "371"
   },
   {
     "id": "00587",
     "description": "Klaster",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "370",
-    "grade": ""
+    "storage id": "370"
   },
   {
     "id": "00588",
     "description": "Konrad",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "396",
-    "grade": ""
+    "storage id": "396"
   },
   {
     "id": "00589",
     "description": "Konrad",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "395",
-    "grade": ""
+    "storage id": "395"
   },
   {
     "id": "00590",
     "description": "Krusovice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "399",
-    "grade": ""
+    "storage id": "399"
   },
   {
     "id": "00591",
     "description": "Krusovice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "398",
-    "grade": ""
+    "storage id": "398"
   },
   {
     "id": "00592",
     "description": "Krusovice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "397",
-    "grade": ""
+    "storage id": "397"
   },
   {
     "id": "00593",
     "description": "Kolcavka",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "376",
-    "grade": ""
+    "storage id": "376"
   },
   {
     "id": "00594",
     "description": "Kolcavka",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "375",
-    "grade": ""
+    "storage id": "375"
   },
   {
     "id": "00595",
     "description": "Kolcavka",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "374",
-    "grade": ""
+    "storage id": "374"
   },
   {
     "id": "00596",
     "description": "Kolcavka",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "373",
-    "grade": ""
+    "storage id": "373"
   },
   {
     "id": "00597",
     "description": "Kral Sumavy",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "405",
-    "grade": ""
+    "storage id": "405"
   },
   {
     "id": "00598",
     "description": "Kocouri",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "404",
-    "grade": ""
+    "storage id": "404"
   },
   {
     "id": "00599",
     "description": "Krakonos",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "406",
-    "grade": ""
+    "storage id": "406"
   },
   {
     "id": "00600",
     "description": "Kynspersky",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "403",
-    "grade": ""
+    "storage id": "403"
   },
   {
     "id": "00601",
     "description": "Muflon",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "531",
-    "grade": ""
+    "storage id": "531"
   },
   {
     "id": "00602",
     "description": "Krkonossky Medved",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "527",
-    "grade": ""
+    "storage id": "527"
   },
   {
     "id": "00603",
     "description": "Mazak",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "526",
-    "grade": ""
+    "storage id": "526"
   },
   {
     "id": "00604",
     "description": "Mazak",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "525",
-    "grade": ""
+    "storage id": "525"
   },
   {
     "id": "00605",
     "description": "Malastrana",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "524",
-    "grade": ""
+    "storage id": "524"
   },
   {
     "id": "00606",
     "description": "Matuska",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "523",
-    "grade": ""
+    "storage id": "523"
   },
   {
     "id": "00607",
     "description": "Manifesto",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "516",
-    "grade": ""
+    "storage id": "516"
   },
   {
     "id": "00608",
     "description": "Policce",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "508",
-    "grade": ""
+    "storage id": "508"
   },
   {
     "id": "00609",
     "description": "Klenot",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "507",
-    "grade": ""
+    "storage id": "507"
   },
   {
     "id": "00610",
     "description": "Mordyr",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "497",
-    "grade": ""
+    "storage id": "497"
   },
   {
     "id": "00611",
     "description": "Muflon",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "529",
-    "grade": ""
+    "storage id": "529"
   },
   {
     "id": "00612",
     "description": "Never Enough",
     "country": "Czechia",
     "letter": "N",
-    "storage id": "546",
-    "grade": ""
+    "storage id": "546"
   },
   {
     "id": "00613",
     "description": "Neratov",
     "country": "Czechia",
     "letter": "N",
-    "storage id": "545",
-    "grade": ""
+    "storage id": "545"
   },
   {
     "id": "00614",
     "description": "Dalesice",
     "country": "Czechia",
     "letter": "D",
-    "storage id": "553",
-    "grade": ""
+    "storage id": "553"
   },
   {
     "id": "00615",
     "description": "Parnik",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "570",
-    "grade": ""
+    "storage id": "570"
   },
   {
     "id": "00616",
     "description": "Parnik",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "569",
-    "grade": ""
+    "storage id": "569"
   },
   {
     "id": "00617",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "633",
-    "grade": ""
+    "storage id": "633"
   },
   {
     "id": "00618",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "630",
-    "grade": ""
+    "storage id": "630"
   },
   {
     "id": "00619",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "631",
-    "grade": ""
+    "storage id": "631"
   },
   {
     "id": "00620",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "632",
-    "grade": ""
+    "storage id": "632"
   },
   {
     "id": "00621",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "629",
-    "grade": ""
+    "storage id": "629"
   },
   {
     "id": "00622",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "628",
-    "grade": ""
+    "storage id": "628"
   },
   {
     "id": "00623",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "626",
-    "grade": ""
+    "storage id": "626"
   },
   {
     "id": "00624",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "625",
-    "grade": ""
+    "storage id": "625"
   },
   {
     "id": "00625",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "610",
-    "grade": ""
+    "storage id": "610"
   },
   {
     "id": "00626",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "624",
-    "grade": ""
+    "storage id": "624"
   },
   {
     "id": "00627",
     "description": "Platan",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "589",
-    "grade": ""
+    "storage id": "589"
   },
   {
     "id": "00628",
     "description": "Platan",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "590",
-    "grade": ""
+    "storage id": "590"
   },
   {
     "id": "00629",
     "description": "Porter",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "588",
-    "grade": ""
+    "storage id": "588"
   },
   {
     "id": "00630",
     "description": "Porter",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "587",
-    "grade": ""
+    "storage id": "587"
   },
   {
     "id": "00631",
     "description": "Porter",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "586",
-    "grade": ""
+    "storage id": "586"
   },
   {
     "id": "00632",
     "description": "Porter",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "585",
-    "grade": ""
+    "storage id": "585"
   },
   {
     "id": "00633",
     "description": "Primator",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "577",
-    "grade": ""
+    "storage id": "577"
   },
   {
     "id": "00634",
     "description": "Primator",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "576",
-    "grade": ""
+    "storage id": "576"
   },
   {
     "id": "00635",
     "description": "Pardubicky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "599",
-    "grade": ""
+    "storage id": "599"
   },
   {
     "id": "00636",
     "description": "Pardubicky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "598",
-    "grade": ""
+    "storage id": "598"
   },
   {
     "id": "00637",
     "description": "Paulaner",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "596",
-    "grade": ""
+    "storage id": "596"
   },
   {
     "id": "00638",
     "description": "Paintball Hall",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "595",
-    "grade": ""
+    "storage id": "595"
   },
   {
     "id": "00639",
     "description": "Preska",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "594",
-    "grade": ""
+    "storage id": "594"
   },
   {
     "id": "00640",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "609",
-    "grade": ""
+    "storage id": "609"
   },
   {
     "id": "00641",
     "description": "Pork and Beer",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "593",
-    "grade": ""
+    "storage id": "593"
   },
   {
     "id": "00642",
     "description": "Pork and Beer",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "592",
-    "grade": ""
+    "storage id": "592"
   },
   {
     "id": "00643",
     "description": "Pork and Beer",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "591",
-    "grade": ""
+    "storage id": "591"
   },
   {
     "id": "00644",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "618",
-    "grade": ""
+    "storage id": "618"
   },
   {
     "id": "00645",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "617",
-    "grade": ""
+    "storage id": "617"
   },
   {
     "id": "00646",
     "description": "Prazacka",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "572",
-    "grade": ""
+    "storage id": "572"
   },
   {
     "id": "00647",
     "description": "Poutnik Pelhrimov",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "582",
-    "grade": ""
+    "storage id": "582"
   },
   {
     "id": "00648",
     "description": "Jazz Republic",
     "country": "Czechia",
     "letter": "J",
-    "storage id": "362",
-    "grade": ""
+    "storage id": "362"
   },
   {
     "id": "00649",
     "description": "Omer",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "564",
-    "grade": ""
+    "storage id": "564"
   },
   {
     "id": "00650",
     "description": "Omer",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "563",
-    "grade": ""
+    "storage id": "563"
   },
   {
     "id": "00651",
     "description": "Quest Cafe",
     "country": "Czechia",
     "letter": "Q",
-    "storage id": "641",
-    "grade": ""
+    "storage id": "641"
   },
   {
     "id": "00652",
     "description": "Romano Pizzeria",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "671",
-    "grade": ""
+    "storage id": "671"
   },
   {
     "id": "00653",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "677",
-    "grade": ""
+    "storage id": "677"
   },
   {
     "id": "00654",
     "description": "Radeberger",
     "country": "Germany",
     "letter": "R",
-    "storage id": "688",
-    "grade": ""
+    "storage id": "688"
   },
   {
     "id": "00655",
     "description": "Radous",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "684",
-    "grade": ""
+    "storage id": "684"
   },
   {
     "id": "00656",
     "description": "Rychtar",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "658",
-    "grade": ""
+    "storage id": "658"
   },
   {
     "id": "00657",
     "description": "Rychtar",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "657",
-    "grade": ""
+    "storage id": "657"
   },
   {
     "id": "00658",
     "description": "Raven",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "661",
-    "grade": ""
+    "storage id": "661"
   },
   {
     "id": "00659",
     "description": "Revnice",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "660",
-    "grade": ""
+    "storage id": "660"
   },
   {
     "id": "00660",
     "description": "Rychtar",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "659",
-    "grade": ""
+    "storage id": "659"
   },
   {
     "id": "00661",
     "description": "Staropramen",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "735",
-    "grade": ""
+    "storage id": "735"
   },
   {
     "id": "00662",
     "description": "Staropramen",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "737",
-    "grade": ""
+    "storage id": "737"
   },
   {
     "id": "00663",
     "description": "Staropramen",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "736",
-    "grade": ""
+    "storage id": "736"
   },
   {
     "id": "00664",
     "description": "Staropramen",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "734",
-    "grade": ""
+    "storage id": "734"
   },
   {
     "id": "00665",
     "description": "Staropramen",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "760",
-    "grade": ""
+    "storage id": "760"
   },
   {
     "id": "00666",
     "description": "Stankuv",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "746",
-    "grade": ""
+    "storage id": "746"
   },
   {
     "id": "00667",
     "description": "Kout na Sumave",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "415",
-    "grade": ""
+    "storage id": "415"
   },
   {
     "id": "00668",
     "description": "Sagres",
     "country": "Portugal",
     "letter": "S",
-    "storage id": "745",
-    "grade": ""
+    "storage id": "745"
   },
   {
     "id": "00669",
     "description": "Super Bock",
     "country": "Portugal",
     "letter": "S",
-    "storage id": "743",
-    "grade": ""
+    "storage id": "743"
   },
   {
     "id": "00670",
     "description": "Falkenstejn",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "742",
-    "grade": ""
+    "storage id": "742"
   },
   {
     "id": "00671",
     "description": "Stojaka",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "741",
-    "grade": ""
+    "storage id": "741"
   },
   {
     "id": "00672",
     "description": "Stouterik",
     "country": "Belgium",
     "letter": "S",
-    "storage id": "759",
-    "grade": ""
+    "storage id": "759"
   },
   {
     "id": "00673",
     "description": "Stiegl",
     "country": "Austria",
     "letter": "S",
-    "storage id": "757",
-    "grade": ""
+    "storage id": "757"
   },
   {
     "id": "00674",
     "description": "Scala",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "756",
-    "grade": ""
+    "storage id": "756"
   },
   {
     "id": "00675",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "783",
-    "grade": ""
+    "storage id": "783"
   },
   {
     "id": "00676",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "784",
-    "grade": ""
+    "storage id": "784"
   },
   {
     "id": "00677",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "777",
-    "grade": ""
+    "storage id": "777"
   },
   {
     "id": "00678",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "775",
-    "grade": ""
+    "storage id": "775"
   },
   {
     "id": "00679",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "776",
-    "grade": ""
+    "storage id": "776"
   },
   {
     "id": "00680",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "774",
-    "grade": ""
+    "storage id": "774"
   },
   {
     "id": "00681",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "773",
-    "grade": ""
+    "storage id": "773"
   },
   {
     "id": "00682",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "771",
-    "grade": ""
+    "storage id": "771"
   },
   {
     "id": "00683",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "772",
-    "grade": ""
+    "storage id": "772"
   },
   {
     "id": "00684",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "770",
-    "grade": ""
+    "storage id": "770"
   },
   {
     "id": "00685",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "769",
-    "grade": ""
+    "storage id": "769"
   },
   {
     "id": "00686",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "767",
-    "grade": ""
+    "storage id": "767"
   },
   {
     "id": "00687",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "768",
-    "grade": ""
+    "storage id": "768"
   },
   {
     "id": "00688",
     "description": "Super Bock",
     "country": "Portugal",
     "letter": "S",
-    "storage id": "744",
-    "grade": ""
+    "storage id": "744"
   },
   {
     "id": "00689",
     "description": "St Feuillien",
     "country": "Belgium",
     "letter": "S",
-    "storage id": "732",
-    "grade": ""
+    "storage id": "732"
   },
   {
     "id": "00690",
     "description": "Tyskie",
     "country": "Poland",
     "letter": "T",
-    "storage id": "825",
-    "grade": ""
+    "storage id": "825"
   },
   {
     "id": "00691",
     "description": "Tyskie",
     "country": "Poland",
     "letter": "T",
-    "storage id": "826",
-    "grade": ""
+    "storage id": "826"
   },
   {
     "id": "00692",
     "description": "Tyskie",
     "country": "Poland",
     "letter": "T",
-    "storage id": "827",
-    "grade": ""
+    "storage id": "827"
   },
   {
     "id": "00693",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "891",
-    "grade": ""
+    "storage id": "891"
   },
   {
     "id": "00694",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "890",
-    "grade": ""
+    "storage id": "890"
   },
   {
     "id": "00695",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "889",
-    "grade": ""
+    "storage id": "889"
   },
   {
     "id": "00696",
     "description": "Utopia Cajovna",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "912",
-    "grade": ""
+    "storage id": "912"
   },
   {
     "id": "00697",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "892",
-    "grade": ""
+    "storage id": "892"
   },
   {
     "id": "00698",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "893",
-    "grade": ""
+    "storage id": "893"
   },
   {
     "id": "00699",
     "description": "Volt Jablonecky",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "944",
-    "grade": ""
+    "storage id": "944"
   },
   {
     "id": "00700",
     "description": "Volt Jablonecky",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "943",
-    "grade": ""
+    "storage id": "943"
   },
   {
     "id": "00701",
     "description": "Veldensteiner",
     "country": "Germany",
     "letter": "V",
-    "storage id": "952",
-    "grade": ""
+    "storage id": "952"
   },
   {
     "id": "00702",
     "description": "Veldensteiner",
     "country": "Germany",
     "letter": "V",
-    "storage id": "951",
-    "grade": ""
+    "storage id": "951"
   },
   {
     "id": "00703",
     "description": "Vegalite",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "954",
-    "grade": ""
+    "storage id": "954"
   },
   {
     "id": "00704",
     "description": "Vinohradsky",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "953",
-    "grade": ""
+    "storage id": "953"
   },
   {
     "id": "00705",
     "description": "Visoky Chlumec",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "956",
-    "grade": ""
+    "storage id": "956"
   },
   {
     "id": "00706",
     "description": "Victor",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "955",
-    "grade": ""
+    "storage id": "955"
   },
   {
     "id": "00707",
     "description": "Zipfer",
     "country": "Germany",
     "letter": "Z",
-    "storage id": "939",
-    "grade": ""
+    "storage id": "939"
   },
   {
     "id": "00708",
     "description": "Zatec",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "941",
-    "grade": ""
+    "storage id": "941"
   },
   {
     "id": "00709",
     "description": "Zichovec",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "923",
-    "grade": ""
+    "storage id": "923"
   },
   {
     "id": "00710",
     "description": "Zlatopramen",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "917",
-    "grade": ""
+    "storage id": "917"
   },
   {
     "id": "00711",
     "description": "Zlaty Bazant",
     "country": "Slovakia",
     "letter": "Z",
-    "storage id": "918",
-    "grade": ""
+    "storage id": "918"
   },
   {
     "id": "00712",
     "description": "",
     "country": "Czechia",
     "letter": "",
-    "storage id": "820",
-    "grade": ""
+    "storage id": "820"
   },
   {
     "id": "00713",
     "description": "",
     "country": "Czechia",
     "letter": "",
-    "storage id": "817",
-    "grade": ""
+    "storage id": "817"
   },
   {
     "id": "00714",
     "description": "",
     "country": "Czechia",
     "letter": "",
-    "storage id": "819",
-    "grade": ""
+    "storage id": "819"
   },
   {
     "id": "00715",
     "description": "",
     "country": "Czechia",
     "letter": "",
-    "storage id": "818",
-    "grade": ""
+    "storage id": "818"
   },
   {
     "id": "00716",
     "description": "Beirao",
     "country": "Portugal",
     "letter": "B",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00717",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00718",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00719",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00720",
     "description": "Breznak",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00721",
     "description": "Beznoska",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00722",
     "description": "Zalozna",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00723",
     "description": "Zalozna",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00724",
     "description": "Karlicek",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00725",
     "description": "Lasagneria",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00726",
     "description": "Karlicek",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00727",
     "description": "",
     "country": "",
     "letter": "",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00728",
     "description": "Old Cock",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "566",
-    "grade": ""
+    "storage id": "566"
   },
   {
     "id": "00729",
     "description": "Old Cock",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "565",
-    "grade": ""
+    "storage id": "565"
   },
   {
     "id": "00730",
     "description": "Mangy Moose",
     "country": "USA",
     "letter": "M",
-    "storage id": "518",
-    "grade": ""
+    "storage id": "518"
   },
   {
     "id": "00731",
     "description": "Cesky Krumlov",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "189",
-    "grade": ""
+    "storage id": "189"
   },
   {
     "id": "00732",
     "description": "Cesky Krumlov",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "191",
-    "grade": ""
+    "storage id": "191"
   },
   {
     "id": "00733",
     "description": "Cesky Krumlov",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "190",
-    "grade": ""
+    "storage id": "190"
   },
   {
     "id": "00734",
     "description": "Laplace",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "718",
-    "grade": ""
+    "storage id": "718"
   },
   {
     "id": "00735",
     "description": "Lazensky",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "456",
-    "grade": ""
+    "storage id": "456"
   },
   {
     "id": "00736",
     "description": "",
     "country": "Belgium",
     "letter": "",
-    "storage id": "859",
-    "grade": ""
+    "storage id": "859"
   },
   {
     "id": "00737",
     "description": "",
     "country": "Czechia",
     "letter": "",
-    "storage id": "816",
-    "grade": ""
+    "storage id": "816"
   },
   {
     "id": "00738",
     "description": "Kofola",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "490",
-    "grade": ""
+    "storage id": "490"
   },
   {
     "id": "00739",
     "description": "Kofola",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "491",
-    "grade": ""
+    "storage id": "491"
   },
   {
     "id": "00740",
     "description": "Kofola",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "489",
-    "grade": ""
+    "storage id": "489"
   },
   {
     "id": "00741",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "461",
-    "grade": ""
+    "storage id": "461"
   },
   {
     "id": "00742",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "462",
-    "grade": ""
+    "storage id": "462"
   },
   {
     "id": "00743",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "463",
-    "grade": ""
+    "storage id": "463"
   },
   {
     "id": "00744",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "464",
-    "grade": ""
+    "storage id": "464"
   },
   {
     "id": "00745",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "460",
-    "grade": ""
+    "storage id": "460"
   },
   {
     "id": "00746",
     "description": "Krusovice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "458",
-    "grade": ""
+    "storage id": "458"
   },
   {
     "id": "00747",
     "description": "Krusovice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "459",
-    "grade": ""
+    "storage id": "459"
   },
   {
     "id": "00748",
     "description": "Konrad",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "457",
-    "grade": ""
+    "storage id": "457"
   },
   {
     "id": "00749",
     "description": "Kocouri",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "472",
-    "grade": ""
+    "storage id": "472"
   },
   {
     "id": "00750",
     "description": "Kreuzberger",
     "country": "Germany",
     "letter": "K",
-    "storage id": "471",
-    "grade": ""
+    "storage id": "471"
   },
   {
     "id": "00751",
     "description": "Kbely",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "470",
-    "grade": ""
+    "storage id": "470"
   },
   {
     "id": "00752",
     "description": "Karlovarske",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "469",
-    "grade": ""
+    "storage id": "469"
   },
   {
     "id": "00753",
     "description": "Kahan",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "468",
-    "grade": ""
+    "storage id": "468"
   },
   {
     "id": "00754",
     "description": "Knir",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "467",
-    "grade": ""
+    "storage id": "467"
   },
   {
     "id": "00755",
     "description": "Kasteel",
     "country": "Belgium",
     "letter": "K",
-    "storage id": "480",
-    "grade": ""
+    "storage id": "480"
   },
   {
     "id": "00756",
     "description": "Kamenice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "466",
-    "grade": ""
+    "storage id": "466"
   },
   {
     "id": "00757",
     "description": "Kamenice",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "465",
-    "grade": ""
+    "storage id": "465"
   },
   {
     "id": "00758",
     "description": "Krusnohor",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "479",
-    "grade": ""
+    "storage id": "479"
   },
   {
     "id": "00759",
     "description": "Wieselburg",
     "country": "Austria",
     "letter": "W",
-    "storage id": "478",
-    "grade": ""
+    "storage id": "478"
   },
   {
     "id": "00760",
     "description": "Kornuit",
     "country": "Netherlands",
     "letter": "K",
-    "storage id": "477",
-    "grade": ""
+    "storage id": "477"
   },
   {
     "id": "00761",
     "description": "Krumauer",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "476",
-    "grade": ""
+    "storage id": "476"
   },
   {
     "id": "00762",
     "description": "Krusovice",
     "country": "Slovakia",
     "letter": "K",
-    "storage id": "475",
-    "grade": ""
+    "storage id": "475"
   },
   {
     "id": "00763",
     "description": "Kelt",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "474",
-    "grade": ""
+    "storage id": "474"
   },
   {
     "id": "00764",
     "description": "Tovarna",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "473",
-    "grade": ""
+    "storage id": "473"
   },
   {
     "id": "00765",
     "description": "Kutna Hora",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "488",
-    "grade": ""
+    "storage id": "488"
   },
   {
     "id": "00766",
     "description": "Kutna Hora",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "486",
-    "grade": ""
+    "storage id": "486"
   },
   {
     "id": "00767",
     "description": "Kutna Hora",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "487",
-    "grade": ""
+    "storage id": "487"
   },
   {
     "id": "00768",
     "description": "Kutna Hora",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "485",
-    "grade": ""
+    "storage id": "485"
   },
   {
     "id": "00769",
     "description": "Kairos",
     "country": "Brazil",
     "letter": "K",
-    "storage id": "482",
-    "grade": ""
+    "storage id": "482"
   },
   {
     "id": "00770",
     "description": "Kasteel",
     "country": "Belgium",
     "letter": "K",
-    "storage id": "484",
-    "grade": ""
+    "storage id": "484"
   },
   {
     "id": "00771",
     "description": "Kwak",
     "country": "Belgium",
     "letter": "K",
-    "storage id": "483",
-    "grade": ""
+    "storage id": "483"
   },
   {
     "id": "00772",
     "description": "Kujebak",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "481",
-    "grade": ""
+    "storage id": "481"
   },
   {
     "id": "00773",
     "description": "Bird",
     "country": "Netherlands",
     "letter": "B",
-    "storage id": "107",
-    "grade": ""
+    "storage id": "107"
   },
   {
     "id": "00774",
     "description": "Brew Dog",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "108",
-    "grade": ""
+    "storage id": "108"
   },
   {
     "id": "00775",
     "description": "Baptist",
     "country": "Belgium",
     "letter": "B",
-    "storage id": "44",
-    "grade": ""
+    "storage id": "44"
   },
   {
     "id": "00776",
     "description": "Baran",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "110",
-    "grade": ""
+    "storage id": "110"
   },
   {
     "id": "00777",
     "description": "Berliner Berg",
     "country": "Germany",
     "letter": "B",
-    "storage id": "111",
-    "grade": ""
+    "storage id": "111"
   },
   {
     "id": "00778",
     "description": "Beers & Cheers",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "113",
-    "grade": ""
+    "storage id": "113"
   },
   {
     "id": "00779",
     "description": "Bubenec",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "42",
-    "grade": ""
+    "storage id": "42"
   },
   {
     "id": "00780",
     "description": "Klubovna",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "41",
-    "grade": ""
+    "storage id": "41"
   },
   {
     "id": "00781",
     "description": "Bulldog",
     "country": "Netherlands",
     "letter": "B",
-    "storage id": "143",
-    "grade": ""
+    "storage id": "143"
   },
   {
     "id": "00782",
     "description": "Brothers in Law",
     "country": "Netherlands",
     "letter": "B",
-    "storage id": "144",
-    "grade": ""
+    "storage id": "144"
   },
   {
     "id": "00783",
     "description": "Beskydsky",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "142",
-    "grade": ""
+    "storage id": "142"
   },
   {
     "id": "00784",
     "description": "Beskydsky",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "141",
-    "grade": ""
+    "storage id": "141"
   },
   {
     "id": "00785",
     "description": "Beskydsky",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "140",
-    "grade": ""
+    "storage id": "140"
   },
   {
     "id": "00786",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "139",
-    "grade": ""
+    "storage id": "139"
   },
   {
     "id": "00787",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "138",
-    "grade": ""
+    "storage id": "138"
   },
   {
     "id": "00788",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "137",
-    "grade": ""
+    "storage id": "137"
   },
   {
     "id": "00789",
     "description": "Budvar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "136",
-    "grade": ""
+    "storage id": "136"
   },
   {
     "id": "00790",
     "description": "Bakalar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "135",
-    "grade": ""
+    "storage id": "135"
   },
   {
     "id": "00791",
     "description": "Bakalar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "134",
-    "grade": ""
+    "storage id": "134"
   },
   {
     "id": "00792",
     "description": "Blue Moon",
     "country": "Belgium",
     "letter": "B",
-    "storage id": "133",
-    "grade": ""
+    "storage id": "133"
   },
   {
     "id": "00793",
     "description": "Blue Moon",
     "country": "Belgium",
     "letter": "B",
-    "storage id": "132",
-    "grade": ""
+    "storage id": "132"
   },
   {
     "id": "00794",
     "description": "Brouwer",
     "country": "Belgium",
     "letter": "B",
-    "storage id": "131",
-    "grade": ""
+    "storage id": "131"
   },
   {
     "id": "00795",
     "description": "Baguales",
     "country": "Chile",
     "letter": "B",
-    "storage id": "130",
-    "grade": ""
+    "storage id": "130"
   },
   {
     "id": "00796",
     "description": "Britt",
     "country": "Costa Rica",
     "letter": "B",
-    "storage id": "129",
-    "grade": ""
+    "storage id": "129"
   },
   {
     "id": "00797",
     "description": "Bavaria",
     "country": "Germany",
     "letter": "B",
-    "storage id": "128",
-    "grade": ""
+    "storage id": "128"
   },
   {
     "id": "00798",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "126",
-    "grade": ""
+    "storage id": "126"
   },
   {
     "id": "00799",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "127",
-    "grade": ""
+    "storage id": "127"
   },
   {
     "id": "00800",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "124",
-    "grade": ""
+    "storage id": "124"
   },
   {
     "id": "00801",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "125",
-    "grade": ""
+    "storage id": "125"
   },
   {
     "id": "00802",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "123",
-    "grade": ""
+    "storage id": "123"
   },
   {
     "id": "00803",
     "description": "Belzebuth",
     "country": "Belgium",
     "letter": "B",
-    "storage id": "122",
-    "grade": ""
+    "storage id": "122"
   },
   {
     "id": "00804",
     "description": "Branik",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "121",
-    "grade": ""
+    "storage id": "121"
   },
   {
     "id": "00805",
     "description": "Barkotex",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "120",
-    "grade": ""
+    "storage id": "120"
   },
   {
     "id": "00806",
     "description": "Barao",
     "country": "Brazil",
     "letter": "B",
-    "storage id": "119",
-    "grade": ""
+    "storage id": "119"
   },
   {
     "id": "00807",
     "description": "Becherovka",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "118",
-    "grade": ""
+    "storage id": "118"
   },
   {
     "id": "00808",
     "description": "Becherovka",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "117",
-    "grade": ""
+    "storage id": "117"
   },
   {
     "id": "00809",
     "description": "Becherovka",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "116",
-    "grade": ""
+    "storage id": "116"
   },
   {
     "id": "00810",
     "description": "Brasserie de la Senne",
     "country": "Belgium",
     "letter": "B",
-    "storage id": "114",
-    "grade": ""
+    "storage id": "114"
   },
   {
     "id": "00811",
     "description": "Becks",
     "country": "Germany",
     "letter": "B",
-    "storage id": "115",
-    "grade": ""
+    "storage id": "115"
   },
   {
     "id": "00812",
     "description": "Bohemia",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "112",
-    "grade": ""
+    "storage id": "112"
   },
   {
     "id": "00813",
     "description": "Staropramen",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "787",
-    "grade": ""
+    "storage id": "787"
   },
   {
     "id": "00814",
     "description": "Saris",
     "country": "Slovakia",
     "letter": "S",
-    "storage id": "785",
-    "grade": ""
+    "storage id": "785"
   },
   {
     "id": "00815",
     "description": "Samuel Adams",
     "country": "USA",
     "letter": "S",
-    "storage id": "804",
-    "grade": ""
+    "storage id": "804"
   },
   {
     "id": "00816",
     "description": "Sagres",
     "country": "Portugal",
     "letter": "S",
-    "storage id": "801",
-    "grade": ""
+    "storage id": "801"
   },
   {
     "id": "00817",
     "description": "San Miguel",
     "country": "Spain",
     "letter": "S",
-    "storage id": "803",
-    "grade": ""
+    "storage id": "803"
   },
   {
     "id": "00818",
     "description": "Strakonice",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "802",
-    "grade": ""
+    "storage id": "802"
   },
   {
     "id": "00819",
     "description": "Saris",
     "country": "Slovakia",
     "letter": "S",
-    "storage id": "786",
-    "grade": ""
+    "storage id": "786"
   },
   {
     "id": "00820",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "813",
-    "grade": ""
+    "storage id": "813"
   },
   {
     "id": "00821",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "815",
-    "grade": ""
+    "storage id": "815"
   },
   {
     "id": "00822",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "814",
-    "grade": ""
+    "storage id": "814"
   },
   {
     "id": "00823",
     "description": "Silly",
     "country": "Belgium",
     "letter": "S",
-    "storage id": "805",
-    "grade": ""
+    "storage id": "805"
   },
   {
     "id": "00824",
     "description": "Silly",
     "country": "Belgium",
     "letter": "S",
-    "storage id": "806",
-    "grade": ""
+    "storage id": "806"
   },
   {
     "id": "00825",
     "description": "Solnice",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "798",
-    "grade": ""
+    "storage id": "798"
   },
   {
     "id": "00826",
     "description": "Snake River",
     "country": "USA",
     "letter": "S",
-    "storage id": "807",
-    "grade": ""
+    "storage id": "807"
   },
   {
     "id": "00827",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "810",
-    "grade": ""
+    "storage id": "810"
   },
   {
     "id": "00828",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "811",
-    "grade": ""
+    "storage id": "811"
   },
   {
     "id": "00829",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "812",
-    "grade": ""
+    "storage id": "812"
   },
   {
     "id": "00830",
     "description": "Seicha",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "797",
-    "grade": ""
+    "storage id": "797"
   },
   {
     "id": "00831",
     "description": "SUP",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "800",
-    "grade": ""
+    "storage id": "800"
   },
   {
     "id": "00832",
     "description": "SUP",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "799",
-    "grade": ""
+    "storage id": "799"
   },
   {
     "id": "00833",
     "description": "Schazenbrau",
     "country": "Germany",
     "letter": "S",
-    "storage id": "794",
-    "grade": ""
+    "storage id": "794"
   },
   {
     "id": "00834",
     "description": "SQBRU",
     "country": "Belgium",
     "letter": "S",
-    "storage id": "796",
-    "grade": ""
+    "storage id": "796"
   },
   {
     "id": "00835",
     "description": "Spejle",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "795",
-    "grade": ""
+    "storage id": "795"
   },
   {
     "id": "00836",
     "description": "Spacal",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "793",
-    "grade": ""
+    "storage id": "793"
   },
   {
     "id": "00837",
     "description": "Samson",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "791",
-    "grade": ""
+    "storage id": "791"
   },
   {
     "id": "00838",
     "description": "Super Bock",
     "country": "Portugal",
     "letter": "S",
-    "storage id": "789",
-    "grade": ""
+    "storage id": "789"
   },
   {
     "id": "00839",
     "description": "Sv Norbert",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "792",
-    "grade": ""
+    "storage id": "792"
   },
   {
     "id": "00840",
     "description": "Stonebrewing",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "788",
-    "grade": ""
+    "storage id": "788"
   },
   {
     "id": "00841",
     "description": "Svabin",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "790",
-    "grade": ""
+    "storage id": "790"
   },
   {
     "id": "00842",
     "description": "Schweppes",
     "country": "Switzerland",
     "letter": "S",
-    "storage id": "808",
-    "grade": ""
+    "storage id": "808"
   },
   {
     "id": "00843",
     "description": "Pepsi",
     "country": "",
     "letter": "P",
-    "storage id": "719",
-    "grade": ""
+    "storage id": "719"
   },
   {
     "id": "00844",
     "description": "Probier",
     "country": "Brazil",
     "letter": "P",
-    "storage id": "716",
-    "grade": ""
+    "storage id": "716"
   },
   {
     "id": "00845",
     "description": "Prazacka",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "715",
-    "grade": ""
+    "storage id": "715"
   },
   {
     "id": "00846",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "723",
-    "grade": ""
+    "storage id": "723"
   },
   {
     "id": "00847",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "724",
-    "grade": ""
+    "storage id": "724"
   },
   {
     "id": "00848",
     "description": "Perrier",
     "country": "Belgium",
     "letter": "P",
-    "storage id": "711",
-    "grade": ""
+    "storage id": "711"
   },
   {
     "id": "00849",
     "description": "Perrier",
     "country": "Belgium",
     "letter": "P",
-    "storage id": "712",
-    "grade": ""
+    "storage id": "712"
   },
   {
     "id": "00850",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "727",
-    "grade": ""
+    "storage id": "727"
   },
   {
     "id": "00851",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "725",
-    "grade": ""
+    "storage id": "725"
   },
   {
     "id": "00852",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "726",
-    "grade": ""
+    "storage id": "726"
   },
   {
     "id": "00853",
     "description": "Poctiva",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "710",
-    "grade": ""
+    "storage id": "710"
   },
   {
     "id": "00854",
     "description": "Podripsky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "709",
-    "grade": ""
+    "storage id": "709"
   },
   {
     "id": "00855",
     "description": "Permon",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "707",
-    "grade": ""
+    "storage id": "707"
   },
   {
     "id": "00856",
     "description": "Pardubicky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "705",
-    "grade": ""
+    "storage id": "705"
   },
   {
     "id": "00857",
     "description": "Pardubicky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "706",
-    "grade": ""
+    "storage id": "706"
   },
   {
     "id": "00858",
     "description": "Pocernicky",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "704",
-    "grade": ""
+    "storage id": "704"
   },
   {
     "id": "00859",
     "description": "Peroni",
     "country": "Netherlands",
     "letter": "P",
-    "storage id": "708",
-    "grade": ""
+    "storage id": "708"
   },
   {
     "id": "00860",
     "description": "Primator",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "702",
-    "grade": ""
+    "storage id": "702"
   },
   {
     "id": "00861",
     "description": "Primator",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "701",
-    "grade": ""
+    "storage id": "701"
   },
   {
     "id": "00862",
     "description": "Primator",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "703",
-    "grade": ""
+    "storage id": "703"
   },
   {
     "id": "00863",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "722",
-    "grade": ""
+    "storage id": "722"
   },
   {
     "id": "00864",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "720",
-    "grade": ""
+    "storage id": "720"
   },
   {
     "id": "00865",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "728",
-    "grade": ""
+    "storage id": "728"
   },
   {
     "id": "00866",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "721",
-    "grade": ""
+    "storage id": "721"
   },
   {
     "id": "00867",
     "description": "PID",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "697",
-    "grade": ""
+    "storage id": "697"
   },
   {
     "id": "00868",
     "description": "Nonkel Pater",
     "country": "Belgium",
     "letter": "N",
-    "storage id": "698",
-    "grade": ""
+    "storage id": "698"
   },
   {
     "id": "00869",
     "description": "Prager Laffe",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "699",
-    "grade": ""
+    "storage id": "699"
   },
   {
     "id": "00870",
     "description": "Pronck",
     "country": "Netherlands",
     "letter": "P",
-    "storage id": "696",
-    "grade": ""
+    "storage id": "696"
   },
   {
     "id": "00871",
     "description": "Petrus",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "700",
-    "grade": ""
+    "storage id": "700"
   },
   {
     "id": "00872",
     "description": "U Pivrnce",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "714",
-    "grade": ""
+    "storage id": "714"
   },
   {
     "id": "00873",
     "description": "Tripple Crown",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "856",
-    "grade": ""
+    "storage id": "856"
   },
   {
     "id": "00874",
     "description": "Permon",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "255",
-    "grade": ""
+    "storage id": "255"
   },
   {
     "id": "00875",
     "description": "Pocernak",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "713",
-    "grade": ""
+    "storage id": "713"
   },
   {
     "id": "00876",
     "description": "Bad Flash",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "45",
-    "grade": ""
+    "storage id": "45"
   },
   {
     "id": "00877",
     "description": "Bad Flash",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "46",
-    "grade": ""
+    "storage id": "46"
   },
   {
     "id": "00878",
     "description": "Bad Flash",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "47",
-    "grade": ""
+    "storage id": "47"
   },
   {
     "id": "00879",
     "description": "Bad Flash",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "48",
-    "grade": ""
+    "storage id": "48"
   },
   {
     "id": "00880",
     "description": "Bad Flash",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "695",
-    "grade": ""
+    "storage id": "695"
   },
   {
     "id": "00881",
     "description": "Lupia",
     "country": "Spain",
     "letter": "L",
-    "storage id": "690",
-    "grade": ""
+    "storage id": "690"
   },
   {
     "id": "00882",
     "description": "Heteroclito",
     "country": "Greece",
     "letter": "H",
-    "storage id": "347",
-    "grade": ""
+    "storage id": "347"
   },
   {
     "id": "00883",
     "description": "La Hechicera",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "348",
-    "grade": ""
+    "storage id": "348"
   },
   {
     "id": "00884",
     "description": "Erdinger",
     "country": "Germany",
     "letter": "E",
-    "storage id": "230",
-    "grade": ""
+    "storage id": "230"
   },
   {
     "id": "00885",
     "description": "Ottakringer",
     "country": "Austria",
     "letter": "O",
-    "storage id": "694",
-    "grade": ""
+    "storage id": "694"
   },
   {
     "id": "00886",
     "description": "Porter",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "717",
-    "grade": ""
+    "storage id": "717"
   },
   {
     "id": "00887",
     "description": "Groove Bar",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "295",
-    "grade": ""
+    "storage id": "295"
   },
   {
     "id": "00888",
     "description": "Together",
     "country": "Czechia",
     "letter": "T",
-    "storage id": "857",
-    "grade": ""
+    "storage id": "857"
   },
   {
     "id": "00889",
     "description": "Mustang",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "544",
-    "grade": ""
+    "storage id": "544"
   },
   {
     "id": "00890",
     "description": "Barnie",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "109",
-    "grade": ""
+    "storage id": "109"
   },
   {
     "id": "00891",
     "description": "Kasteel",
     "country": "Belgium",
     "letter": "K",
-    "storage id": "416",
-    "grade": ""
+    "storage id": "416"
   },
   {
     "id": "00892",
     "description": "Andelsky",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "31",
-    "grade": ""
+    "storage id": "31"
   },
   {
     "id": "00893",
     "description": "Super Bock",
     "country": "Portugal",
     "letter": "S",
-    "storage id": "809",
-    "grade": ""
+    "storage id": "809"
   },
   {
     "id": "00894",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "296",
-    "grade": ""
+    "storage id": "296"
   },
   {
     "id": "00895",
     "description": "Castello",
     "country": "Portugal",
     "letter": "C",
-    "storage id": "256",
-    "grade": ""
+    "storage id": "256"
   },
   {
     "id": "00896",
     "description": "U Orloje",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "568",
-    "grade": ""
+    "storage id": "568"
   },
   {
     "id": "00897",
     "description": "U Orloje",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "567",
-    "grade": ""
+    "storage id": "567"
   },
   {
     "id": "00898",
     "description": "Zatec",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "924",
-    "grade": ""
+    "storage id": "924"
   },
   {
     "id": "00899",
     "description": "Chyse",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "231",
-    "grade": ""
+    "storage id": "231"
   },
   {
     "id": "00900",
     "description": "Chyse",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "232",
-    "grade": ""
+    "storage id": "232"
   },
   {
     "id": "00901",
     "description": "Chyse",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "192",
-    "grade": ""
+    "storage id": "192"
   },
   {
     "id": "00902",
     "description": "U Orloje",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "693",
-    "grade": ""
+    "storage id": "693"
   },
   {
     "id": "00903",
     "description": "Zatec",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "SS",
-    "grade": ""
+    "storage id": "SS"
   },
   {
     "id": "00904",
     "description": "Holba",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "349",
-    "grade": ""
+    "storage id": "349"
   },
   {
     "id": "00905",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "692",
-    "grade": ""
+    "storage id": "692"
   },
   {
     "id": "00906",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "691",
-    "grade": ""
+    "storage id": "691"
   },
   {
     "id": "00907",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "914",
-    "grade": ""
+    "storage id": "914"
   },
   {
     "id": "00908",
     "description": "Zichovec",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "922",
-    "grade": ""
+    "storage id": "922"
   },
   {
     "id": "00909",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "915",
-    "grade": ""
+    "storage id": "915"
   },
   {
     "id": "00910",
     "description": "Gianni Franzi",
     "country": "Italy",
     "letter": "G",
-    "storage id": "639",
-    "grade": ""
+    "storage id": "639"
   },
   {
     "id": "00911",
     "description": "Gianni Franzi",
     "country": "Italy",
     "letter": "G",
-    "storage id": "640",
-    "grade": ""
+    "storage id": "640"
   },
   {
     "id": "00912",
     "description": "Pavilhao Chines",
     "country": "Portugal",
     "letter": "P",
-    "storage id": "635",
-    "grade": ""
+    "storage id": "635"
   },
   {
     "id": "00913",
     "description": "The Dior",
     "country": "Italy",
     "letter": "D",
-    "storage id": "216",
-    "grade": ""
+    "storage id": "216"
   },
   {
     "id": "00914",
     "description": "Menabrea",
     "country": "Italy",
     "letter": "M",
-    "storage id": "870",
-    "grade": ""
+    "storage id": "870"
   },
   {
     "id": "00915",
     "description": "VZO",
     "country": "Italy",
     "letter": "V",
-    "storage id": "957",
-    "grade": ""
+    "storage id": "957"
   },
   {
     "id": "00916",
     "description": "Beer Port",
     "country": "Slovakia",
     "letter": "B",
-    "storage id": "43",
-    "grade": ""
+    "storage id": "43"
   },
   {
     "id": "00917",
     "description": "Krusovice",
     "country": "Slovakia",
     "letter": "K",
-    "storage id": "492",
-    "grade": ""
+    "storage id": "492"
   },
   {
     "id": "00918",
     "description": "Pilsner Urquell",
     "country": "Slovakia",
     "letter": "P",
-    "storage id": "634",
-    "grade": ""
+    "storage id": "634"
   },
   {
     "id": "00919",
     "description": "Ovipistan",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "642",
-    "grade": ""
+    "storage id": "642"
   },
   {
     "id": "00920",
     "description": "Ovipistan",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "643",
-    "grade": ""
+    "storage id": "643"
   },
   {
     "id": "00921",
     "description": "Ovipistan",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "644",
-    "grade": ""
+    "storage id": "644"
   },
   {
     "id": "00922",
     "description": "Ovipistan",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "645",
-    "grade": ""
+    "storage id": "645"
   },
   {
     "id": "00923",
     "description": "Ovipistan",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "646",
-    "grade": ""
+    "storage id": "646"
   },
   {
     "id": "00924",
     "description": "Barn",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "365",
-    "grade": ""
+    "storage id": "365"
   },
   {
     "id": "00925",
     "description": "U Vojtechu",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "656",
-    "grade": ""
+    "storage id": "656"
   },
   {
     "id": "00926",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "647",
-    "grade": ""
+    "storage id": "647"
   },
   {
     "id": "00927",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "648",
-    "grade": ""
+    "storage id": "648"
   },
   {
     "id": "00928",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "649",
-    "grade": ""
+    "storage id": "649"
   },
   {
     "id": "00929",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "650",
-    "grade": ""
+    "storage id": "650"
   },
   {
     "id": "00930",
     "description": "Clock",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "363",
-    "grade": ""
+    "storage id": "363"
   },
   {
     "id": "00931",
     "description": "Opatovicky",
     "country": "Czechia",
     "letter": "O",
-    "storage id": "638",
-    "grade": ""
+    "storage id": "638"
   },
   {
     "id": "00932",
     "description": "Lobkowicz",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "455",
-    "grade": ""
+    "storage id": "455"
   },
   {
     "id": "00933",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "636",
-    "grade": ""
+    "storage id": "636"
   },
   {
     "id": "00934",
     "description": "Raven",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "493",
-    "grade": ""
+    "storage id": "493"
   },
   {
     "id": "00935",
     "description": "Pecky Snezka",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "494",
-    "grade": ""
+    "storage id": "494"
   },
   {
     "id": "00936",
     "description": "Antos",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "32",
-    "grade": ""
+    "storage id": "32"
   },
   {
     "id": "00937",
     "description": "Loutkar",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "367",
-    "grade": ""
+    "storage id": "367"
   },
   {
     "id": "00938",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "651",
-    "grade": ""
+    "storage id": "651"
   },
   {
     "id": "00939",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "652",
-    "grade": ""
+    "storage id": "652"
   },
   {
     "id": "00940",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "653",
-    "grade": ""
+    "storage id": "653"
   },
   {
     "id": "00941",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "654",
-    "grade": ""
+    "storage id": "654"
   },
   {
     "id": "00942",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "655",
-    "grade": ""
+    "storage id": "655"
   },
   {
     "id": "00943",
     "description": "Klenot",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "368",
-    "grade": ""
+    "storage id": "368"
   },
   {
     "id": "00944",
     "description": "Mordyr",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "496",
-    "grade": ""
+    "storage id": "496"
   },
   {
     "id": "00945",
     "description": "Pilsner Urquell",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "495",
-    "grade": ""
+    "storage id": "495"
   },
   {
     "id": "00946",
     "description": "Hubertus",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "351",
-    "grade": ""
+    "storage id": "351"
   },
   {
     "id": "00947",
     "description": "Falkenstejn",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "366",
-    "grade": ""
+    "storage id": "366"
   },
   {
     "id": "00948",
     "description": "Hubertus",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "352",
-    "grade": ""
+    "storage id": "352"
   },
   {
     "id": "00949",
     "description": "Craft Beer",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "364",
-    "grade": ""
+    "storage id": "364"
   },
   {
     "id": "00950",
     "description": "Hostivar",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "350",
-    "grade": ""
+    "storage id": "350"
   },
   {
     "id": "00951",
     "description": "Chouffe",
     "country": "Belgium",
     "letter": "C",
-    "storage id": "184",
-    "grade": ""
+    "storage id": "184"
   },
   {
     "id": "00952",
     "description": "Chouffe",
     "country": "Belgium",
     "letter": "C",
-    "storage id": "185",
-    "grade": ""
+    "storage id": "185"
   },
   {
     "id": "00953",
     "description": "Carolus",
     "country": "Belgium",
     "letter": "C",
-    "storage id": "186",
-    "grade": ""
+    "storage id": "186"
   },
   {
     "id": "00954",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "280",
-    "grade": ""
+    "storage id": "280"
   },
   {
     "id": "00955",
     "description": "Gambrinus",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "281",
-    "grade": ""
+    "storage id": "281"
   },
   {
     "id": "00956",
     "description": "Axiom",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "871",
-    "grade": ""
+    "storage id": "871"
   },
   {
     "id": "00957",
     "description": "Bernard",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "872",
-    "grade": ""
+    "storage id": "872"
   },
   {
     "id": "00958",
     "description": "Cestmir",
     "country": "Czechia",
     "letter": "C",
-    "storage id": "873",
-    "grade": ""
+    "storage id": "873"
   },
   {
     "id": "00959",
     "description": "Hradec Kralove",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "874",
-    "grade": ""
+    "storage id": "874"
   },
   {
     "id": "00960",
     "description": "Kozel",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "875",
-    "grade": ""
+    "storage id": "875"
   },
   {
     "id": "00961",
     "description": "Kofola",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "876",
-    "grade": ""
+    "storage id": "876"
   },
   {
     "id": "00962",
     "description": "Primator",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "877",
-    "grade": ""
+    "storage id": "877"
   },
   {
     "id": "00963",
     "description": "Rimska",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "878",
-    "grade": ""
+    "storage id": "878"
   },
   {
     "id": "00964",
     "description": "Permon",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "879",
-    "grade": ""
+    "storage id": "879"
   },
   {
     "id": "00965",
     "description": "Gerhard",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "880",
-    "grade": ""
+    "storage id": "880"
   },
   {
     "id": "00966",
     "description": "Kynspersky",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "881",
-    "grade": ""
+    "storage id": "881"
   },
   {
     "id": "00967",
     "description": "Uneticky",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "882",
-    "grade": ""
+    "storage id": "882"
   },
   {
     "id": "00968",
     "description": "JAT'",
     "country": "Belgium",
     "letter": "J",
-    "storage id": "883",
-    "grade": ""
+    "storage id": "883"
   },
   {
     "id": "00969",
     "description": "Acropolis",
     "country": "Spain",
     "letter": "A",
-    "storage id": "884",
-    "grade": ""
+    "storage id": "884"
   },
   {
     "id": "00970",
     "description": "Sibeeria",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "885",
-    "grade": ""
+    "storage id": "885"
   },
   {
     "id": "00971",
     "description": "Beskydsky",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "886",
-    "grade": ""
+    "storage id": "886"
   },
   {
     "id": "00972",
     "description": "Jung Berg",
     "country": "Czechia",
     "letter": "J",
-    "storage id": "887",
-    "grade": ""
+    "storage id": "887"
   },
   {
     "id": "00973",
     "description": "Out To Lunch",
     "country": "Portugal",
     "letter": "O",
-    "storage id": "888",
-    "grade": ""
+    "storage id": "888"
   },
   {
     "id": "00974",
     "description": "Paulaner",
     "country": "Germany",
     "letter": "P",
-    "storage id": "959",
-    "grade": ""
+    "storage id": "959"
   },
   {
     "id": "00975",
     "description": "Rebel",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "960",
-    "grade": ""
+    "storage id": "960"
   },
   {
     "id": "00976",
     "description": "Guinness",
     "country": "Czechia",
     "letter": "G",
-    "storage id": "961",
-    "grade": ""
+    "storage id": "961"
   },
   {
     "id": "00977",
     "description": "Starobrno",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "962",
-    "grade": ""
+    "storage id": "962"
   },
   {
     "id": "00978",
     "description": "Poctiva",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "963",
-    "grade": ""
+    "storage id": "963"
   },
   {
     "id": "00979",
     "description": "Poctiva",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "964",
-    "grade": ""
+    "storage id": "964"
   },
   {
     "id": "00980",
     "description": "Poctiva",
     "country": "Czechia",
     "letter": "P",
-    "storage id": "965",
-    "grade": ""
+    "storage id": "965"
   },
   {
     "id": "00981",
     "description": "Maisel",
     "country": "Germany",
     "letter": "M",
-    "storage id": "966",
-    "grade": ""
+    "storage id": "966"
   },
   {
     "id": "00982",
     "description": "Mazak",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "967",
-    "grade": ""
+    "storage id": "967"
   },
   {
     "id": "00983",
     "description": "Matuska",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "968",
-    "grade": ""
+    "storage id": "968"
   },
   {
     "id": "00984",
     "description": "Mazak",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "969",
-    "grade": ""
+    "storage id": "969"
   },
   {
     "id": "00985",
     "description": "Svabin",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "970",
-    "grade": ""
+    "storage id": "970"
   },
   {
     "id": "00986",
     "description": "Svabin",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "971",
-    "grade": ""
+    "storage id": "971"
   },
   {
     "id": "00987",
     "description": "Lod",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "972",
-    "grade": ""
+    "storage id": "972"
   },
   {
     "id": "00988",
     "description": "Lod",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "973",
-    "grade": ""
+    "storage id": "973"
   },
   {
     "id": "00989",
     "description": "Kronenbourg ",
     "country": "France",
     "letter": "K",
-    "storage id": "974",
-    "grade": ""
+    "storage id": "974"
   },
   {
     "id": "00990",
     "description": "Carlsberg",
     "country": "Cyprus",
     "letter": "C",
-    "storage id": "975",
-    "grade": ""
+    "storage id": "975"
   },
   {
     "id": "00991",
     "description": "Madcat",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "976",
-    "grade": ""
+    "storage id": "976"
   },
   {
     "id": "00992",
     "description": "Beerlovers",
     "country": "Austria",
     "letter": "B",
-    "storage id": "977",
-    "grade": ""
+    "storage id": "977"
   },
   {
     "id": "00993",
     "description": "Brew Dog",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "978",
-    "grade": ""
+    "storage id": "978"
   },
   {
     "id": "00994",
     "description": "Kino Pivo",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "979",
-    "grade": ""
+    "storage id": "979"
   },
   {
     "id": "00995",
     "description": "Mythos",
     "country": "Cyprus",
     "letter": "M",
-    "storage id": "980",
-    "grade": ""
+    "storage id": "980"
   },
   {
     "id": "00996",
     "description": "Memories",
     "country": "Cyprus",
     "letter": "M",
-    "storage id": "981",
-    "grade": ""
+    "storage id": "981"
   },
   {
     "id": "00997",
     "description": "Estrella Damn",
     "country": "Cyprus",
     "letter": "E",
-    "storage id": "982",
-    "grade": ""
+    "storage id": "982"
   },
   {
     "id": "00998",
     "description": "Golem",
     "country": "Cyprus",
     "letter": "G",
-    "storage id": "983",
-    "grade": ""
+    "storage id": "983"
   },
   {
     "id": "00999",
     "description": "KEO",
     "country": "Cyprus",
     "letter": "K",
-    "storage id": "984",
-    "grade": ""
+    "storage id": "984"
   },
   {
     "id": "01000",
     "description": "KEO",
     "country": "Cyprus",
     "letter": "K",
-    "storage id": "985",
-    "grade": ""
+    "storage id": "985"
   },
   {
     "id": "01001",
     "description": "Columbia",
     "country": "Cyprus",
     "letter": "C",
-    "storage id": "986",
-    "grade": ""
+    "storage id": "986"
   },
   {
     "id": "01002",
     "description": "U Dvou Kocek",
     "country": "Czechia",
     "letter": "U",
-    "storage id": "987",
-    "grade": ""
+    "storage id": "987"
   },
   {
     "id": "01003",
     "description": "Sdruzeni Pratel Piva",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "988",
-    "grade": ""
+    "storage id": "988"
   },
   {
     "id": "01004",
     "description": "Svabin",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "989",
-    "grade": ""
+    "storage id": "989"
   },
   {
     "id": "01005",
     "description": "Varga Brothers",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "990",
-    "grade": ""
+    "storage id": "990"
   },
   {
     "id": "01006",
     "description": "Kasteel",
     "country": "Belgium",
     "letter": "K",
-    "storage id": "991",
-    "grade": ""
+    "storage id": "991"
   },
   {
     "id": "01007",
     "description": "Efes",
     "country": "Cyprus",
     "letter": "E",
-    "storage id": "992",
-    "grade": ""
+    "storage id": "992"
   },
   {
     "id": "01008",
     "description": "Nachmelena Opice",
     "country": "Czechia",
     "letter": "N",
-    "storage id": "993",
-    "grade": ""
+    "storage id": "993"
   },
   {
     "id": "01009",
     "description": "Agent",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "994",
-    "grade": ""
+    "storage id": "994"
   },
   {
     "id": "01010",
     "description": "Zeliv",
     "country": "Czechia",
     "letter": "Z",
-    "storage id": "995",
-    "grade": ""
+    "storage id": "995"
   },
   {
     "id": "01011",
     "description": "Louka Pivovar",
     "country": "Czechia",
     "letter": "L",
-    "storage id": "996",
-    "grade": ""
+    "storage id": "996"
   },
   {
     "id": "01012",
     "description": "Carolus",
     "country": "Belgium",
     "letter": "C",
-    "storage id": "997",
-    "grade": ""
+    "storage id": "997"
   },
   {
     "id": "01013",
     "description": "Klenot",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "998",
-    "grade": ""
+    "storage id": "998"
   },
   {
     "id": "01014",
     "description": "Anonymous",
     "country": "Czechia",
     "letter": "A",
-    "storage id": "999",
-    "grade": ""
+    "storage id": "999"
   },
   {
     "id": "01015",
     "description": "Starokladno",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "1000",
-    "grade": ""
+    "storage id": "1000"
   },
   {
     "id": "01016",
     "description": "Supa",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "1001",
-    "grade": ""
+    "storage id": "1001"
   },
   {
     "id": "01017",
     "description": "Holba",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "1002",
-    "grade": ""
+    "storage id": "1002"
   },
   {
     "id": "01018",
     "description": "Moravia Pivovar",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "1003",
-    "grade": ""
+    "storage id": "1003"
   },
   {
     "id": "01019",
     "description": "Fairmont Golden Prague",
     "country": "Czechia",
     "letter": "F",
-    "storage id": "1004",
-    "grade": "C"
+    "storage id": "1004"
   },
   {
     "id": "01020",
     "description": "U Veverky",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "1005",
-    "grade": "B"
+    "storage id": "1005"
   },
   {
     "id": "01021",
     "description": "Sibeeria",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "1006",
-    "grade": "B"
+    "storage id": "1006"
   },
   {
     "id": "01022",
     "description": "Kousek",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "1007",
-    "grade": "B"
+    "storage id": "1007"
   },
   {
     "id": "01023",
     "description": "VIK",
     "country": "Czechia",
     "letter": "V",
-    "storage id": "1008",
-    "grade": "C"
+    "storage id": "1008"
   },
   {
     "id": "01024",
     "description": "Krkonossky Medved",
     "country": "Czechia",
     "letter": "K",
-    "storage id": "1009",
-    "grade": "B"
+    "storage id": "1009"
   },
   {
     "id": "01025",
     "description": "Bubenec",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "1010",
-    "grade": "B"
+    "storage id": "1010"
   },
   {
     "id": "01026",
     "description": "Matuska",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "1011",
-    "grade": "A"
+    "storage id": "1011"
   },
   {
     "id": "01027",
     "description": "Matuska",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "1012",
-    "grade": "A"
+    "storage id": "1012"
   },
   {
     "id": "01028",
     "description": "Stella Artois",
     "country": "Belgium",
     "letter": "S",
-    "storage id": "1013",
-    "grade": "A"
+    "storage id": "1013"
   },
   {
     "id": "01029",
     "description": "U Herciku",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "1014",
-    "grade": "B"
+    "storage id": "1014"
   },
   {
     "id": "01030",
     "description": "Bayreuther",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "1015",
-    "grade": "A"
+    "storage id": "1015"
   },
   {
     "id": "01031",
     "description": "Maly Janek",
     "country": "Czechia",
     "letter": "M",
-    "storage id": "1016",
-    "grade": "A"
+    "storage id": "1016"
   },
   {
     "id": "01032",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "1017",
-    "grade": "B"
+    "storage id": "1017"
   },
   {
     "id": "01033",
     "description": "Radegast",
     "country": "Czechia",
     "letter": "R",
-    "storage id": "1018",
-    "grade": "B"
+    "storage id": "1018"
   },
   {
     "id": "01034",
     "description": "Holba",
     "country": "Czechia",
     "letter": "H",
-    "storage id": "1019",
-    "grade": "D"
+    "storage id": "1019"
   },
   {
     "id": "01035",
     "description": "Bakalar",
     "country": "Czechia",
     "letter": "B",
-    "storage id": "1020",
-    "grade": "D"
+    "storage id": "1020"
   },
   {
     "id": "01036",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "1021",
-    "grade": "C"
+    "storage id": "1021"
   },
   {
     "id": "01037",
     "description": "Svijany",
     "country": "Czechia",
     "letter": "S",
-    "storage id": "1022",
-    "grade": "C"
+    "storage id": "1022"
   }
 ]
