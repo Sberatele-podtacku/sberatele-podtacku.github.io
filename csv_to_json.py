@@ -12,7 +12,7 @@ if not CSV_PATH.exists():
     exit(1)
 
 # 1) Read the CSV
-with CSV_PATH.open(newline="", encoding="cp1252") as f:
+with CSV_PATH.open(newline="", encoding="utf-8-sig") as f:
     reader = csv.DictReader(f)
     data   = list(reader)
 
@@ -23,7 +23,7 @@ with CSV_PATH.open(newline="", encoding="cp1252") as f:
 #     r["letter"]      = r["letter"].strip().upper()
 
 # 2) Write the JSON
-with JSON_PATH.open("w", encoding="utf8") as f:
+with JSON_PATH.open("w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 print(f"✅ Exported {len(data)} records → {JSON_PATH}")
